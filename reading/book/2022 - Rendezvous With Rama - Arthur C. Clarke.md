@@ -1,0 +1,50 @@
+---
+public: true
+title: Rendezvous With Rama
+longtitle: Rendezvous With Rama
+author: Arthur C. Clarke
+url: ","
+image: https://m.media-amazon.com/images/I/51q4M5JWvCL._SY160.jpg
+source: kindle
+last_highlight: 2022-06-22
+type: books
+tags:
+  - books
+---
+# Rendezvous With Rama
+
+![rw-book-cover](https://m.media-amazon.com/images/I/51q4M5JWvCL._SY160.jpg)
+
+## Metadata
+- Author: [Arthur C. Clarke](Arthur%20C.%20Clarke.md)
+- Full Title: Rendezvous With Rama
+- Category: #books
+
+## Highlights
+- In a way, it was a pity. An encounter with a dark star would have been quite exciting. While it lasted…. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=141))
+- The images from the other cameras added nothing new. However, the trajectories their pods traced through Rama’s minute gravitational field gave one other vital piece of information: the mass of the cylinder. It was far too light to be a solid body. To nobody’s great surprise, it was clear that Rama must be hollow. The long-hoped-for, long-feared encounter had come at last. Mankind was about to receive the first visitor from the stars. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=172))
+- Whether the colonies liked it or not, Earth would be the cultural and economic overlord of the solar system for centuries to come. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=289))
+- After a century of determined effort, Earth had still failed to get its population below the target of one billion…. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=342))
+- “Now it’s cold and dark and apparently dead, and I think I know why. The Ramans may have had no choice—perhaps they were indeed fleeing from some disaster—but they miscalculated. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=535))
+- “No closed ecology can be one-hundred-per-cent efficient; there is always waste, loss—some degradation of the environment and build-up of pollutants. It may take billions of years to poison and wear out a planet, but it will happen in the end. The oceans will dry up; the atmosphere will leak away. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=536))
+- Rama is a ship that exhausted its provisions before it reached its goal. It’s a derelict, drifting among the stars. ([Location 542](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=542))
+- Myron, like countless NCO’s before him, had discovered the ideal compromise between power and responsibility. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=577))
+- Some women, Commander Norton had decided long ago, should not be allowed aboard ship; weightlessness did things to their breasts that were too damn distracting. It was bad enough when they were motionless; but when they started to move, and sympathetic vibrations set in, it was more than any warm-blooded male should be asked to take. He was quite sure that at least one serious space accident had been caused by acute crew distraction, after the transit of an un-holstered lady officer through the control cabin. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=702))
+- And just once, Dr. Ernst thought she felt the faint suspicion of a breeze against her cheek. It did not come again, and she quickly forgot about it. ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=1074))
+- Absence of noise is not a natural condition; all human senses require some input. If they are deprived of it, the mind manufactures its own substitutes. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=1176))
+- Unlimited energy, unlimited metal: that was Mercury. Its great magnetic launchers could catapult manufactured products to any point in the solar system. ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=1370))
+- “But suppose Rama is able to propel itself—accelerating so that the northern end is forward. The water in the sea would tend to move back; the level at the south would rise, perhaps hundreds of meters. Hence the cliff. Let’s see….” He started scribbling furiously. After an astonishingly short time—it could not have been more than twenty seconds—he looked up in triumph. “Knowing the height of those cliffs, we can calculate the maximum acceleration Rama can take. If it was more than two per cent of a gravity, the sea would slosh over into the southern continent.” “A fiftieth of a gee? That’s not very much.” “For a mass of ten million megatons, it is. And it’s all you need for astronomical maneuvering.” ([Location 1413](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=1413))
+- Rama is a cosmic egg, being warmed by the fires of the Sun. It may hatch at any moment.” ([Location 1431](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=1431))
+- “Very true. So when it reaches perihelion, Rama will have to decelerate and go into a parking orbit—probably one with aphelion at Earth’s orbit. There it might make another velocity change, and rendezvous with Earth.” This was disturbingly persuasive. If Rama wished to remain in the solar system, it was going the right way about it. The most efficient way to slow down was to get as close to the Sun as possible, and carry out the braking maneuver there. If there was any truth in Rodrigo’s theory, or some variant of it, it would soon be put to the test. ([Location 1467](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=1467))
+- I’ve murdered something beautiful, Jimmy said to himself. But then, Rama had killed him. He was only collecting what was his rightful due. ([Location 2218](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2218))
+- Suddenly, in the very center of the sea, a line of breakers appeared. The wave had clearly hit a submerged wall, several kilometers in length, not far below the surface. At the same time, the breakers on the two flanks collapsed as they ran into deeper water. Antislosh plates, Norton told himself—exactly the same as in Endeavour’s own propellant tanks, but on a thousandfold greater scale. There must be a complex pattern of them all around the sea, to damp out any waves as quickly as possible. The only thing that matters now is: are we right on top of one? Sergeant Barnes was one jump ahead of him. She brought Resolution to a full stop and threw out the anchor. It hit bottom at only five meters. “Haul it up!” she called to her crewmates. “We’ve got to get away from here!” ([Location 2348](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2348))
+- As he looked back across that mysterious and now sinister band of water, Norton grimly determined that no one would ever sail it again. There were too many unknowns, too many dangers. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2404))
+- “Usual Raman threefold symmetry. I don’t see how it could hurt us, though those whips might be unpleasant—and they could be poisonous, like a coelenterate’s. Sit tight and see what it does.” ([Location 2428](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2428))
+- They took no further notice of the explorers, and after a while the explorers took little notice of them—though from time to time Norton detected a predatory gleam in his Surgeon Commander’s eye. ([Location 2485](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2485))
+- The confrontation had been anxious but brief. Thereafter, the scavengers seemed to understand what they were allowed to touch, and arrived at regular intervals to see if their services were required. ([Location 2625](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2625))
+- “I believe that telescope gives you a sense of power.” “Oh, it does. I’m the only person who knows everything that’s happening in Rama. At least, I thought I did,” he added plaintively, giving Kirchoff a reproachful look. ([Location 2664](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2664))
+- “Sorry—you must have been sleeping. Or how else could you have dreamed all this?” ([Location 2670](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2670))
+- although Rama was of enormous archeological importance, it did not present any major astropolitical problems. ([Location 2773](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2773))
+- Whatever he did, the possibilities for good or evil seemed in perfect balance. He was faced with the most morally difficult of all decisions. If his choice was wrong he would know very quickly. But if he was right he might never be able to prove it. ([Location 2854](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=2854))
+- “You may run, Skipper, but I intend to leave with dignity. And incidentally, I’ve decided why the biots are so polite to us.” “It’s a little late for a new theory.” “Here it is, anyway. They think we’re Ramans. They can’t tell the difference between one oxy-eater and another.” “I don’t believe they’re that stupid.” “It’s not a matter of stupidity. They’ve been programmed for their particular jobs, and we simply don’t come into their frame of reference.” ([Location 3011](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=3011))
+- Like every astronaut, Norton had been sterilized when he entered the service. For a man who would spend years in space, radiation-induced mutation was not a risk; it was a certainty. The spermatozoon that had just delivered its cargo of genes on Mars, two hundred million kilometers away, had been frozen for thirty years, awaiting its moment of destiny. Norton wondered if he would be home ([Location 3301](https://readwise.io/to_kindle?action=open&asin=B07XD75HGV&location=3301))
