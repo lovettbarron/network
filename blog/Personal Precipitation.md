@@ -1,21 +1,20 @@
 ---
+publish: true
+title: Personal Precipitation
+date: 2024-06-04
+slug: personal-precipitation
+author: Andrew Lovett-Barron
+image: ../assets/personal-precip-sketch.png
+description: Project Planning with and against core beliefs, with an illustrated example
+type:
+  - post
+tags:
+  - strategy
+  - planning
 public: true
 ---
-Wtf am I doing right now  
-—-  
-Something to draw attention  
-Something to make sense deeply  
-Something to make money and do quietly  
-Something to inspire
 
-Overlap is possible  
-Each has its cost
-
-- Systems are about communication and repeitition; they are compresion algo for how we actually do work
-- Describing something that exists and compressing it into something that can be represented
-	- This part is virtuous
-
-![Screenshot 2024-06-02 at 08.03.20.png](../_assets/Screenshot%202024-06-02%20at%2008.03.20.png)
+![personal-precip-sketch.png](../_assets/personal-precip-sketch.png)
 
 
 -
