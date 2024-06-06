@@ -4,7 +4,7 @@ title: The Anatomy of a Research Recruitment Email
 date: 2021-03-22
 slug: the-anatomy-of-a-research-recruitment-email
 author: Andrew Lovett-Barron
-image: ../assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png
+image: ../assets/blog/old/d0162317432b517673548a4002138b1ce299c63c-1400x933.png
 description: ""
 type:
   - post
@@ -13,13 +13,14 @@ tags:
   - howto
   - methods
 public: true
+modified: 2024-06-06T21:08
 ---
 
 A new research project has come along and you need to recruit some research participants.
 
 Castiron Coffee is exploring how to use their waste coffee grinds in low-cost dumbbells for CrossFit gyms. They think there’s a market, since the weights will be physically larger and will make it look like people are lifting a lot more than they are, but they’ve hired you to explore whether this is actually something people want and need. You’ve got a plan and you have a sense of who you want to talk to: **so time to find some recruits for your study.**
 
-![](../assets/a6cd56b07dae944e544c72acc3c5238105a7c72b-1400x934.jpg)
+![](../_assets/a6cd56b07dae944e544c72acc3c5238105a7c72b-1400x934.jpg)
 
 There are two main types of research recruiting emails that you might send out. The first is a cold email, and the second comes with an introduction or recommendation. We’ll focus on the first since this requires the most work — the same lessons from the cold email apply, but you have the benefit of including your reference.
 
@@ -69,9 +70,9 @@ Before we can speak, we’ll need you to sign a consent form, indicating that yo
 Let me know if you have any questions and thank you in advance for the consideration!
 
 Andrew and the Stupid Systems team  
-415–555–5555 | andrew@stupidsystems.com_
+415–555–5555 | andrew@stupidsystems.com\_
 
-![](../assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png)
+![](../_assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png)
 
 Let’s break this down a bit into the core components.
 
@@ -142,7 +143,7 @@ Personally, I use Calendly to manage many of my interviews: depending on the num
 
 Requesting Consent
 
-![](../assets/58a8ed4e2d82d4499340914aad56b19430b62850-1400x869.png)
+![](../_assets/58a8ed4e2d82d4499340914aad56b19430b62850-1400x869.png)
 
 > Finally, we’ll be taking notes during the interview, as well as audio recording for note taking purposes. We’d also like to take photos in order to tell the story of what makes a great fitness product to our client. Your name and information would be anonymized before sharing it with the client.
 
