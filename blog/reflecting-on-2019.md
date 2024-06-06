@@ -4,7 +4,7 @@ title: Reflecting on 2019
 date: 2019-12-30
 slug: reflecting-on-2019
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/a8ba70e2347c6560d66a2789216b7b53e55e11c0-2411x1808.jpg
+image: ../assets/a8ba70e2347c6560d66a2789216b7b53e55e11c0-2411x1808.jpg
 description: ""
 type:
   - post
@@ -13,7 +13,7 @@ tags:
   - meta
   - theory
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 2019 has been a weird combination of my most exhausting, fulfilling, chaotic, and structured year to date. Midway through 2018, I decided that I wouldn’t share anything until it was “done”, or at least passed a significant milestone. So while I usually don’t write posts like this, this year felt worth the reflection.
