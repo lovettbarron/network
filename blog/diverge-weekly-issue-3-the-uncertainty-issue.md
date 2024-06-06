@@ -4,15 +4,13 @@ title: Diverge Weekly Issue 3 The Uncertainty Issue
 date: 2020-03-24
 slug: diverge-weekly-issue-3-the-uncertainty-issue
 author: Andrew Lovett-Barron
-image: ../assets/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg
+image: 07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg
 description: ""
-type:
-  - post
 tags:
   - diverge
   - futures
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 Last week, [I wrote about the balance of intervention and foresight](https://andrewlb.com/diverge-weekly-issue-2-the-global-pandemic-issue/) in a design-based response to the coronavirus pandemic, and closed with the William Gibson quote “The future is already here — it’s just not very evenly distributed.” We are all experiencing Covid-19 on different schedules and scales, with Italy being the most egregious case and with [America marching blindly into its wake](https://www.politico.com/news/2020/03/24/trump-wants-to-restart-economy-by-mid-april-146398). _This means that our individual construction of the future in this pandemic is relative to our own experience and belief about the future_ and that relativism is the focus of this week.
