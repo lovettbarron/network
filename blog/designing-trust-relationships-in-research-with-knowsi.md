@@ -4,7 +4,7 @@ title: Designing trust relationships in research with Knowsi
 date: 2020-10-09
 slug: designing-trust-relationships-in-research-with-knowsi
 author: Andrew Lovett-Barron
-image: ../assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png
+image: ../assets/blog/old/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png
 description: ""
 type:
   - post
@@ -15,6 +15,7 @@ tags:
   - howto
   - casestudy
 public: true
+modified: 2024-06-06T21:09
 ---
 
 _Originally published on [**Sage Ocean**](https://ocean.sagepub.com/blog/designing-trust-relationships-in-research-with-knowsi) on October 9, 2020._
@@ -39,11 +40,11 @@ In a webinar I gave last week, [Designing Trust Relationships in Research](https
 
 In the past, a research project was often defined linearly.
 
-![](../assets/31bcf1d1c0a718db0c6b02b9a16db3b78ae46ed2-570x124.png)
+![](../_assets/31bcf1d1c0a718db0c6b02b9a16db3b78ae46ed2-570x124.png)
 
 But with the advent of the GDPR and a more aggressive focus on protecting the privacy rights, a necessary feedback cycle and continuation of the participant experience has emerged. What originally appeared to be a relatively linear experience with a clear endpoint suddenly becomes a longer relationship between researcher and participant that requires deeper consideration.
 
-![](../assets/a1dd05550ad45d681970beb3c2e8ef7a0239e995-570x313.png)
+![](../_assets/a1dd05550ad45d681970beb3c2e8ef7a0239e995-570x313.png)
 
 ### THE PARTICIPANT EXPERIENCE
 
@@ -51,13 +52,13 @@ It’s easy for us to empathize with the researcher experience, but how does tha
 
 Participants don’t have insight into the research per se, but rather the majority of their experience is around managing contact and anxiety over trust. While a researcher is focusing on maximizing the value that a participant brings to the research project, the participant is often focused on minimizing potential harm while maximizing potential gains from their participation.
 
-![](../assets/ceff46733d26c87aaeb59cc5263ba3135d0c0ce8-570x398.png)
+![](../_assets/ceff46733d26c87aaeb59cc5263ba3135d0c0ce8-570x398.png)
 
 This management of trust cascades into a fairly substantial amount of effort and energy asked of the participants — a tax on energy for their involvement.
 
 By applying a service design and design thinking approach to the participant experience, we are empowered to see some of the core concerns that participants might have about each phase of the research. The power here is that while a researcher might believe this is a simple and rote experience, to the participant it might come with a considerable cost to their attention and anxiety.
 
-![](../assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png)
+![](../_assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png)
 
 ###
 
@@ -75,7 +76,7 @@ Finally, these operational realities can be considered in light of existing norm
 
 Of course, [Knowsi](https://knowsi.com/) makes that a lot easier for you.
 
-![](../assets/84aceec7e46f36d5f5379b3c49edc67d98d81dc2-570x380.png)
+![](../_assets/84aceec7e46f36d5f5379b3c49edc67d98d81dc2-570x380.png)
 
 Over the next few weeks, SAGE Ocean and I will be publishing some of the specific ways that we can design around this, some of which we reviewed in my webinar.
 
