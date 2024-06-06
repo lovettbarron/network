@@ -6,13 +6,11 @@ slug: systems-decay-when-shared
 author: Andrew Lovett-Barron
 image: https://res.cloudinary.com/stupidsystems/image/upload/v1717669160/obsidian/vxapmdcyqjdorjjhze4v.jpg
 description: Project Planning with and against core beliefs, with an illustrated example
-type:
-  - post
 tags:
   - strategy
   - planning
 public: true
-modified: 2024-06-06T23:43
+modified: 2024-06-07T01:30
 ---
 ![](https://res.cloudinary.com/stupidsystems/image/upload/v1717669160/obsidian/vxapmdcyqjdorjjhze4v.jpg)
 
