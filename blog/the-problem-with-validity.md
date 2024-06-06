@@ -4,16 +4,14 @@ title: The Problem with Validity
 date: 2021-03-15
 slug: validity-problem
 author: Andrew Lovett-Barron
-image: ../assets/f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png
+image: f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png
 description: ""
-type:
-  - post
 tags:
   - research
   - process
   - thinking
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 How much of what I just discovered is my own beliefs reflecting back on me — lightly but insignificantly embellished by the research completed?
