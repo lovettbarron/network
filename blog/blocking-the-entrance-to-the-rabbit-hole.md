@@ -4,7 +4,7 @@ title: Blocking the Entrance to the Rabbit Hole
 date: 2023-11-26
 slug: rabbit-hole
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/pasted-image-20230712140650.jpg
+image: ../assets/pasted-image-20230712140650.jpg
 description: A bit of a meandering path down the mechanical keyboard and alternative layout rabbit hole, and back out again.
 type:
   - post
@@ -14,7 +14,7 @@ tags:
   - interface
   - technical
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 **\*Note**: I started this blog post 06/2023, and finished it 11/2023. A few things changed inbetween in terms of process, employment, etc. The final paragraph is the big addition.\*
