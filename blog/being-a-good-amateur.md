@@ -4,7 +4,7 @@ title: Being a Good Amateur
 date: 2021-10-12
 slug: good-amateur
 author: Andrew Lovett-Barron
-image: ../assets/4ea51a535ce73ff74b7eb6879339950b1f652955-1356x1363.png
+image: ../assets/blog/old/4ea51a535ce73ff74b7eb6879339950b1f652955-1356x1363.png
 description: ""
 type:
   - post
@@ -14,19 +14,20 @@ tags:
   - reflection
   - theory
 public: true
+modified: 2024-06-06T21:09
 ---
 
 We’re amateurs continuously throughout our lives. For some skills — vital but sporadic skills — we remain that way. And that’s totally fine. Amateurism, over time, is its own skill to develop — and we should endeavour to leave amateur amateurism behind.
 
 I get a personal thrill out of amateurism. It’s something I need to hold in check in favour of getting better at the things that I’ve already invested in, to be honest. For someone who is discovery-oriented (i.e. a person who gets massive dopamine hits from protracted novelty, so not necessarily a good thing), amateurism is an idealized state where the plateaus of a skill are still hidden by the slope of a new skill’s introduction. There’s a compelling challenge ahead, no particular end in sight (because it’s hidden), and it’s just on you to start climbing. Any mountaineer will tell you that this is the perspective of one of those frost-bitten Everest corpses. A search and rescue volunteer will shoot you first to save themselves time.
 
-![](../assets/71ed265c00962bdf6ac6029141e36dfe289ad479-490x500.png)
+![](../_assets/71ed265c00962bdf6ac6029141e36dfe289ad479-490x500.png)
 
 Amateurism is its own skill that comes with experience, and it's an experience we all have. We’ve all been new to things, and even the most proficient practitioners and savant-like wielders of a skill started with ham fists and missed notes. Usually, when we’re young, amateurism is easier — some combination of excessive time to learn (both structured and unstructured), fluidity of interests and influence, and a more plastic sense of self (both in the more abstract sense of one's identity, and formation of neural connections). As we get older, it’s less so — for a variety of reasons both internal and external. But, when we’re older it’s easier to be a good amateur.
 
 To take a moment to actually describe and define amateurism, we need to define being amateur IN something. I tend to think job and professional skills are a bit different here, so let’s focus on things that are hobbies. I tend to think of a hobby as a communally defined collection mutually reinforcing hard and soft skills that facilitate the creation or modification of something. This covers the range from triathlon to miniature painting to cinematography. Given then, amateurism is the experience of acquiring those skills and gradually shifting from mimicry to ad-hoc application, to true creative application of a given hobby.
 
-![](../assets/571d24cd7802d78f7f5ce97891d7dd3e16f9843e-882x960.png)
+![](../_assets/571d24cd7802d78f7f5ce97891d7dd3e16f9843e-882x960.png)
 
 This is a bit of an oversimplification, of course. If you look at coding as an example (which can definitely be a hobby), coding skill starts as something specialized in one language around a specific project, then transitions into being multilingual by necessity as the core concepts are internalized, and then further transitions into a structural awareness around how to make something happen. Somewhere in there, one transitions from having the hobby of coding to being a “coder” or a developer, or what have you. And then — just as you start to transition from amateurism into skill — you hit the protracted nightmare of imposter syndrome that comes with navigating skilled communities as a peer. But that’s something different — let’s focus on the first few plateaus of amateurism.
 
@@ -36,7 +37,7 @@ Where amateurism becomes a bit problematic is twofold: where one's amateurism co
 
 Thankfully many (if not most) of these safety concerns can be alleviated through mentorship and “help” from the community surrounding the hobby. But as many of us amateurs have encountered, goodwill towards new initiates into a hobby can be pretty thin at times. Gatekeeping is a pernicious quality in most hobbies for a host of reasons (some understandable, many not). So if we’re getting into a new hobby independently (i.e. not assisted by a mentor or friend), how do we navigate this?
 
-![](../assets/1ed42f3e0e037f68843b1a376456ef6ac60ed0cb-1320x748.png)
+![](../_assets/1ed42f3e0e037f68843b1a376456ef6ac60ed0cb-1320x748.png)
 
 This is where being a good amateur really comes into play. I tend to believe that good amateurism is mostly a pretty simple heuristic: reflective confidence, project orientation, appreciation for history, community participation, mentor empathy, and managing up.
 
