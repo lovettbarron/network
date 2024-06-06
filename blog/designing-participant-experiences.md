@@ -4,7 +4,7 @@ title: Designing Participant Experiences
 date: 2021-02-21
 slug: designing-participant-experiences
 author: Andrew Lovett-Barron
-image: ../assets/6bc045101b1fb7f2ffe9f9578d09b1e4f5677666-2048x1365.jpg
+image: ../assets/blog/old/6bc045101b1fb7f2ffe9f9578d09b1e4f5677666-2048x1365.jpg
 description: Thinking about research operations from a service design lens
 type:
   - post
@@ -16,6 +16,7 @@ tags:
   - knowsi
 feature: true
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Designing a research program is a pretty difficult task. It requires a level of introspection and reflection on knowledge and knowledge creation that makes for both considerable rigour in defining the study’s parameters, but also a disposition that is — by default — maximally extractive of data gathering opportunities. So it comes as no surprise that in qualitative studies involving direct engagement with research participants, often the participant experience gets diminished in favour of focusing time and resources on increasing value to the researcher: improving your interview guide, recruiting more participants, wrangling your IRB, and broadly establishing the framework for extracting as much value from a research process as one's resources allow.
@@ -26,7 +27,7 @@ I gave a talk last fall on Designing Trust Relationships in Research and propose
 
 From my own experience, and in interviewing academic and private-sector researchers for Knowsi, a fairly common linear path emerges when designing the operational side of research. There’s plenty of variation within this, but broadly speaking we:
 
-![](../assets/f70d7775d630e2e5f19130bcbe7c8329f62229f7-1562x340.png)
+![](../_assets/f70d7775d630e2e5f19130bcbe7c8329f62229f7-1562x340.png)
 
 1. Identify who we want to talk to based on the research question, budget, access, and other constraints. Often the recruitment strategy and requirements are established here.
 
@@ -44,17 +45,17 @@ From my own experience, and in interviewing academic and private-sector research
 
 Often, some variation on this path is presented as a linear funnel, whereby participants are screened and filtered until a sufficient pool has been recruited, interviewed, and included in the study. But with the advent of the GDPR and a more aggressive focus on protecting the privacy rights and integrity of research participants, we’re coming to need a set of necessary looping loops and continuation of the participant experience, beyond the linear and extractive mode of the past. In a scenario where participants can change their consent, own their data, and ultimately have a legal right to reclaim that which was extracted — the research process becomes less of a funnel and more of a system.
 
-![](../assets/58337a52fa12be534474e4335ffbb30a33f71457-1568x862.png)
+![](../_assets/58337a52fa12be534474e4335ffbb30a33f71457-1568x862.png)
 
 ## **The Participant Experience**
 
 How does the participant experience map onto the idealized path that researchers have described? Ultimately, we tend to see that participants lack insight into the “what comes next” part of a research program. There is a mutual (albeit asymmetric) understanding of value between the researcher and the participant. At the very least, the participant understands that someone wants to talk to them and potentially pay them for it. But they don’t often have insight into the research, rather, the majority of their experience is around managing contact and anxiety over trust.
 
-![](../assets/f494c62b260d593f728b59756104da8326fa4b12-1596x1116.png)
+![](../_assets/f494c62b260d593f728b59756104da8326fa4b12-1596x1116.png)
 
 This management of trust cascades into a fairly substantial amount of effort and energy asked of the participants — a tax of their energy for their involvement in this exchange of data and value. Effectively, at each point of contact with the researcher, something is asked of the participant in terms of comprehension and trust-building towards that point in the process, where maximum trust and information is asked of the participant.
 
-![](../assets/04e413037e1f1710debda9dc086ddb9acfde28a3-1752x1138.png)
+![](../_assets/04e413037e1f1710debda9dc086ddb9acfde28a3-1752x1138.png)
 
 By applying a service design and design-thinking approach to the participant experience, we’re empowered to see some of the core concerns that participants might have about each phase of what, to a researcher, appears to be a simple and rote experience — the constituent parts of that tax. These concerns might manifest in any number of ways — from anxiety, evasion, and cancelation on the far end; or even slower response times, self-protective questioning, and a hesitation to explore certain topics too deeply.
 
@@ -62,7 +63,7 @@ By applying a service design and design-thinking approach to the participant exp
 
 Designing a better participant experience is ultimately the road to designing a more effective and less exploitive research relationship. Unfortunately, this is kinda hard. Each research project has its own needs to design for. I’d always recommend spending at least a few hours with your team, carefully considering the participant experience, and addressing those needs with as empathetic a lens as possible. It requires a fair bit of structure and reflection.
 
-![](../assets/2f9b5c988066f828a6702525c311a78ba3b8f965-1784x1192.png)
+![](../_assets/2f9b5c988066f828a6702525c311a78ba3b8f965-1784x1192.png)
 
 Using some of the tools for service design can offer deeper insight into your participant’s experience. The metaphor of **front stage/backstage** provides a useful framework — allowing the researcher to identify some of the individual components of a participant experience, such as that first introduction, the type of information included in a scheduling link, or the structure of a consent form. These are touchpoints (artefacts and instances of interaction between your research apparatus and the participant) that can be improved.
 
