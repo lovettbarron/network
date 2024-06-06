@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 5 The First Reflection Issue
 date: 2020-04-07
 slug: diverge-weekly-issue-5-the-first-reflection-issue
 author: Andrew Lovett-Barron
-image: ../assets/40855ab722b0208689f840574132a0805a28ee39-975x800.jpg
+image: ../assets/blog/old/40855ab722b0208689f840574132a0805a28ee39-975x800.jpg
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - diverge
   - meta
 public: true
+modified: 2024-06-06T21:09
 ---
 
 We’re going to try something a little bit different this week and reflect a bit about this project and its goals. This is issue #5 (including a prototype issue 0 which no one saw), so it felt like time to take stock.
@@ -58,7 +59,7 @@ As always, please subscribe to and share Diverge Weekly if you haven’t, and [s
 
 ## Security Blanket
 
-![](../assets/116caf18ccff8b3b9045d4226e27c8d89518219d-512x342.jpg)
+![](../_assets/116caf18ccff8b3b9045d4226e27c8d89518219d-512x342.jpg)
 
 [**US cast as culprit in global scrum over coronavirus supplies**](https://www.politico.eu/article/coronavirus-united-states-cast-as-culprit-in-global-scrum-over-supplies/)
 
