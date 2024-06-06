@@ -4,7 +4,7 @@ title: Import your Audible Library to Goodreads
 date: 2020-02-06
 slug: import-your-audible-library-to-goodreads
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/9f2ee1b9cfb7dc43a72534f0f3faa380b74c9cb3-5955x3975.jpg
+image: 9f2ee1b9cfb7dc43a72534f0f3faa380b74c9cb3-5955x3975.jpg
 description: ""
 type:
   - post
@@ -13,7 +13,7 @@ tags:
   - audible
   - howto
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:21
 ---
 
 I wrote a rudimentary python script to bulk import your Audible library to Goodreads. I’ll caveat with a statement: this is still pretty manual, but it automates the parts that are most time consuming. Overall, it shouldn’t take more than 5min to get your whole audible library into Goodreads. Then maybe just re-run the process every few months.
