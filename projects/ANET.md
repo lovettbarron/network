@@ -6,7 +6,7 @@ slug: anet
 url: https://github.com/deptofdefense/anet
 alive: false
 author: Andrew Lovett-Barron
-image: ../assets/pasted-image-20231128125845.png
+image: ../assets/blog/old/pasted-image-20231128125845.png
 description: Better software experiences for frontline soldiers
 categories:
   - project
@@ -15,9 +15,10 @@ tags:
   - security
   - NATO
   - JS
+modified: 2024-06-06T21:09
 ---
 
-![](../assets/pasted-image-20231128125835.png)
+![](../_assets/pasted-image-20231128125835.png)
 The Advisor Network ("ANET") is a tool to track relationships between advisors and advisees. ANET was built by the Defense Digital Service in support of the the USFOR-A and Resolute Support mission to train, advise, and assist the Afghan government.
 
 Although this tool was built in a very specific context, ANET has many potential applications. At its core, ANET is a way of tracking reports and tying them to authors, organizations, and goals. It also simplifies relationships between members of an organization, and members of different organizations -- like NATO and the Afghan government.
@@ -28,4 +29,4 @@ Press: [OSCON talk on ANET team work by Alvand Salehi](https://www.youtube.com/
 
 https://github.com/deptofdefense/anet
 
-![](../assets/pasted-image-20231128125845.png)
+![](../_assets/pasted-image-20231128125845.png)
