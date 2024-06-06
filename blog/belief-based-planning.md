@@ -19,7 +19,7 @@ modified: 2024-06-07T00:19
 
 A quick caveat on this post. This is a "thinking document" (i.e. pretty long) for me as I've been working on a workshop tool, Belief-Casting. You can skip the long-winded thinking process by jumping ahead to the "Values vs. Ego. vs. Reality" section, which has some illustrated steps. If you try this planning technique (or need some help with it), [please let me know!](mailto:alb@andrewlb.com)
 
-- Figuring out how to do something new is hard.
+- [ ] Figuring out how to do something new is hard.
 
 Our own mechanisms to sense the world are rarely consistent: physical, neurological, and experiential differences make themselves known here. Our own sensors are what they are: that physical, neurological, or experiential context that we bring to the table. We can augment this (doctrinal decision making a-la OODA loop; chemical augmentation like adderall, fitness, education in technique and philosophy) but we are our own bricolage.
 
