@@ -4,7 +4,7 @@ title: Belief-based Planning
 date: 2024-05-15
 slug: belief-based-planning
 author: Andrew Lovett-Barron
-image: ../assets/blog/belief-based-planning/belief-based-3.png
+image: blog/belief-based-planning/belief-based-3.png
 description: Project Planning with and against core beliefs, with an illustrated example
 type:
   - post
@@ -12,15 +12,14 @@ tags:
   - strategy
   - workshop
 public: true
-modified: 2024-06-06T23:44
+modified: 2024-06-07T00:19
 ---
-  
 
 ## TL;DR
+
 A quick caveat on this post. This is a "thinking document" (i.e. pretty long) for me as I've been working on a workshop tool, Belief-Casting. You can skip the long-winded thinking process by jumping ahead to the "Values vs. Ego. vs. Reality" section, which has some illustrated steps. If you try this planning technique (or need some help with it), [please let me know!](mailto:alb@andrewlb.com)
 
--
-Figuring out how to do something new is hard.
+- Figuring out how to do something new is hard.
 
 Our own mechanisms to sense the world are rarely consistent: physical, neurological, and experiential differences make themselves known here. Our own sensors are what they are: that physical, neurological, or experiential context that we bring to the table. We can augment this (doctrinal decision making a-la OODA loop; chemical augmentation like adderall, fitness, education in technique and philosophy) but we are our own bricolage.
 
@@ -64,7 +63,7 @@ Belief-casting takes the same core tenant of backcasting, but adds the dimension
 
 This can be used in a simple way to interrogate our known biases around a scenario: If I believe that that serverless is the best approach for a project and I KNOW that I believe this, that belief becomes a pivot point. Then, working backwards from project completion, one lane becomes backcasting along the serverless dimension, another along more traditional infrastructure.
 
-**Belief-casting becomes a lot more interesting if you apply it to your overriding narratives.**  Let's say I adhere to an employee-centric narrative around wellbeing and work-life balance (eg. working hours, location, paternity leave, etc). Does the backcast-ed plan I created align with that narrative? What else must be true for my narrative and my plan to align? What risks are incurred to the plan by my internal narrative?
+**Belief-casting becomes a lot more interesting if you apply it to your overriding narratives.** Let's say I adhere to an employee-centric narrative around wellbeing and work-life balance (eg. working hours, location, paternity leave, etc). Does the backcast-ed plan I created align with that narrative? What else must be true for my narrative and my plan to align? What risks are incurred to the plan by my internal narrative?
 
 Let's imagine a startup building in the post-covid world: Its founders share a (laudable) **narrative of worker-centric team culture**, but also buy into the the **systemic beliefs of the venture capital ecosystem** (high pre-revenue capex; intense effort and risk around product-market-fit pivots; high overall risk to both product and employee). These two beliefs aren't exclusive, but there are situations where they come into conflict. For example: what happens when this company encounters the unexpected? What happens when productivity lags, or directions are ambiguous? What happens when a team accustom to being present in the evening with their family hits a series of pre-raise pivot or another unexpected crunch?
 
@@ -74,36 +73,29 @@ Belief-casting generates a structure to interrogate those questions directly by 
 
 Let's do a dead simple example. I'm going to skip a LOT of steps, so if you have any questions [just send me a note](mailto:alb@andrewlb.com) and I'll update this post!
 
-**First step!** The easiest way to run a belief casting activity is to run a backcasting activity first. I've shared some references at the end of this post, so you can view that there. 
+**First step!** The easiest way to run a belief casting activity is to run a backcasting activity first. I've shared some references at the end of this post, so you can view that there.
 
 Start with the dates and work backwards from there. Map out the current state (now), and then the state you're trying to get to (Series A in this case). You'll get usually get a pretty idealized path like this.
 
-![](../assets/belief-based-1.png)
+![](../_assets/belief-based-1.png)
 
 Make sure to take that and break it off into some potential "risk" pathways. **There's never one path.** What are some alternative paths that might occur? In this scenario we are looking at time for an outcome we know, but this might be an opportunity to look at alternative preferable outcomes. In this example, we just have some alternative outcomes from testing that results in a pushed timeline.
 
-  
-
-![](../_assets/blog/belief-based-planning/IMG-20240604135614828.png)
-
-  
+![](../_assets/IMG-20240604135614828.png)
 
 With the basic project skeleton in place, take a step back and try to interrogate some of the core beliefs or values you have about your startup. The best case scenario here is that founders have worked with a coach or therapist, and have a kind of legibility to their own belief system. Worst case, use the startup as a foil for which to embed beliefs and treat this like a brand-building or value-identifying activity. [I'm posting examples of these kinds of activities on instagram, and will link to specifics when they're up.](https://instagram.com/megafauna.cph)
 
-![](../_assets/blog/belief-based-planning/IMG-20240604135614927.png)
+![](../_assets/IMG-20240604135614927.png)
 
 You'll want to sort and categorize these beliefs somehow. This should give you a handful of categories that you can start applying to "points" along your backcast journey. It should be rough, critical, and argumentative at this stage. This is where things will get a bit messy as you highlight, markup, and add notes to the document.
 
 My personal favourite approach is it have postits on a whiteboard, so information can be moved, but also marked up.
 
-![](../_assets/blog/belief-based-planning/IMG-20240604135615025.png)
-
-  
+![](../_assets/IMG-20240604135615025.png)
 
 As you go through this process, you'll start to surface some pretty clear tradeoffs between these beliefs. For our intrepid founders, we're starting to see that the employee-centric and ego-centric values suffer as soon as they come across the user-centric events.
 
-![](../_assets/blog/belief-based-planning/IMG-20240604135615158.png)
-
+![](../_assets/IMG-20240604135615158.png)
 
 We can see from this example that while the plan and pivot points themselves are logical relative to the structural dogma of this type business, the results are counter to their professed beliefs (employee and ) EVEN when they get lucky.
 
@@ -113,32 +105,27 @@ We can see from this example that while the plan and pivot points themselves are
 
 This example shows a set of beliefs being front-loaded into the company's inception which don't map onto the real needs of the business. If you hire based on one set of beliefs, but you structurally REQUIRE a different set of beliefs to get to the outcome you describe, then these actibities will come into natural conflict.
 
-  
-
 ## Finding Shelter
 
-This kind of belief casting map presents a dilemma. If we're risking this much in venturing out, why do so at all? 
+This kind of belief casting map presents a dilemma. If we're risking this much in venturing out, why do so at all?
 
 Venturing out also means looking ahead: keeping an eye open for conflict and hypothesizing about opportunity. We can get further along this path by applying a layer of belief-based interrogation. **It brings the subjectivity of our experience into the planning process, and gives us some basis for calculating error.**
 
 Here's one alternative that might emerge from this interrogation of the previous The series A raise is based on some level of customer demand and PMF, so we orient the early activities around that more relevant belief.
 
-![](../_assets/blog/belief-based-planning/IMG-20240604135615515.png)
-
+![](../_assets/IMG-20240604135615515.png)
 
 **We must be able to MIX and ALIGN beliefs to get us to better outcomes.** Early user-centric activities can be mixed with employee-centric activities and ego-centric activities. Instead of aggressively hiring a full team, hire a handful of early employees and involve all of them in customer research while assessing them as future management. This plurality of experience has the opportunity to augment the founders' strongly held opinions (ego-centrism), de-risks future hiring processes, and it gives the early employees clarity around their advancement in the company (employee-centrism).
 
-This redefined map isn't the culmination of this activity however: it will require a lot more interrogation and a return to more detailed back-casting and scenario planning — especially because we default to an idealized single scenario after doing the "refinement." Functionally, we've **converged on a solution through a belief-driven filtering process, and the smart next step is to diverge again and run the new plan through a gauntlet.** 
+This redefined map isn't the culmination of this activity however: it will require a lot more interrogation and a return to more detailed back-casting and scenario planning — especially because we default to an idealized single scenario after doing the "refinement." Functionally, we've **converged on a solution through a belief-driven filtering process, and the smart next step is to diverge again and run the new plan through a gauntlet.**
 
 As a reminder, the categories identified in this example (user-centrism, ego-centrism, employee-centrism) sound generic, but are specific to this example. **Running this kind of activity without doing the work to surface the beliefs that drive the starting plan will result in mush.**
 
-
 But whatever needs to happen next, **with this approach we've explicitly integrated our beliefs and narratives into our planning activities.** When hard decisions come down the road, we'll be equipped to balance those decisions against the choice and circumstance that got us there. We can't control our environments, but when we do head out into inclement weather, we have agency over our attitudes and our preparedness. Belief-casting is a shortcut to both.
 
-
 --
-*Big thank you to [Justin Pickard](https://www.justinpickard.net) for the feedback,*
+_Big thank you to [Justin Pickard](https://www.justinpickard.net) for the feedback,_
 
-*I learned Backcasting when I was at Normative from Matthew Milan. [Here's one of his presentations on the topic](https://www.slideshare.net/mmilan/backcasting-101-final-public)*
+_I learned Backcasting when I was at Normative from Matthew Milan. [Here's one of his presentations on the topic](https://www.slideshare.net/mmilan/backcasting-101-final-public)_
 
 One of the original backcasting essays by John Robinson is here: [Future under Glass](https://envr626nov2020.opened.ca/wp-content/uploads/sites/2185/2020/11/Futures-under-glass-A-recipe-for-people-who-hate-to-predict.pdf)
