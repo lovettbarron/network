@@ -4,7 +4,7 @@ title: Planning your Design Research Trip
 date: 2019-05-13
 slug: planning-your-design-research-trip
 author: Andrew Lovett-Barron
-image: ../assets/75befba317841cb0534ac4811671b5fda3ebcc7c-1512x754.jpg
+image: ../assets/blog/old/75befba317841cb0534ac4811671b5fda3ebcc7c-1512x754.jpg
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - howto
   - methods
 public: true
+modified: 2024-06-06T21:09
 ---
 
 One of my more traumatic design research moments is something I barely remember. I had flown from Palo Alto to London to lead two weeks of field research, and had made a mistake. I had scheduled the first interview for about three hours after I stepped off the plane. As a result, I found myself with zero sleep in a new city, about to perform an expert interview. On someone who is a bit of a hero to me, none the less.
@@ -41,7 +42,7 @@ This is a calendar that shows who I’m talking to, what time I need to be up ea
 
 Usually this is a Google calendar or a foam core board covered in post-it notes. With each interview listed as a post-it with the participant’s details, it becomes easy to translate that into a daily schedule.
 
-![](../assets/60486a55113ef18b7db3e4a42ae5194a4da83084-640x640.jpg)
+![](../_assets/60486a55113ef18b7db3e4a42ae5194a4da83084-640x640.jpg)
 
 ### **Daily Schedule**
 
@@ -51,7 +52,7 @@ If you’re working locally, I recommend sticking to a 9–4 schedule where poss
 
 If you’re doing remote research, then you work within the realities of what you need to accomplish. A budget pressed trip that won’t burn the team out (from my experience) might look like this:
 
-![](../assets/3dc904707e960da74d0d662aad43639772103033-1362x828.png)
+![](../_assets/3dc904707e960da74d0d662aad43639772103033-1362x828.png)
 
 ### **The Interview Schedule**
 
@@ -59,7 +60,7 @@ Finally, you have your actual interview schedule. This will vary depending on th
 
 Here’s an example of what an interview exploring a new feature or design might look like:
 
-![](../assets/fcbe3262eb7090725a303b0ba537bfd02a11b9ff-1372x1194.png)
+![](../_assets/fcbe3262eb7090725a303b0ba537bfd02a11b9ff-1372x1194.png)
 
 ## **Loose Tolerances**
 
@@ -81,6 +82,6 @@ Collecting the right consent from participants, scheduling, and organizing the m
 
 [Give Knowsi a try with a 1 week trial today](https://www.knowsi.com/join), and [sign up for our mailing list](https://www.knowsi.com/?mail=true) for a discount code and more articles like this every few weeks.
 
-![](../assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](../_assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published on **[Medium](https://medium.com/knowsi/planning-your-design-research-trip-5eef90710026).**_
