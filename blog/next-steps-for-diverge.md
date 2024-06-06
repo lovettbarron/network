@@ -3,7 +3,7 @@ title: Next Steps for Diverge
 date: 2021-12-14
 slug: diverge-next-steps
 author: Andrew Lovett-Barron
-image: ../assets/fd7cfe519d25111a3e8c6ea8273d11b2e862d566-4032x3024.jpg
+image: ../assets/blog/old/fd7cfe519d25111a3e8c6ea8273d11b2e862d566-4032x3024.jpg
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - meta
 publish: true
 public: true
+modified: 2024-06-06T21:09
 ---
 
 I’m wrapping up on the end of year two running Diverge Weekly, a personal writing and newsletter project that’s taken two big shifts since it started. Reflecting on the end of 2021, I’m thinking it's time for a third.
