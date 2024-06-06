@@ -11,7 +11,7 @@ type: articles
 tags:
   - articles
 date: 2024-06-04T13:14
-modified: 2024-06-07T00:21
+modified: 2024-06-07T00:56
 ---
 
 # Belief-Based Planning
@@ -26,7 +26,3 @@ modified: 2024-06-07T00:21
 - Summary: Belief-based planning involves navigating internal beliefs and narratives that shape our decision-making processes. By making our beliefs and narratives legible, we can better understand how they influence our actions and interactions. Integrating beliefs into planning activities can help us make more informed decisions and navigate challenges effectively.
 - URL: https://andrewlb.com/blog/belief-based-planning/
 
-## Highlights
-
-- ![](https://andrewlb.com/blog/belief-based-planning/../assets/belief-based-planning-1.png) ([View Highlight](https://read.readwise.io/read/01hy0zy0v72kakk8xa3x94nz1c))
-- ![](https://andrewlb.com/blog/belief-based-planning/../assets/belief-based-1.png) ([View Highlight](https://read.readwise.io/read/01hy0zyb4bs1rzjqm9z0xk587s))
