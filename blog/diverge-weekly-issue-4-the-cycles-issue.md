@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 4 The Cycles Issue
 date: 2020-03-31
 slug: diverge-weekly-issue-4-the-cycles-issue
 author: Andrew Lovett-Barron
-image: ../assets/a13f0d99146acae1cf1f68ccc20a3a76041bbc18-468x304.jpg
+image: ../assets/blog/old/a13f0d99146acae1cf1f68ccc20a3a76041bbc18-468x304.jpg
 description: ""
 type:
   - post
@@ -14,13 +14,14 @@ tags:
   - process
   - cyclical
 public: true
+modified: 2024-06-06T21:09
 ---
 
 **Design is a cyclical action.** While individual artifacts are ejected from the process (like this newsletter and its upcoming visual redesign), the actual process of design is something ongoing.
 
 Throughout my career, I’ve wrestled with the fundamentally commercial nature of design output. We live in a capitalist society and must create something that someone else sees as being of value to be rewarded within that system. As this system too is cyclical, our reward is fed back into the system to reward others for their production of something that we value. This is the most simplistic of frames, but a good place to start. I quite like how Donella Meadows framed these systems in her book [Thinking in Systems: A primer](https://amzn.to/2UodGbs).
 
-![](../assets/2120b125baf2e65bab37a1b50802354c3bcad103-1180x1224.png)
+![](../_assets/2120b125baf2e65bab37a1b50802354c3bcad103-1180x1224.png)
 
 Design process and one's evolution as a designer manifests in almost the exact same way, but with memory. As designers, we are driven to create artefacts of some value to others. We engage in a cyclical process to create these artefacts and then “freeze” the process in time (as a manufactured object, as a defined version of code, as printed material, as an executed experience) to reflect our understanding of maximized value to the consumer. Then, we either start working on the next version if we’re product-focused, the next aspect of the experience if we’re service-focused or something else entirely if we’re consultants.
 
@@ -40,7 +41,7 @@ The issue of oversight, in this case, is **a failure to receive feedback from on
 
 **Design is a cyclical and continuous action. We constantly reflect back our observations and actions in the world, and incrementally re-orient our world views over time.** Perhaps my favourite articulation of this is John Boyd’s diagram of the OODA loop, but instead of the microsecond articulation of that loop that Boyd envisioned in aerial combat, I imagine it as spread across the entirety of one's life as a designer.
 
-![](../assets/10ec01ef440f42c2e43b2457ca7aab37405dcaf4-1180x482.png)
+![](../_assets/10ec01ef440f42c2e43b2457ca7aab37405dcaf4-1180x482.png)
 
 Alexander’s Solar Sack is an output of years of iteration leading him to the creation of that design and that business. The US aid mission in Afghanistan is an output of decades of iteration across hundreds of organizations and thousands of people that locked it into a particular belief about how to accomplish that mission.
 
@@ -52,7 +53,7 @@ But right now, trapped as we are between a brittle past and an uncertain future 
 
 ## Security Blanket
 
-![](../assets/1efd2b58f88b370d87681e6f706156bf515386f1-800x533.jpg)
+![](../_assets/1efd2b58f88b370d87681e6f706156bf515386f1-800x533.jpg)
 
 [**China’s Military Claims to Be Virus-Free**](https://foreignpolicy.com/2020/03/20/pla-coronavirus-invasion-chinas-military-claims-to-be-virus-free/)
 
