@@ -4,10 +4,8 @@ title: Thinking through Research Automation
 date: 2021-07-26
 slug: thinking-through-automation
 author: Andrew Lovett-Barron
-image: ../assets/807aeb6f16ab5507859bff6912a097ef35f7b156-2472x1879.png
+image: 807aeb6f16ab5507859bff6912a097ef35f7b156-2472x1879.png
 description: Automation and orchestration in research ops
-type:
-  - post
 tags:
   - methods
   - process
@@ -17,7 +15,7 @@ tags:
   - howto
 feature: true
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 _(This is part 1 of several posts describing research automation. The following posts will describe specific case studies, tools, and mechanisms for automation relavent to researchers)_
