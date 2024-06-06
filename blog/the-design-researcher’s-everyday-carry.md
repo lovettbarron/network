@@ -4,7 +4,7 @@ title: The Design Researcher’s Everyday Carry
 date: 2019-06-12
 slug: the-design-researcher’s-everyday-carry
 author: Andrew Lovett-Barron
-image: ../assets/6fcd4c676a4c7094dabd6cc5c2c34985d3b714bf-2000x1128.jpg
+image: ../assets/blog/old/6fcd4c676a4c7094dabd6cc5c2c34985d3b714bf-2000x1128.jpg
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - research
   - methods
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Design research is about sensing and synthesizing the needs of your stakeholders: a fundamentally human task. But we’re tool-using mammals, and it’s worth spending some time thinking about the design researcher’s Everyday Carry (EDC). [While a quick google of EDC](https://www.google.com/search?tbm=isch&q=everyday+carry) will usually surface photos of knives and paracord ([with William Gibson giving one of my favorite offhand critiques of it in Zero History](https://www.goodreads.com/quotes/tag/gear-queer)), I think we can make a strong argument for a softer and more open collection. Maybe it’s time for an EDC that isn’t all about self-defense and survival, and instead one that celebrates the vulnerability and open listening necessary to do good design research.
@@ -40,7 +41,7 @@ For user tests, having a GoPro on a clamp mount is often a great approach with i
 
 I used to have a single notebook for everything, but more recently I’ve been creating dedicated notebooks for projects. For larger projects (like Knowsi), I’ve been using a hard cover A5 Leuchtturm 1917 with a dot grid for everything from sketching design elements and flows, to capturing interview notes, and exploring business models.
 
-![](../assets/eda7933f16004d2a64c6fafbce2cedb0d7e31309-1000x750.jpg)
+![](../_assets/eda7933f16004d2a64c6fafbce2cedb0d7e31309-1000x750.jpg)
 
 For a recent consulting project, I used a 40 page A5 Moleskine that I was able to fill up with participant quotes, and then date and archive it afterwards.
 
@@ -66,7 +67,7 @@ Depending on the purpose of the interview, having a good tool for sketching out 
 
 Most importantly, always have a consent form with you. If you are using the research data for commercial purposes (like building an app), then you have to collect participant consent. This also goes for collecting media and similar activities. Not sure why? Check out [this article](https://medium.com/design-research-matters/general-data-protection-regulation-gdpr-and-user-research-e00a5b29338e).
 
-![](../assets/615561e05a85f0362972f02a94b51cf1c90cd2c1-2048x1536.jpg)
+![](../_assets/615561e05a85f0362972f02a94b51cf1c90cd2c1-2048x1536.jpg)
 
 I think [Knowsi](http://www.knowsi.com/) is the best way to manage consent as a design researcher — that’s why I built it. You can also use paper consent forms, though be sure to keep them in a secure place, destroy the data after an agreed upon point, and provide a mechanism for your participants to change their consent going forward.
 
@@ -110,6 +111,6 @@ Collecting the right consent from participants, scheduling, and organizing the m
 
 [Give Knowsi a try with a 1 week trial today](https://www.knowsi.com/join), and [sign up for our mailing list](https://www.knowsi.com/?mail=true) for a discount code and more articles like this every few weeks.
 
-![](../assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](../_assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published on **[Medium](https://medium.com/knowsi/the-design-researchers-everyday-carry-799b4c44aaa7).**_
