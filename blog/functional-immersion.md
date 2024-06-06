@@ -4,7 +4,7 @@ title: Functional Immersion
 date: 2021-08-22
 slug: functional-immersion
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/12d5a0081ce7c63c1c4a44a20760455787cbe018-640x360.jpg
+image: ../assets/12d5a0081ce7c63c1c4a44a20760455787cbe018-640x360.jpg
 description: ""
 type:
   - post
@@ -14,7 +14,7 @@ tags:
   - process
   - cyclical
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 I’ve fairly recently changed my mind about virtual reality.
