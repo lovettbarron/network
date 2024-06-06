@@ -4,7 +4,7 @@ title: Systems Decay When Shared
 date: 2024-06-04
 slug: systems-decay-when-shared
 author: Andrew Lovett-Barron
-image: ../assets/personal-precip-sketch.png
+image: https://res.cloudinary.com/stupidsystems/image/upload/v1717669160/obsidian/vxapmdcyqjdorjjhze4v.jpg
 description: Project Planning with and against core beliefs, with an illustrated example
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - strategy
   - planning
 public: true
-modified: 2024-06-06T21:46
+modified: 2024-06-06T23:43
 ---
 ![](https://res.cloudinary.com/stupidsystems/image/upload/v1717669160/obsidian/vxapmdcyqjdorjjhze4v.jpg)
 
@@ -86,13 +86,4 @@ I don't think I did a particularly good job "compressing" that system, but assum
 - I relied on **diagraming** (both a known descriptive reference core to the metaphor, and an actual one) to frame up the communication of the system I'm using.
 
 So, common systems communication is metaphor-based, provides concrete examples, is functional, and is visual. There's a lot more to look at here in terms of understanding what makes for effective systems communication. Considering figures like John Boyd (as mentioned), Dona Meadows, Heinz von Foerster, Richard Feynman, Abraham Maslow, to name a few. Also more contemporary systems communicators like Randall Munroe, Venkat Rao, Simon Wardley, etc.
-
-
-
-
-Here's a sketch that started some of this:
-![Screenshot 2024-06-02 at 08.03.20.png](app://15a54f0bd220faef2422985bec19b1c4d7de/Users/andrewlb/books/Screenshot%202024-06-02%20at%2008.03.20.png?1717308202276)
-
-
-
 
