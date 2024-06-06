@@ -4,7 +4,7 @@ title: Automating Research Recruiting
 date: 2021-08-03
 slug: automating-research-recruiting
 author: Andrew Lovett-Barron
-image: ../assets/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png
+image: ../assets/blog/old/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png
 description: How to think about and implementation automation in a user research recruiting process.
 feature: true
 type:
@@ -16,6 +16,7 @@ tags:
   - technical
   - howto
 public: true
+modified: 2024-06-06T21:08
 ---
 
 This is a continuation of the previous post — [thinking through research automation](https://andrewlb.com/thinking-through-automation/) — which deals more with a framework on how to approach automation tasks. This time, we’re going to dig into a specific example: how to automate a recruiting process.
@@ -36,15 +37,15 @@ Each of these steps can be automated to a greater or lesser extent, but what act
 
 A step might look something like this:
 
-![](../assets/86f749885fb392412fb30ea3a231cdbcc930a5dd-842x595.png)
+![](../_assets/86f749885fb392412fb30ea3a231cdbcc930a5dd-842x595.png)
 
 Basically a point where an input is enters (data, interaction), is processed, and is then moved to another step (exported in some way. That individual process might have different features to it as well:
 
-![](../assets/ff1fa37af2dd2611e56fe2adbec879203297d836-842x595.png)
+![](../_assets/ff1fa37af2dd2611e56fe2adbec879203297d836-842x595.png)
 
 If we were to break the above list down into a more linear process flow, we might end up with something like this:
 
-![](../assets/7ec3520301ad343faafb4485829f84c7bb361aed-842x595.png)
+![](../_assets/7ec3520301ad343faafb4485829f84c7bb361aed-842x595.png)
 
 This flow helps us interrogate a broader system, and figure out what individual steps in the overall task we might seek to automate. But we need the right tools to facilitate that automation/
 
@@ -84,7 +85,7 @@ Zapier is a glue between different tools. It’s an easy way to, for example, co
 
 Looking at each of these tools and the role they play in input, storage, processing, and connecting, we can start to create a picture of an orchestrated and automated flow.
 
-![](../assets/6675224de919cc18eef65195007b4f806f6df6f5-842x595.png)
+![](../_assets/6675224de919cc18eef65195007b4f806f6df6f5-842x595.png)
 
 ### **Contact**
 
@@ -98,13 +99,13 @@ For our purposes, we’d list our potential participants in Zapier first, and th
 
 When creating the screener, this can be done easily in airtable. Here, I would create an intake spreadsheet with a form field, and then create two views: a “form” view and an additional grid view that has a filter. Edit the form in the visual editor to fit what you like, and then fill it out.
 
-![](../assets/25b4968e992b5bf1b270b6bb4124b46166e02f91-1684x740.png)
+![](../_assets/25b4968e992b5bf1b270b6bb4124b46166e02f91-1684x740.png)
 
 In the second grid view, add a filter (like above) that will only show those respondents that fit the criteria you’re looking for.
 
 From here, we want to create a new spreadsheet which will be filled in as our screened and ready participants filter in. We do this by creating an empty table, then reflecting the data that we want in that new table through an automation. It’ll look something like this.
 
-![](../assets/f8227c912deebd4557a2b9c7eb0a1b4105786303-1684x1190.png)
+![](../_assets/f8227c912deebd4557a2b9c7eb0a1b4105786303-1684x1190.png)
 
 Finally, from where, we can set up a new email to send out when records are “Created” in this participant table. This allows us to divide the records between consenting participants in the study, and our list of potential participants.
 
@@ -112,7 +113,7 @@ Finally, from where, we can set up a new email to send out when records are “C
 
 Scheduling can be both incredibly easy and incredibly hard. I’d suggest using an automated scheduler like Calendly whenever possible — but provide an option to reach out with different times if none of the Calendly times work.
 
-![](../assets/e0e99173acf97a189bc70ccefc4fb9a96b6ee88e-842x595.png)
+![](../_assets/e0e99173acf97a189bc70ccefc4fb9a96b6ee88e-842x595.png)
 
 You can then integrate Calendly with Airtable through Zapier, and update the participant records directly with the time and place of the interview, and a flag saying they’ve moved onto the next step.
 
@@ -120,7 +121,7 @@ You can then integrate Calendly with Airtable through Zapier, and update the par
 
 Consent forms, like scheduling, should be automated wherever possible using tools like [Knowsi](https://knowsi.com) and Zapier. Privacy regimes like the GDPR in the EU and PIPEDA in Canada mandate progressive informed consent practices.
 
-![](../assets/3854b1dafe86f742480b54d278036c5b4d5f6c42-842x595.png)
+![](../_assets/3854b1dafe86f742480b54d278036c5b4d5f6c42-842x595.png)
 
 This step can be pretty simple — just send the consent form via the initial email or when the participant has completed scheduling, and the researcher will get a notification on when the participant has signed the form.
 
@@ -128,7 +129,7 @@ This step can be pretty simple — just send the consent form via the initial em
 
 Content-specific reminders can be sent out to participants who have stalled anywhere in the process.
 
-![](../assets/a858dfae43d9dd4e54e595c55073dd8975670eda-842x595.png)
+![](../_assets/a858dfae43d9dd4e54e595c55073dd8975670eda-842x595.png)
 
 In zapier, you can set up zaps to do multiple checks on things — though I personally prefer to set up unique views in Airtable so that I can both visualize and automate that reminder process.
 
@@ -138,7 +139,7 @@ One example might be passing a screener but failing to schedule. Zapier and Airt
 
 Finally, upon completion of the study, the gratuity can be (mostly) automated as well by creating an automated export of participants and their emails for upload into a gratuity management platform like Tremendous.
 
-![](../assets/7b8de2f67abb1266ad23c21668edfa6c90d41501-842x595.png)
+![](../_assets/7b8de2f67abb1266ad23c21668edfa6c90d41501-842x595.png)
 
 Tremendous doesn’t have great automation tools, but you can bulk upload a CSV to their platform. So you can set an automation up to send you a weekly CSV of participants who have completed the study, and simply drop that CSV into the Tremendous platform. This is still a little bit of a manual process, but it turns what might be a half hour or hours worth of work into a three minute task.
 
