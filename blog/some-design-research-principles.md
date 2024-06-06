@@ -4,7 +4,7 @@ title: Some Design Research Principles
 date: 2021-02-14
 slug: research-principles
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/10873b99833c2ad0827427688862059c17fe070a-2048x1365.png
+image: ../assets/10873b99833c2ad0827427688862059c17fe070a-2048x1365.png
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - research
   - process
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 Since I run an app that has its roots in the world of Design Research, I spend a fair bit of time either doing research myself or speaking with researchers. I'm in the process of writing a research skills class (that'll be free for [Knowsi](https://www.knowsi.com/) subscribers), so I've been a bit underwater on thinking in terms of specifics, instead of more broadly on what skills and dispositions I believe a researcher should bring to the table.
