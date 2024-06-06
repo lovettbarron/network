@@ -4,7 +4,7 @@ title: Designing Participant Experiences
 date: 2021-02-21
 slug: designing-participant-experiences
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/6bc045101b1fb7f2ffe9f9578d09b1e4f5677666-2048x1365.jpg
+image: ../assets/6bc045101b1fb7f2ffe9f9578d09b1e4f5677666-2048x1365.jpg
 description: Thinking about research operations from a service design lens
 type:
   - post
@@ -16,7 +16,7 @@ tags:
   - knowsi
 feature: true
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Designing a research program is a pretty difficult task. It requires a level of introspection and reflection on knowledge and knowledge creation that makes for both considerable rigour in defining the study’s parameters, but also a disposition that is — by default — maximally extractive of data gathering opportunities. So it comes as no surprise that in qualitative studies involving direct engagement with research participants, often the participant experience gets diminished in favour of focusing time and resources on increasing value to the researcher: improving your interview guide, recruiting more participants, wrangling your IRB, and broadly establishing the framework for extracting as much value from a research process as one's resources allow.
