@@ -6,14 +6,15 @@ slug: tedx
 url: https://www.youtube.com/watch?v=D04gcBMIWRk
 alive: true
 author: Andrew Lovett-Barron
-image: ../assets/fca1ed599c6e977366d73b6ac740f78b_md5.png
+image: ../assets/blog/old/fca1ed599c6e977366d73b6ac740f78b_md5.png
 description: TEDx talk on the city and wireless
 categories:
   - project
 tags:
   - talk
+modified: 2024-06-06T21:09
 ---
 
-[Open: Pasted image 20231128134850.png](../assets/fca1ed599c6e977366d73b6ac740f78b_md5.png)
-![](../assets/fca1ed599c6e977366d73b6ac740f78b_md5.png)
+[Open: Pasted image 20231128134850.png](../_assets/fca1ed599c6e977366d73b6ac740f78b_md5.png)
+![](../_assets/fca1ed599c6e977366d73b6ac740f78b_md5.png)
 https://www.youtube.com/watch?v=D04gcBMIWRk
