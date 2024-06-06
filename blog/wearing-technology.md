@@ -4,7 +4,7 @@ title: Wearing Technology
 date: 2021-04-11
 slug: wearing-technology
 author: Andrew Lovett-Barron
-image: ../assets/07eb8ef33d88bf9d7145522f4917fbc2295d3b1c-1050x591.png
+image: ../assets/blog/old/07eb8ef33d88bf9d7145522f4917fbc2295d3b1c-1050x591.png
 description: ""
 type:
   - post
@@ -13,13 +13,14 @@ tags:
   - fashion
   - design
 public: true
+modified: 2024-06-06T21:09
 ---
 
 We adorn ourselves in technology. Whether it's the shrunken screens of today's smartwatches or the latest in lightweight, high resistance fabrics, the fact that we're wearing technology is indisputable. In the past decade though, two terms have emerged with considerable sticking power: tech wear and wearable tech. Those familiar can quickly distinguish, but to the uninitiated, it might seem like synonyms or a grammatical mixup. I'm wondering if the uninitiated — as is often the case — might be better equipped to judge the value of the technology we wrap ourselves in.
 
 ## **Wearable Tech**
 
-![](../assets/0ad3deeafd52a72710da4b9543f0eed05fcb15a1-610x457.png)
+![](../_assets/0ad3deeafd52a72710da4b9543f0eed05fcb15a1-610x457.png)
 
 Computation manifests in many ways — as infrastructure ranging from the room-sized mainframes of the cold war to the distributed cloud of Amazon Web Service; as the personal computer sitting on a desk or in a backpack, which serves as a kind of appliance (or platform for appliances); and as the carryable, as manifest by the ubiquity of smartphones knocking about our persons. And then there's the wearable. **Wearable tech** tends to be shortened as a "wearable," and references those units of computation and sensing that we might deploy on our bodies.
 
@@ -29,7 +30,7 @@ Jump forward to the modern computational era, and the site of the watch as attac
 
 ## **Tech Wear**
 
-![](../assets/f149442cb961114ac67459857e3e6560d4a34a63-640x480.png)
+![](../_assets/f149442cb961114ac67459857e3e6560d4a34a63-640x480.png)
 
 (Acronym FW2012)
 
@@ -47,7 +48,7 @@ Similarly, we've always used the technical advantage of certain materials upon t
 
 From a more contemporary standpoint, the smartwatch presents a problem to this, because it manifests as something only a step or two removed from the phones — our carryables. Returning to our original definition — if a wearable is something that augments and senses the body at a particular site, then a phone might not be so different given the standard of pockets being where they are. Anyone who wears their phone in a chest pocket or knee-height cargo pocket knows that its data collection around movement is less efficient at those sites.
 
-![](../assets/ac517f3b26e1ae5f16c27d7dc4b022b62f17b628-1024x583.png)
+![](../_assets/ac517f3b26e1ae5f16c27d7dc4b022b62f17b628-1024x583.png)
 
 The Oura ring is the wearable that I think presents an interesting challenge to this. The Oura doesn't display any information — save for on the phone once connected. It's a ring that is passively worn and sized to a particular finger. It comes in a variety of finishes to match one's style, is a bit oversized, and is usually forgotten until your phone pops up a reminder that charging is required.
 
@@ -57,7 +58,7 @@ It's somehow the most futuristic and the most banal object on my person. If I we
 
 This is all to say that, in its own way, I think using the language of "techwear" to describe a particular vision of apparel is unnecessarily reductive. I love Acronym outfits and style, but it's a particular vision that came about in a particular time with a particular vision of the future — influenced by the writing of William Gibson, the advent of technical fabrics, and during its critical years, the post-9/11 malaise that's come to shape conflict and culture globally (Acronym's Techsys being a key example).
 
-![](../assets/9fa3ef93aed404b2582d8ed1bed9adf0a037d573-2870x1292.png)
+![](../_assets/9fa3ef93aed404b2582d8ed1bed9adf0a037d573-2870x1292.png)
 
 Rather, I think we're more likely to see a kind of freer formal style (I'm very specifically thinking of [Virgil Abloh's FW2021 Louis Vuitton show](https://www.youtube.com/watch?v=vV_QoQD_nrA) with this, to be honest) emerge — comfortable and classy, and filled with a cultural substance that is accessible and inclusive. And I think there will be technology there, but the enduring tech wear (or wearable tech) will look more like the Oura ring than either the Acronym jacket or the Apple Watch. An Apple Watch — for all that its face and band can be changed — is a specifically reductive, specifically closed system. The techwear jacket is the same — hard lines and factory-spec goretex black that homogenizes the wearer to a particular tribe and a particular set of aesthetic constraints (though constraints which can loose some great creativity, [as folk like Bethany Heck consistently demonstrate](https://www.instagram.com/heckhouse)).
 
