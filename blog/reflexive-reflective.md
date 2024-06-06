@@ -4,16 +4,14 @@ title: Reflexive Reflective
 date: 2021-02-28
 slug: reflexive-reflective
 author: Andrew Lovett-Barron
-image: ../assets/832265b29f368372d80595f21df4f0ffe4ec7620-2048x1365.jpg
+image: 832265b29f368372d80595f21df4f0ffe4ec7620-2048x1365.jpg
 description: ""
-type:
-  - post
 tags:
   - design
   - process
   - research
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 Building a research practice is intimidating. You’re basically embarking on a path of creating a consistent discipline of seeking, synthesizing, and communicating knowledge that is either unknown or inaccessible by most. Nonetheless, this is something that thousands perform daily across a multitude of fields.
