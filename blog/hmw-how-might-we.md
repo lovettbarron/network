@@ -4,15 +4,13 @@ title: HMW How Might We?
 date: 2018-05-15
 slug: hmw-how-might-we
 author: Andrew Lovett-Barron
-image: ../assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png
+image: 01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png
 description: ""
-type:
-  - post
 tags:
   - design
   - process
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 If you’ve ever worked with a designer facilitating a workshop, or a supplicant of design thinking, you’ve probably heard the words “How Might We” spoken as though they were capitalized.
