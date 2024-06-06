@@ -4,7 +4,7 @@ title: Building Co-operative Design Briefs
 date: 2018-04-13
 slug: building-co-operative-design-briefs
 author: Andrew Lovett-Barron
-image: ../assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg
+image: ../assets/blog/old/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg
 description: ""
 type:
   - post
@@ -14,6 +14,7 @@ tags:
   - process
   - collaboration
 public: true
+modified: 2024-06-06T21:09
 ---
 
 In design teams, the “Brief” is often a shared understanding of the challenge the team is facing. It should include the client or corporate understanding of the need, major stakeholders, deadlines, tangible outcomes to be delivered, and personal needs or constraints for the team. This is the basic checklist for the task at hand, and sets the groundwork for the next weeks or months of work.
@@ -25,7 +26,7 @@ But most briefs fail to provide design teams with an adequate structure for movi
 - Maintain team wellbeing and mental health
 - Help the client better articulate their goals
 
-![](../assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg)
+![](../_assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg)
 
 ## **Structure**
 
@@ -49,7 +50,7 @@ A strong design process as much about creating the right environment for great w
 
 The room should have whiteboards and ideally walls that can hold up postit notes or butcher paper for pinning. Pre-seed some buckets for people to fill with post-its and notes. Some examples might include:
 
-![](../assets/ca98be98715c403766d0eef1b917a00564770049-714x342.png)
+![](../_assets/ca98be98715c403766d0eef1b917a00564770049-714x342.png)
 
 Budget at least 90min to work through everything, and try to have a loose timeline in place to get through everything that needs getting through. If you get everything but key stakeholders, for example, the brief will be incomplete.
 
@@ -65,11 +66,11 @@ Human activity starts from a place of beliefs about a problem or opportunity, an
 
 There’s a number of facilitation tools you can apply in this section. A solid go-to is the Ad-Lib approach:
 
-![](../assets/4243378559a428d45f97ae8f8a770d3997d4aefb-936x282.png)
+![](../_assets/4243378559a428d45f97ae8f8a770d3997d4aefb-936x282.png)
 
 Alternatively, a “spectrum” of Obvious to Far Out hypotheses can be a fun activity for users
 
-![](../assets/38e706a21ede135dea5bccb149d6a2eaadd4532a-966x416.png)
+![](../_assets/38e706a21ede135dea5bccb149d6a2eaadd4532a-966x416.png)
 
 ##
 
@@ -79,7 +80,7 @@ Effectively articulating the project goal includes two things: clear directions 
 
 Once again, an ad-lib approach when facilitating this section can be effective for focusing participants. Taking the example of **designing experiments**, I might put four buckets on the wall:
 
-![](../assets/816f923f65580de7a8ff28c28aab42e22791bc58-1188x212.png)
+![](../_assets/816f923f65580de7a8ff28c28aab42e22791bc58-1188x212.png)
 
 After filling these buckets with content from the team and voting on them, you should be able to form a sentence:
 
@@ -89,7 +90,7 @@ After filling these buckets with content from the team and voting on them, you s
 
 Once you’ve decided on your Project Goal, it’s time to revisit your stakeholders and hard constraints. Often the extended stakeholder network for the first idea isn’t the same as the decided upon brief, or occupy different levels of importance to the activity. A good exercise is to do a simple radial stakeholder mapping activity like this:
 
-![](../assets/ad8251dbc068c25c9a71407f3ba13686ebd7e9b6-792x612.png)
+![](../_assets/ad8251dbc068c25c9a71407f3ba13686ebd7e9b6-792x612.png)
 
 Make sure to revisit the constraints. Maybe one of them is no longer a hard constraint, but is instead has become flexible or a guideline. Perhaps the previous deadlines weren’t as important now that the Project Goal has been more effectively articulated.
 
