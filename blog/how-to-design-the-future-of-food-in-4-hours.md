@@ -4,7 +4,7 @@ title: How to Design the Future of Food in 4 Hours
 date: 2018-10-12
 slug: how-to-design-the-future-of-food-in-4-hours
 author: Andrew Lovett-Barron
-image: ../assets/664014e1ae25b43e217aaf3d7c58ae5db19581ab-1400x933.jpg
+image: ../assets/blog/old/664014e1ae25b43e217aaf3d7c58ae5db19581ab-1400x933.jpg
 description: ""
 type:
   - post
@@ -15,6 +15,7 @@ tags:
   - futures
   - collaboration
 public: true
+modified: 2024-06-06T21:08
 ---
 
 We can’t predict the future, but that shouldn’t stop us from designing for it!
@@ -23,11 +24,11 @@ Designers today have a responsibility for designing tomorrow, especially when it
 
 Cookpad is a food technology company started in Japan, but now in almost 70 countries from UK to Jakarta to Beirut. The company is best known for their recipe-sharing platform, but are also building technologies, perspectives, and communities with the goal of making everyday cooking fun. Ultimately, the goal of our design jam was to change the way we think about food, specifically problems around access to ingredients and the knowledge of what to cook with them. Cookpad is partnering with CIID (a design school and innovation platform) to solve a global problem: that people are cooking less and this has a negative impact on our individual and collective health and well-being, our community, and our environment.
 
-![](../assets/f5fd342b8eb07bf57b43cda68224133e72fcc9ea-1000x751.jpg)
+![](../_assets/f5fd342b8eb07bf57b43cda68224133e72fcc9ea-1000x751.jpg)
 
 Our Design Jam brought together over 20 global designers and foodies from countries like Taiwan, India, Copenhagen, Germany, Brazil, and beyond with three facilitators: from Copenhagen (Andrew Lovett-Barron from CIID), Shanghai (Simone Rebaudengo from [YEAST](https://medium.com/yeastlab)), and Bristol, UK (Philip Pantelides from Cookpad). Our challenge was to create a rapid-fire prototype and video exploring future scenarios. As the future is so unpredictable, the scenarios were created with a [random generator google spreadsheet](https://docs.google.com/spreadsheets/d/1DZBf9pJohb3O3a8g54oUr-kuzEyLop6Lwnk4f7CBMmA/edit?usp=sharing), and then massaged into ten scenario cards. (If you want to learn more about using scenario generation for design brainstorming, Andrew digs into the details here)
 
-![](../assets/664014e1ae25b43e217aaf3d7c58ae5db19581ab-1400x933.jpg)
+![](../_assets/664014e1ae25b43e217aaf3d7c58ae5db19581ab-1400x933.jpg)
 
 Within three hours and thirty minutes, all the groups had created a short video and prototypes to share with the rest of the group. The videos included stop motion with lego and characters, acted scenes and rituals, and improvised dinner scenes. How did they get this finished so quickly? We guided the teams through a structured churning of information into ideas, a process that you can also adopt when designing for the future or around complex problems:
 
@@ -35,7 +36,7 @@ Within three hours and thirty minutes, all the groups had created a short video 
 
 We provided some guidelines for brainstorming, including breaking the concepts down into smaller, more manageable chunks. We provided this example for how to bring down one of the prompts.
 
-![](../assets/2a7297072e39412361992124d534ca0ca494896d-1400x731.png)
+![](../_assets/2a7297072e39412361992124d534ca0ca494896d-1400x731.png)
 
 ## How Might We?
 
@@ -49,19 +50,19 @@ Once the problem was broken down, teams pulled out the Post-It notes to cluster 
 
 The goal is to find a design opportunity that results in divergent thinking. This means the possibility for solutions is increased. You can read a bit more about how to [use this technique yourself here.](https://medium.com/@readywater/hmw-how-might-we-c04423a4437d)
 
-![](../assets/368911a6f6cff9a069b34b6a9ad1a0d45b841db7-1400x933.jpg)
+![](../_assets/368911a6f6cff9a069b34b6a9ad1a0d45b841db7-1400x933.jpg)
 
 ## Draw, draw, draw
 
 After identifying a design opportunity, the teams took to pen and paper to sketch out ideas, thinking both about the environment they were designing for and people living these speculative realities. Visuals are a great way to share the context of an idea, and you don’t have to be a designer to create a simple sketch. In this example, the students created a multi-pronged straw and pneumatic food device to extract nutrients in a world without cutlery.
 
-![](../assets/46838a001c7d75432c1d4c43bc704bb24ab6870b-1400x1050.png)
+![](../_assets/46838a001c7d75432c1d4c43bc704bb24ab6870b-1400x1050.png)
 
 ## Storyboard time
 
 Before prototyping, it’s is a good idea to map out the story you are trying to tell. This builds empathy with those experiencing an environment, and creates a cohesive narrative around the objects and services being designed: answering the question of what happens before, after, and during an interaction with the product or service you are designing. One way to do this is storyboarding, where participants draw out what they Imagine, and then act out what they think will happen to test their idea.
 
-![](../assets/3b5cb03a5440aedabe5cff543db4f6313b8933f9-1000x1332.png)
+![](../_assets/3b5cb03a5440aedabe5cff543db4f6313b8933f9-1000x1332.png)
 
 ## Build
 
@@ -71,7 +72,7 @@ When testing futuristic design ideas without actually building potentially impos
 
 The context in which the people in our stories will interact with the prototype is key. Where they sitting down? Are they using their hands? Is it dark? Are they underwater? Then comes believe-ability: this is where you draw from real world experience. In this example, a futuristic scene from _Star Wars_ is made familiar through the scenario of a grounded pilot at war.
 
-![](../assets/2f84221883c143e9e6603a020407bb50ed2f8f17-1400x705.png)
+![](../_assets/2f84221883c143e9e6603a020407bb50ed2f8f17-1400x705.png)
 
 ##
 
@@ -83,10 +84,10 @@ Pro tip for video prototyping: use Instagram stories or [Apple’s Clips App](ht
 
 One innovative team even used their photo library to make stop motion clips ( one filming the other as they flicked through their photo library)!
 
-![](../assets/9ccb9d007f09919fb2c51598be52017abe8197ac-1400x1865.jpg)
+![](../_assets/9ccb9d007f09919fb2c51598be52017abe8197ac-1400x1865.jpg)
 
 We were super-grateful to everyone who came and threw themselves into these food “what ifs”. And we can’t wait to see what’s next for Cookpad and CIID’s creative partnership going forward.
 
-![](../assets/c7a2cf23ae0eba3b32aeede20d307f1a55ce8033-1400x933.jpg)
+![](../_assets/c7a2cf23ae0eba3b32aeede20d307f1a55ce8033-1400x933.jpg)
 
 _This article was originally published in [**Medium**](https://medium.com/ciid-stories/how-to-design-the-future-of-food-in-4-hours-feb3de598cbb)._
