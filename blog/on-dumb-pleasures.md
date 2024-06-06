@@ -4,13 +4,14 @@ title: On Dumb Pleasures
 date: 2021-06-22
 slug: on-dumb-pleasures
 author: Andrew Lovett-Barron
-image: ../assets/b009cc425b9fcc013815b772db8df72e63603051-2000x1000.png
+image: ../assets/blog/old/b009cc425b9fcc013815b772db8df72e63603051-2000x1000.png
 description: ""
 type:
   - post
 tags:
   - meta
 public: true
+modified: 2024-06-06T21:08
 ---
 
 I have terrible taste in film. I once suggested Zardoz to a first date, am a huge fan of the Conan movies and am a sucker for any given action film that happens to flit across my radar with at least somewhat recognizable tropes.
