@@ -4,7 +4,7 @@ title: War against Stagnation
 date: 2021-03-28
 slug: stagnation-war
 author: Andrew Lovett-Barron
-image: ../assets/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg
+image: ../assets/blog/old/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg
 description: ""
 type:
   - post
@@ -12,13 +12,14 @@ tags:
   - cyclical
   - momentum
   - process
+modified: 2024-06-06T21:09
 ---
 
 The practice of design has fragmented and spread in so many different directions that it can be hard to keep up. But fundamental to the identity of “a designer” is **critical thinking **and** enthusiastic creating.** Whatever one's medium of expression — be it interface, typography, physical object, or service — this is a common trait of the successful designer.
 
 ## **The problem with staying in one place**
 
-![](../assets/020ec1cdb611beedc97880417caa9886b61384ff-421x457.jpg)
+![](../_assets/020ec1cdb611beedc97880417caa9886b61384ff-421x457.jpg)
 
 But what happens when we aren’t empowered to think critically? What happens when our enthusiasm for creation wanes?
 
@@ -28,7 +29,7 @@ Sadly, that comfort and repetition can also serve to undermine us. At what point
 
 ## **Seeing Stagnation**
 
-![](../assets/e10be1b8bc7030359b64859df2489c6e1b48c463-953x493.gif)
+![](../_assets/e10be1b8bc7030359b64859df2489c6e1b48c463-953x493.gif)
 
 I spent most of my early adult life in Toronto, Canada. I grew up outside of Toronto, went to school in Toronto, was a design intern in Toronto, and started my first business in Toronto. I knew my people, I knew the city, and I was able to shape my own practice and my own little niche there. I had no thoughts of leaving.
 
