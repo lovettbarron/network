@@ -4,7 +4,7 @@ title: The 2024 Newsletter Plan
 date: 2024-05-14
 slug: 2024-newsletter-plan
 author: Andrew Lovett-Barron
-image: ../assets/2024-newsletter-plan-1.jpg
+image: ../assets/blog/old/2024-newsletter-plan-1.jpg
 description: The plan for 2024's newsletter and writing
 type:
   - post
@@ -12,7 +12,9 @@ tags:
   - meta
   - strategy
 public: true
+modified: 2024-06-06T21:08
 ---
+
 Hi! It’s been a while.
 
 ## What is this?
@@ -32,32 +34,21 @@ I’ll be sending this out every two weeks, usually an essay or tool. I’ll be 
 There’s a few topics that are on my mind lately, in the form of markdown notes, half-essays, and conversations:
 
 - Fun games for serious things
-    
 - Risk and “vibes”
-    
 - Automation and when not to
-    
 - Climate, food security, and surviving
-    
 - [Bullshyt](https://www.wired.com/2008/09/exclusive-video-4/) (and its value)
-    
 - [Protocols](https://summerofprotocols.com/) and prototyping
-    
 - Post-Covid Friendship, Community, and Networks
-    
 - Aging as a maker
-    
 
 ## What else?
 
 There’s a few things.
 
 - **I am actively seeking consulting clients for summer/fall 2024.** I’m a great design researcher who can also makes things. I excel at making complex systems legible in medium-to-large orgs. I often work around internal tooling, developer experience, APIs, and protocols. I run awesome workshops and training programs. I’ve worked at IDEO and the Pentagon (USDS), ran a B2C indie SaaS, and was an founding researcher at a serverless infrastructure startup. Some past clients include IKEA, Mozilla, CIID, Opentron Lab Robotics, and Innovation Fund Denmark (Innofounder). If you know a person or team who could benefit from my support, [let’s discuss!](mailto:alb@andrewlb.com)
-    
 - **I am making instagram videos**, god help me. They are mostly about running effective participatory workshops for now. It is terrifying and I would value feedback. This is a “do 100 of a thing” type of activity. You can find them here: [instagram.com/megafauna.cph](http://instagram.com/megafauna.cph)
-    
 - **I’m running standing “office” hours for sparring, questions, and fun**. Plenty of you are making use of this already and I’m loving it. [calendly.com/alb/social](http://calendly.com/alb/social)
-    
 
 With all of that said, I’ll leave off with this blog post. It’s a planning workshop tool I’ve been experimenting with since finishing my coach certification, though the post itself has ballooned to about 2000 words. You can skip ahead to the figjam board to get the gist.
 
