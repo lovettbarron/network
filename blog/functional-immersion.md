@@ -4,7 +4,7 @@ title: Functional Immersion
 date: 2021-08-22
 slug: functional-immersion
 author: Andrew Lovett-Barron
-image: ../assets/12d5a0081ce7c63c1c4a44a20760455787cbe018-640x360.jpg
+image: ../assets/blog/old/12d5a0081ce7c63c1c4a44a20760455787cbe018-640x360.jpg
 description: ""
 type:
   - post
@@ -14,6 +14,7 @@ tags:
   - process
   - cyclical
 public: true
+modified: 2024-06-06T21:08
 ---
 
 I’ve fairly recently changed my mind about virtual reality.
@@ -26,7 +27,7 @@ The thing is, we don’t have immersive virtual reality, and perhaps until we’
 
 What I’m curious about is what we might get if we had “functional” immersion, that former vision of the engineer or designer manipulating tiny things to create something emergent. Right now, we have a pretty substantive control gap in VR. The controllers that most of us have access to are pretty limited — crudely track hand position through IR broadcast picked up by some fixed or relative sensor. This limits what we can do pretty heavily, [though things are changing pretty quickly](https://www.researchgate.net/publication/320089681_The_New_Era_of_Virtual_Reality_Locomotion_A_Systematic_Literature_Review_of_Techniques_and_a_Proposed_Typology). And, of course, [there’s this](https://www.cybershoes.com/us/). ([Seriously](https://cybershoescom.wpengine.com/wp-content/uploads/sites/2/2019/10/Features_1_3.mp4))
 
-![](../assets/c8bf5c8211630d53ce8e215e2b74abf61340889b-850x293.png)
+![](../_assets/c8bf5c8211630d53ce8e215e2b74abf61340889b-850x293.png)
 
 Take a game like Half Life Alyx. It’s limited by its controllers, and so from a movement standpoint, we use a “teleportation” mechanism to navigate through the world. You point your controller, press a button, judge where you will “cast” yourself forward, and move. In some ways, it’s almost like Myst ([which is now also in VR?](https://www.youtube.com/watch?v=8UhHAsEdEKg)), in that your positioning and problem solving is fixed. One would think this is a problem, but then, Alyx also providers [one of the most harrowing and immersive video game experiences I’ve ever encountered in the form of “Jeff.”](https://www.youtube.com/watch?v=fd34m1ovR4Y)
 
@@ -44,7 +45,7 @@ If you had asked me a year or two ago my thoughts on VR, I’d have projected ba
 
 With this accessibility and overall smooth platform experience, suddenly a lot of functional things become possible. From the Gartner perspective, VR and AR were both well on their way towards productivity as experience platforms a few years ago, and we’re seeing how that manifests today.
 
-![](../assets/74732a3e1fa94a9ea806f677ff2e632a78f4a83c-850x575.png)
+![](../_assets/74732a3e1fa94a9ea806f677ff2e632a78f4a83c-850x575.png)
 
 For example, most VR headsets today have pretty decent passthru capabilities — meaning that you can leverage the camera sensor at the front to get an image of where you are in real space vs. virtual space.
 
@@ -68,7 +69,7 @@ What’s MORE interesting for me is a demo like this:
 
 In this case, Metalnwood showed an example of using a phone as a “button box”, situating an interactive object in both physical and digital space relative to their position in this driving simulator. One could easily imagine doing the same with an Elgato stream deck (which I use literally all day long) — mirroring the geometry and logic of the Streamdeck display inside a virtual environment.
 
-![](../assets/db1ed5f54c125975eec967ef14da4c6d1a840d91-1202x672.png)
+![](../_assets/db1ed5f54c125975eec967ef14da4c6d1a840d91-1202x672.png)
 
 While VR is finding a lot of its purchase in the gaming space (and this demo doesn’t deviate from that mold), we start to see some interesting possibilities when passthru cameras and virtual mirrors to real objects become more tangible. The Facebook demo situates the user at their desk with a laptop in front of them, and so provides a certain amount of analog between your situated and virtual experience. It does this via that passthru functionality mentioned before ([good explainer here](https://www.roadtovr.com/valve-index-passthrough-camera-room-view-3d/)).
 
@@ -76,29 +77,29 @@ In principle, I do think this is the right direction and a good overall approach
 
 What if we had peripherals meant to be interacted with in both virtual and physical space — with that virtual one layering more information?
 
-![](../assets/28fa888d31310326ce53afaa9cc1dd43bff50d7b-965x555.jpg)
+![](../_assets/28fa888d31310326ce53afaa9cc1dd43bff50d7b-965x555.jpg)
 
 The above colour grading tool by BlackMagic Design is an interesting tool to frame this around. Equipped with three trackballs, it provides the user (a video editor) a variety of axes around which to navigate a colour space and realize the intent of a given scene. It’s physical, intuitive, and immersive.
 
 What else might such an interface provide? There’s some interesting clues out there. The holographic interfaces of Prometheus and Alien: Covenant provide an interesting technology gap between humans and the mysterious Engineers. The former interacting with 3D space mostly through 2D dashboards, while the Engineers’ interfaces project both physically and virtually into the user’s space.
 
-![](../assets/03098166d49681b7f4d21cf36feb0d600fefc804-600x300.jpg)
+![](../_assets/03098166d49681b7f4d21cf36feb0d600fefc804-600x300.jpg)
 
 The puzzles in Half Life Alyx also present an interesting option, encouraging the player to (albeit somewhat clumsily) interact with a spherical space around whose surface you need to navigate a key through certain obstacles.
 
-![](../assets/24a8be6e826f89df0615f98d318a09ea46a294f4-1393x813.jpg)
+![](../_assets/24a8be6e826f89df0615f98d318a09ea46a294f4-1393x813.jpg)
 
 Other alternatives might be, say, a chording-style key controller like the Razer Tartarus combined with a dimensional controller like the 3D Connexion space mouse. Today’s 3D editors mostly use key combinations to nudge form from 3D primitives anyway — developing a certain amount of skill with such a device would permit.
 
-![](../assets/795a3b401a13cfdbc4ae1cfae0d8450e38f72f83-350x350.jpg)
+![](../_assets/795a3b401a13cfdbc4ae1cfae0d8450e38f72f83-350x350.jpg)
 
 Or, my personal favourite prototype and something I’m almost too scared to try, is an [Azeron](https://www.azeron.eu/) keypad. Here, the interface elements are situated around the hand, giving a kind of feedback for movement of the hand in 3D space.
 
-![](../assets/495a44502287e35ebdb184cfb6c0141670acb84e-1136x568.png)
+![](../_assets/495a44502287e35ebdb184cfb6c0141670acb84e-1136x568.png)
 
 It’s pretty easy to imagine such a controller (perhaps merged with a 6dof space mouse-like interface) being used to control something complex that is moving through 3D space.
 
-![](../assets/75d11fc34e633eb40b0b734df0e770c913438aa9-3036x2144.jpg)
+![](../_assets/75d11fc34e633eb40b0b734df0e770c913438aa9-3036x2144.jpg)
 
 In these scenarios, VR becomes the medium around which our interactions are defined and our interfaces are situated. Virtual environments with depth require controllers with greater depth, and a mix of physical and digital interface design to not only situate the user in their virtual environments, but also keep their work grounded in the kind of fine-grained, detailed work required of most functional professions. **A functionally immersive virtual design environment would be pretty seamless between virtual and physical because the immersion isn’t in the virtual world, but rather the construction of the form itself.**
 
