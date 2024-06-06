@@ -4,7 +4,7 @@ title: Avoiding Kits
 date: 2021-09-28
 slug: avoiding-kits
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/370682fae28fc754445455cb67c6bf58a1065948-3257x2172.png
+image: 370682fae28fc754445455cb67c6bf58a1065948-3257x2172.png
 description: Reconsidering the language and tools of Getting Started
 feature: true
 type:
@@ -14,7 +14,7 @@ tags:
   - thinking
   - strategy
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 I am often “getting started.” Part of the theory of Diverge, to be honest, is being in that frequent state of beginning something new as past explorations manifest in new curiosity. Usually, these things end up being related. For much of this year, I’ve gone back and forth in 3D printing, modelling, and some rudimentary game development. That’s included a few (maybe helpful) diversions, like getting a bit too interested in flight simulators.
