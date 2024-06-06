@@ -5,13 +5,11 @@ slug: benadryl-and-parachord
 author: Andrew Lovett-Barron
 image: bb0181cccb9a9b12445b65a6778ead9e7be04a0b-942x942.jpg
 description: ""
-type:
-  - post
 tags:
   - learning
 publish: true
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 With some luck and a generous vacation policy at my work, I was finally able to do a Wilderness First Responder (WFR) course. WFR is certification and training aimed at those who might need to stabilize a patient and wait for definite care in a setting where evacuation might take twenty-four hours or longer: Folk doing backcountry adventures, distance cyclists, Search and Rescue (SAR) volunteers, outdoor adventure guides, etc. In circumstances where you are over an hour away from care, there are things that you can do as a WFR that other first responders can’t in an urban setting: pulling traction on an angulated fracture to restore circulation and splint the injury, stopping CPR after no response, and ”clearing” a suspected spinal injury to name a few.
