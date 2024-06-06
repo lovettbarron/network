@@ -4,7 +4,7 @@ title: How to Design the Future of Food in 4 Hours
 date: 2018-10-12
 slug: how-to-design-the-future-of-food-in-4-hours
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/664014e1ae25b43e217aaf3d7c58ae5db19581ab-1400x933.jpg
+image: ../assets/664014e1ae25b43e217aaf3d7c58ae5db19581ab-1400x933.jpg
 description: ""
 type:
   - post
@@ -15,7 +15,7 @@ tags:
   - futures
   - collaboration
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 We can’t predict the future, but that shouldn’t stop us from designing for it!
