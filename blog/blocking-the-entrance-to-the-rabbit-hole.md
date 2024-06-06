@@ -4,7 +4,7 @@ title: Blocking the Entrance to the Rabbit Hole
 date: 2023-11-26
 slug: rabbit-hole
 author: Andrew Lovett-Barron
-image: ../assets/pasted-image-20230712140650.jpg
+image: ../assets/blog/old/pasted-image-20230712140650.jpg
 description: A bit of a meandering path down the mechanical keyboard and alternative layout rabbit hole, and back out again.
 type:
   - post
@@ -14,6 +14,7 @@ tags:
   - interface
   - technical
 public: true
+modified: 2024-06-06T21:09
 ---
 
 **\*Note**: I started this blog post 06/2023, and finished it 11/2023. A few things changed inbetween in terms of process, employment, etc. The final paragraph is the big addition.\*
@@ -31,16 +32,16 @@ Right now, I want to tell you about the absurdity of learning to type again.
 In mid 2021, I was solidly down the rabbit hole of mechanical keyboards and shifting away from the staggered layouts most of us use. My reasons for this were two fold: I had back pain which had resolved mostly when I switched to a split keyboard, and I am really don't think through how disruptive subtle changes to a core tool's ergonomics can be. By the time I DID realize this (having switched to a column-based layout), it was already too late and I could barely use a staggered keyboard anymore. The rabbit hole's entrance firmly blocked by my own hubris, I naturally descended even further.
 
 The custom keyboard world seems divided into a few types: those who are in it for a particular diy or be-netted aesthetic (streamers being a key cohort here). Often these won't have a noticeably different layout, but led lighting, resin or custom keycaps, and themed keys are central here. [image ref](https://www.reddit.com/r/MechanicalKeyboards/comments/740vrm/bubblegum_icecream/)
-![](../assets/pasted-image-20230712140010.png)
+![](../_assets/pasted-image-20230712140010.png)
 
 There are those who see an ergonomic rationale to switching away from staggered qwerty normality. Arguments around dvorak and colemak reign supreme here, as does distinguishing between certain types of layout like ortholinear (a grid of keys) vs columnar (column-based layouts that stagger vertically to match the ergonomics of one's hands). You will hear the term home row (where your fingers sit), movement from the homerow, and invariably hear about [Ergogen](https://docs.ergogen.xyz/), a tool to generate design files for your own totally custom keyboard PCB. [This is a very good essay that reflects this thinking.](https://zealot.hu/absolem/)
-![](../assets/pasted-image-20230712140310.png)
+![](../_assets/pasted-image-20230712140310.png)
 
 and then there are those of us with poor impulse control who just want to try something out, and again, find the rabbit hole blocked behind us.
 
 This leads me to the keyboard I am writing this post on: a 34 key split board I build myself from a kit, called a Ferris Sweep using a layout I've grown to love called [Miryoku](https://github.com/manna-harbour/miryoku) laid out in colemak dh. Oh no.
 
-![](../assets/pasted-image-20230712140650.jpg)
+![](../_assets/pasted-image-20230712140650.jpg)
 
 ## Damn it, Andrew
 
@@ -53,7 +54,7 @@ As an interaction designer who works mostly with screens, discovering the power 
 **Chords** are combinations of keys that invoke certain actions. The one you likely use most frequently is command-C and V to copy and paste, or Z to undo. But most programs have greater capacities that you can find in their documentation. For example, a research tool I have used frequently called Descript has a highlighting chord of command shift H, which I internalized while transcribing interviews.
 
 Layers are the idea that you can shift your keyboard's state and change the use of certain keys. An example in Miryoku is the numpad layer. Hold down or double tap the layer key and the left half of your keyboard becomes a numberpad.
-![](../assets/pasted-image-20230712142128.png)
+![](../_assets/pasted-image-20230712142128.png)
 
 This feels pretty clunky in theory: why have memorize these different layers when you can have a dedicated numpad or numbers running above the alphabetic row. Except it isn't about memorization. When using layers, you really do just come to internalize them by muscle memory, to the point where after some initial failures and needing a reference like the image above, you just type. And you type faster with less movement. It also opens the door to adding more functionality as you internalize things. I've read about folk adding gaming layers or shortcut layers to accomplish automation tasks or use a particular program like final cut or ableton more effectively, but I digress.
 
