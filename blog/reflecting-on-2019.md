@@ -4,7 +4,7 @@ title: Reflecting on 2019
 date: 2019-12-30
 slug: reflecting-on-2019
 author: Andrew Lovett-Barron
-image: ../assets/a8ba70e2347c6560d66a2789216b7b53e55e11c0-2411x1808.jpg
+image: ../assets/blog/old/a8ba70e2347c6560d66a2789216b7b53e55e11c0-2411x1808.jpg
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - meta
   - theory
 public: true
+modified: 2024-06-06T21:08
 ---
 
 2019 has been a weird combination of my most exhausting, fulfilling, chaotic, and structured year to date. Midway through 2018, I decided that I wouldn’t share anything until it was “done”, or at least passed a significant milestone. So while I usually don’t write posts like this, this year felt worth the reflection.
@@ -31,7 +32,7 @@ Fourth, I survived the fall, where all three of these came together with my cons
 
 ## The Baby – Emil
 
-![](../assets/452ecb4a6e72228ef7b81c232d417b1c3e71cc1b-4032x3024.jpg)
+![](../_assets/452ecb4a6e72228ef7b81c232d417b1c3e71cc1b-4032x3024.jpg)
 
 In the summer of 2018, I was back in the US for a few weeks and had just walked out of my NREMT exam when I called Ayla to tell her I’d passed. On the topic of positive test results, she shared that she was pregnant and everything started to shift. The remainder of that year became one of preparing for something neither of us really understood: in our bodies; our identities; our relationship to work, to the world, to each other, and to the son we hadn’t yet met.
 
@@ -43,7 +44,7 @@ Ultimately, I think this means taking the quotidian parts of parenthood incredib
 
 ## The Product – Knowsi
 
-![](../assets/d88f0091e52655c12e56f6c4072f10ae6e5c22f8-5000x3333.png)
+![](../_assets/d88f0091e52655c12e56f6c4072f10ae6e5c22f8-5000x3333.png)
 
 [Knowsi](https://knowsi.com/) emerged from a conviction that consulting as I had been doing likely wasn’t the right path forward. Coming off of an extended consulting project that had seen me back-and-forth from the UK and fairly burnt out, I had been collecting and exploring different ideas (and savings) for a small, bootstrappable Software-as-a-Service business. My theory: knowing that Emil was on his way, I wanted to have something that could bring in income and support a working lifestyle that would let me be present.
 
@@ -57,7 +58,7 @@ Finally, I also just launched free subscription tier to support students and sol
 
 ## The Degree – Starting a Masters
 
-![](../assets/37a7325097264cb77b7e50852c9570a02ebc3e3e-3840x2160.jpg)
+![](../_assets/37a7325097264cb77b7e50852c9570a02ebc3e3e-3840x2160.jpg)
 
 This has been a long time coming. I’ve flirted with graduate school for years. In 2012, I’d been accepted to NYU’s ITP program and almost moved to New York. However, after months of soul searching, I ended up saying no because didn’t want to be in that kind of debt.
 
@@ -71,7 +72,7 @@ Anyway, I’ve just wrapped up the first term and starting to think about my dis
 
 ## The Problems — Survival
 
-![](../assets/706432d0a26dc4bb59eafa7b3b3882796e8dd2c6-8400x6600.jpg)
+![](../_assets/706432d0a26dc4bb59eafa7b3b3882796e8dd2c6-8400x6600.jpg)
 
 Finally, survival. This year has had a lot to do with privilege. My wife and I have benefited from the Danish child care policies. I had access to personal capital, skills, and time to start a small business. I had a network and the time to apply for a university. I had the network and skills to be selective in what I do work.
 
@@ -105,7 +106,7 @@ There are a few things this year that didn’t quite work out.
 
 ## Going into 2020
 
-![](../assets/b90d63913641d8df9ee40a2c5e44fb2da980693e-1242x923.jpg)
+![](../_assets/b90d63913641d8df9ee40a2c5e44fb2da980693e-1242x923.jpg)
 
 So what does 2020 look like? Honestly, I don’t know yet, and to the point of my “don’t share until there’s a milestone” thing, I’ll share when it’s time.
 
