@@ -4,7 +4,7 @@ title: The Design Researcher’s Everyday Carry
 date: 2019-06-12
 slug: the-design-researcher’s-everyday-carry
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/6fcd4c676a4c7094dabd6cc5c2c34985d3b714bf-2000x1128.jpg
+image: ../assets/6fcd4c676a4c7094dabd6cc5c2c34985d3b714bf-2000x1128.jpg
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - research
   - methods
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Design research is about sensing and synthesizing the needs of your stakeholders: a fundamentally human task. But we’re tool-using mammals, and it’s worth spending some time thinking about the design researcher’s Everyday Carry (EDC). [While a quick google of EDC](https://www.google.com/search?tbm=isch&q=everyday+carry) will usually surface photos of knives and paracord ([with William Gibson giving one of my favorite offhand critiques of it in Zero History](https://www.goodreads.com/quotes/tag/gear-queer)), I think we can make a strong argument for a softer and more open collection. Maybe it’s time for an EDC that isn’t all about self-defense and survival, and instead one that celebrates the vulnerability and open listening necessary to do good design research.
