@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 12 The Constrained Issue
 date: 2020-05-26
 slug: diverge-weekly-issue-12-the-constrained-issue
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/b057c97c0533707b8e6ca72f3e74eb237331803f-954x632.jpg
+image: ../assets/b057c97c0533707b8e6ca72f3e74eb237331803f-954x632.jpg
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - diverge
   - security
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Being a creator of things — software, products, services, policy, etc — means navigating a world of constraints. There were two stories of constraints that I encountered in the past week which I wanted to share.
