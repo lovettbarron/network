@@ -4,7 +4,7 @@ title: Designers in the Military
 date: 2021-06-28
 slug: military-design-workshop
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png
+image: ../assets/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png
 description: A first-hand account of working with military professionals and design
 type:
   - post
@@ -14,7 +14,7 @@ tags:
   - report
 feature: true
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 What does it mean to design for the propagation of security? In a way, this is one of the grand questions of international relations and its sub field, security studies. Exploring what contexts (events, regimes, situations, etc) create or compromise our understanding of security, how security is constructed through foresight and hindsight on these contexts, and who experiences — or sees a loss of — security given those contexts (and whether it’s equitable, uneven, or even mutually exclusive).
