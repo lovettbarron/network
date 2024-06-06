@@ -4,7 +4,7 @@ title: Coordinating global cities research Knowsi case study
 date: 2020-09-29
 slug: coordinating-global-cities-research-knowsi-case-study
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg
+image: ../assets/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg
 description: ""
 type:
   - post
@@ -13,7 +13,7 @@ tags:
   - knowsi
   - design
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 _Originally published as a guest blog on [**Sage Ocean**](https://ocean.sagepub.com/blog/tools-and-tech/coordinating-global-cities-research-knowsi-case-study)._
