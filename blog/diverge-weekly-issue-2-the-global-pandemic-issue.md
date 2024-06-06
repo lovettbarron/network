@@ -4,13 +4,14 @@ title: Diverge Weekly Issue 2 The Global Pandemic Issue
 date: 2020-03-17
 slug: diverge-weekly-issue-2-the-global-pandemic-issue
 author: Andrew Lovett-Barron
-image: ../assets/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg
+image: ../assets/blog/old/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg
 description: ""
 type:
   - post
 tags:
   - diverge
 public: true
+modified: 2024-06-06T21:08
 ---
 
 This past week we’ve seen the “exponential” part of exponential growth hit the world like a tidal wave. Markets have dipped, businesses are scrambling, and the people that constitute both are unsure of what’s coming.
@@ -37,7 +38,7 @@ Be safe and be generous. Finally, look after yourself now, because like everyone
 
 ## Security Blanket
 
-![](../assets/63a170eb9964bdad3bc841c542edbd5dc543237b-1180x787.jpg)
+![](../_assets/63a170eb9964bdad3bc841c542edbd5dc543237b-1180x787.jpg)
 
 [**Islamic State Advice on Coronavirus Pandemic**](http://www.aymennjawad.org/2020/03/islamic-state-advice-on-coronavirus-pandemic)
 
