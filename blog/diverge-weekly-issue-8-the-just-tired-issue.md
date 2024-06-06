@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 8 The Just Tired Issue
 date: 2020-04-28
 slug: diverge-weekly-issue-8-the-just-tired-issue
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/63c931b7a623167f8c39babf15a1d8024ebe51bc-1180x885.png
+image: ../assets/63c931b7a623167f8c39babf15a1d8024ebe51bc-1180x885.png
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - diverge
   - covid
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Everyone I talk to lately is tired.
