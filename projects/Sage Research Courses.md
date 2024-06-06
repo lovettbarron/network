@@ -6,7 +6,7 @@ slug: webinar
 url: https://methods.sagepub.com/video/srmpromo/7csp10/designing-trust-relationships-in-research
 alive: true
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/sage-webinar.png
+image: sage-webinar.png
 description: Original Research Method content for Sage Publishing
 categories:
   - project
@@ -15,7 +15,7 @@ tags:
   - research
   - talk
 feature: false
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:21
 ---
 
 I created a pair of original content webinars for the Sage Publishing Online Platform, both based on previous blog posts.
