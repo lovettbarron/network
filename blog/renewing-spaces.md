@@ -4,7 +4,7 @@ title: Renewing Spaces
 date: 2021-11-16
 slug: renewing-spaces
 author: Andrew Lovett-Barron
-image: ../assets/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png
+image: ../assets/blog/old/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - theory
   - process
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Every few months, my wife and I change around our apartments configuration. The way this manifests is always a bit different. On the extreme end, we might move the bed into a different room, discard or donate a beloved piece of furniture, or engage in something vaguely reminiscent of a Konmari via scorched earth campaign.
@@ -55,6 +56,6 @@ This is basically a trick I was taught in graphic design (a discipline where my 
 
 I’m a very firm believer in rapid, bordering on frantic iteration with the belief in something emergent. In a project or product, that’s a good way to get to something that one refines; but in a home, we’re often provided the baseline that we then need to work our way around.
 
-![](../assets/4e97abc2c8342ee0f7b63320e6cb92b4dd12ef10-739x546.png)
+![](../_assets/4e97abc2c8342ee0f7b63320e6cb92b4dd12ef10-739x546.png)
 
 If we take Stuart Brand’s (who I got to meet once, supremely cool human) idea of shearing layers as a map of personal agency over a space, most of us at best affect the stuff and space plan layer. Some of us have the foresight and capital to organize aspects of the others, but even then the pace of change is dramatically slower, measures in years, decades, even centuries. By focusing on and valuing the quick, rapidly changing layers in our home, we have the opportunity to visit a new place in an old space time and time again — celebrating something loved with renewal and helping it grow alongside us.
