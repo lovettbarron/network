@@ -4,7 +4,7 @@ title: The Problem with Validity
 date: 2021-03-15
 slug: validity-problem
 author: Andrew Lovett-Barron
-image: ../assets/f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png
+image: ../assets/blog/old/f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - process
   - thinking
 public: true
+modified: 2024-06-06T21:09
 ---
 
 How much of what I just discovered is my own beliefs reflecting back on me — lightly but insignificantly embellished by the research completed?
@@ -23,7 +24,7 @@ This is often what we talk about when we talk about validity — the degree to w
 
 ## **The Utility of Theory**
 
-![](../assets/ac9a324f63e6c97dcfea793a2de8d4f9f560f7bd-800x533.png)
+![](../_assets/ac9a324f63e6c97dcfea793a2de8d4f9f560f7bd-800x533.png)
 
 Validity. Usually, we hear the words reliability (are the findings consistent and accurate?), generalizability (are the findings generalizable/relevant to the population being studied?) and validity (are the findings reflective of what we intended to measure?) tossed around together, and they can’t really be separated, but we’re going to focus on validity. The usual visual model is that validity is hitting the bull’s eye with a date, and reliability is hitting that same bull’s eye five times.
 
@@ -41,7 +42,7 @@ Post-modernist qualitative research then situates the researcher as observing an
 
 ## **Why Protection**
 
-![](../assets/d78c0253e78fb0abd7b61c50dee0672d54859ab6-4050x2700.png)
+![](../_assets/d78c0253e78fb0abd7b61c50dee0672d54859ab6-4050x2700.png)
 
 Post-modernist qualitative research can — initially — seem like a bit of a cop-out to the more positivist-leaning disciplines. It can feel a bit like you’re simply ducking the validity question altogether — arguing that because there’s no objective truth, we needn’t even bother. How can someone be confident with the results then?
 
