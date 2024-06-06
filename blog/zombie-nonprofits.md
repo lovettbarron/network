@@ -4,7 +4,7 @@ title: Zombie Nonprofits
 date: 2021-07-11
 slug: zombie-nonprofits
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/eb9fb779b209fa3e07841b4f99ec8a743212a271-2048x1536.png
+image: eb9fb779b209fa3e07841b4f99ec8a743212a271-2048x1536.png
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - policy
   - fellowship
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:21
 ---
 
 _This is a republish of an article written with Dahna Goldstein for [the Chronicle of Philanthropy.](https://www.philanthropy.com/article/charities-and-their-founders-need-more-exit-ramps/)_
