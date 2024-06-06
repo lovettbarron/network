@@ -6,7 +6,7 @@ slug: knowsi
 url: https://knowsi.com
 alive: false
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/knowsi.jpg
+image: ../assets/knowsi.jpg
 description: Designed and Developed a consent management platform for researchers, run as a mostly break even SaaS business that closed in 2022. Awarded the Sage Publishing Concept Grant for 2020.
 categories:
   - project
@@ -18,7 +18,7 @@ tags:
   - business
   - JS
 feature: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Knowsi was a Consent Management platform built on NextJS and Apollo, stemming from my own experience in design research. I had the opportunity to build a SaaS product from scratch, thanks to that combo of skills both being able to design and build the product. I had wanted to go past the design phase though and explore the full lifecycle of building a business, and so Knowsi became the fulcrum for that.
