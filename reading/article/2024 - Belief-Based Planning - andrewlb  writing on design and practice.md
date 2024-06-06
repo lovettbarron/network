@@ -10,12 +10,16 @@ last_highlight: 2024-05-16
 type: articles
 tags:
   - articles
+date: 2024-06-04T13:14
+modified: 2024-06-06T21:09
 ---
+
 # Belief-Based Planning
 
 ![rw-book-cover](https://andrewlb.com/social/og-image.png)
 
 ## Metadata
+
 - Author: [ writing on design and practice](andrewlb.md)
 - Full Title: Belief-Based Planning
 - Category: #articles
@@ -23,5 +27,6 @@ tags:
 - URL: https://andrewlb.com/blog/belief-based-planning/
 
 ## Highlights
-- ![](https://andrewlb.com/blog/belief-based-planning/../assets/belief-based-planning-1.png) ([View Highlight](https://read.readwise.io/read/01hy0zy0v72kakk8xa3x94nz1c))
-- ![](https://andrewlb.com/blog/belief-based-planning/../assets/belief-based-1.png) ([View Highlight](https://read.readwise.io/read/01hy0zyb4bs1rzjqm9z0xk587s))
+
+- ![](https://andrewlb.com/blog/belief-based-planning/../assets/blog/old/belief-based-planning-1.png) ([View Highlight](https://read.readwise.io/read/01hy0zy0v72kakk8xa3x94nz1c))
+- ![](https://andrewlb.com/blog/belief-based-planning/../assets/blog/old/belief-based-1.png) ([View Highlight](https://read.readwise.io/read/01hy0zyb4bs1rzjqm9z0xk587s))
