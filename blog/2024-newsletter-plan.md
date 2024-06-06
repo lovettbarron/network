@@ -4,7 +4,7 @@ title: The 2024 Newsletter Plan
 date: 2024-05-14
 slug: 2024-newsletter-plan
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/2024-newsletter-plan-1.jpg
+image: 2024-newsletter-plan-1.jpg
 description: The plan for 2024's newsletter and writing
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - meta
   - strategy
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:21
 ---
 
 Hi! It’s been a while.
