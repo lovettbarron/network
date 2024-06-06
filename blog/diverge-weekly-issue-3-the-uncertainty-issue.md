@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 3 The Uncertainty Issue
 date: 2020-03-24
 slug: diverge-weekly-issue-3-the-uncertainty-issue
 author: Andrew Lovett-Barron
-image: ../assets/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg
+image: ../assets/blog/old/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - diverge
   - futures
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Last week, [I wrote about the balance of intervention and foresight](https://andrewlb.com/diverge-weekly-issue-2-the-global-pandemic-issue/) in a design-based response to the coronavirus pandemic, and closed with the William Gibson quote “The future is already here — it’s just not very evenly distributed.” We are all experiencing Covid-19 on different schedules and scales, with Italy being the most egregious case and with [America marching blindly into its wake](https://www.politico.com/news/2020/03/24/trump-wants-to-restart-economy-by-mid-april-146398). _This means that our individual construction of the future in this pandemic is relative to our own experience and belief about the future_ and that relativism is the focus of this week.
@@ -34,7 +35,7 @@ The problem with these three actions is that they reflect an inflection point th
 
 But these decisions and actions have a vital influence on our future and the outcomes we march towards. Design futurist Stuart Candy is well known for his Cone of Possibility, a rendering of the present squeezing a series of potential futures through its aperture. The question is: when does the future catch up and which set of actions lead us to what is preferable?
 
-![](../assets/d6002187139aebae1ee9dc809213a5e65e7916a2-1180x1062.png)
+![](../_assets/d6002187139aebae1ee9dc809213a5e65e7916a2-1180x1062.png)
 
 If we’re looking at the longer tail of this crisis, apprehension, mitigation, and ignorance might not be all that different in terms of collective outcomes, but they ARE decisions that we make. This pandemic is a collective action problem: individual actions might offset or buffer one from the worst (or in the case of the spring breakers, drastically increase their own and others’ risk), the aggregate outcome is still likely to be the same. But then the question is, at what scale?
 
@@ -54,7 +55,7 @@ On that note, my wife and I [created a very bleak, no-fun game to try and predic
 
 ## Security Blanket
 
-![](../assets/36fd0fcfbbf7f6b64f7064c2207abdf86d0e6241-550x305.jpg)
+![](../_assets/36fd0fcfbbf7f6b64f7064c2207abdf86d0e6241-550x305.jpg)
 
 [**How Coronavirus Scammers Hide On Facebook And YouTube**](https://www.bellingcat.com/news/rest-of-world/2020/03/19/how-coronavirus-scammers-hide-on-facebook-and-youtube/)
 
