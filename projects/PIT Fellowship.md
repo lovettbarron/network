@@ -6,7 +6,7 @@ slug: publicinterest
 url: http://pit.andrewlb.com/
 alive: false
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/public-interest-tech-fellowship-1.png
+image: ../assets/public-interest-tech-fellowship-1.png
 description: Researching engineering in the non-profit sector
 categories:
   - project
@@ -18,7 +18,7 @@ tags:
   - design
   - JS
 feature: false
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 As one of the first Public Interest Tech Fellows, my focus was on sustainable business models for public interest technology. In addition to writing and supporting the projects of other fellows, I created and continue to maintain the Grant Calculator project.
