@@ -4,7 +4,7 @@ title: Reflecting on 2020
 date: 2020-12-31
 slug: reflecting-on-2020
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/a2cef70d4c75b04100cb8a159673af6c9f1f023f-1318x642.png
+image: ../assets/a2cef70d4c75b04100cb8a159673af6c9f1f023f-1318x642.png
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - reflection
   - meta
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Well, that was a year. My family and I were more fortunate than most, but not as fortunate as some when it came to navigating the weirdness that was 2020. It felt a bit like we rounded a bend in an already turbulent river — only to encounter a flock of black swans and Nassim Taleb chortling on the banks.
