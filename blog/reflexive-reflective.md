@@ -4,7 +4,7 @@ title: Reflexive Reflective
 date: 2021-02-28
 slug: reflexive-reflective
 author: Andrew Lovett-Barron
-image: ../assets/832265b29f368372d80595f21df4f0ffe4ec7620-2048x1365.jpg
+image: ../assets/blog/old/832265b29f368372d80595f21df4f0ffe4ec7620-2048x1365.jpg
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - process
   - research
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Building a research practice is intimidating. You’re basically embarking on a path of creating a consistent discipline of seeking, synthesizing, and communicating knowledge that is either unknown or inaccessible by most. Nonetheless, this is something that thousands perform daily across a multitude of fields.
@@ -37,7 +38,7 @@ What’s important is that we’re building tools to reflexively reflect on HOW 
 
 ## **A Reflexive Research Process**
 
-![](../assets/f8ebc086022cb1e0e7a0e8748a47058a76f81d28-1228x838.png)
+![](../_assets/f8ebc086022cb1e0e7a0e8748a47058a76f81d28-1228x838.png)
 
 Many people believe — I think erroneously — that reflection is in one’s nature. But this dismisses the rigour that reflective practice often requires. It can manifest as forced periods of isolation and focus (a friend once said she did her best work on planes, and so had come to spend dedicated chunks of time locked in a phone booth sized workspace in our office), or protected chunks of time on a calendar that otherwise has a high billable rate. What sets researchers apart is that the reflective time necessarily emerges in response to the experiences and data we collect in the field.
 

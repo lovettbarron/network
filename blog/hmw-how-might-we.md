@@ -4,7 +4,7 @@ title: HMW How Might We?
 date: 2018-05-15
 slug: hmw-how-might-we
 author: Andrew Lovett-Barron
-image: ../assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png
+image: ../assets/blog/old/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - design
   - process
 public: true
+modified: 2024-06-06T21:09
 ---
 
 If you’ve ever worked with a designer facilitating a workshop, or a supplicant of design thinking, you’ve probably heard the words “How Might We” spoken as though they were capitalized.
@@ -44,13 +45,13 @@ A succinct brief is vital, and the fuel for this process. That brief can come fr
 
 So, that has two parts:
 
-![](../assets/047067af69d7391f9654dc1e00986e84e3673d7c-456x150.png)
+![](../_assets/047067af69d7391f9654dc1e00986e84e3673d7c-456x150.png)
 
 **2: Creating HMW statements**
 
 Creating the HMW statement is tied to how you break down the brief. Reduce Digital Addiction is a good starting point, as you can already frame it as _HMW Reduce digital addiction_?
 
-![](../assets/48c1440fad78fd3ab8eed4593581072352d1fcf6-699x720.png)
+![](../_assets/48c1440fad78fd3ab8eed4593581072352d1fcf6-699x720.png)
 
 Consider your timing — you might want to vote at this stage, and only pick a few HMWs to focus on.
 
@@ -58,7 +59,7 @@ Consider your timing — you might want to vote at this stage, and only pick a f
 
 This isn’t usually necessary for experienced design teams, but it’s a good way to push past confusion when facilitating.
 
-![](../assets/f568f68b627859473b1a4fa7c4ed5a0cc565ab6a-702x549.png)
+![](../_assets/f568f68b627859473b1a4fa7c4ed5a0cc565ab6a-702x549.png)
 
 Repeat this step for each of the main HMWs you’ve selected.
 
@@ -68,7 +69,7 @@ This is where we bring together the different steps into ideas. Focus on a singl
 
 Then set a time limit and possibly a goal. 5 minutes and 5 ideas is usually easy for any team. Everyone goes heads down for 5 minutes and sketches out their ideas. The facilitator keeps time and reminds people to switch up every minute. The ideas can look like any of these:
 
-![](../assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png)
+![](../_assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png)
 
 After 5 minutes, ask everyone to go around and put their sketches up on the board, describing them as they go. Ask others to sketch new ideas or changes as they are inspired by what they see. Spend a few minutes talking about the ideas after everyone has had their turn.
 

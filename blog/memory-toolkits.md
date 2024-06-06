@@ -4,7 +4,7 @@ title: Memory Toolkits
 date: 2021-04-19
 slug: memory-toolkits
 author: Andrew Lovett-Barron
-image: ../assets/5b355e4c9a508314a3925dac85e57b6f4289c01c-2000x1031.jpg
+image: ../assets/blog/old/5b355e4c9a508314a3925dac85e57b6f4289c01c-2000x1031.jpg
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - process
   - followup
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Sometime earlier this year, I think I had reached a personal threshold for managing information consumption where things just broke down.
@@ -33,7 +34,7 @@ So I’ve spent the past few weeks experimenting with trying to get things organ
 
 I use two digital tools for this: [Workflowy](https://workflowy.com/), which is a kind of infinite bullet list with some decent search tools,
 
-![](../assets/dd6797246a93ad3296c9c02a16c273e5124f9fdd-1450x1022.png)
+![](../_assets/dd6797246a93ad3296c9c02a16c273e5124f9fdd-1450x1022.png)
 
 and a [remarkable](https://remarkable.com/) tablet for writing.
 
@@ -41,7 +42,7 @@ They are kind of unbridled “capture” tools, helping me to ensure that info l
 
 Workflowy suits the way that I think about information — especially when doing qualitative research. I have areas that I want to explore, and I dig into them. Unfortunately it makes reflecting back on what I’ve recently captured pretty difficult. Tools like Notion are better suited for taking disparate information and organizing them as dashboards, but Notion definitely isn’t as blazingly fast as Workflowy is. So when I need a firehose of information capture, Workflowy is it for me.
 
-![](../assets/52328807b8a5b6b39557882dabb5d99bd235eb18-2500x1873.png)
+![](../_assets/52328807b8a5b6b39557882dabb5d99bd235eb18-2500x1873.png)
 
 The Remarkable was a somewhat impulse purchase that has proven to be a huge boon. I really loathe reading on screens, and given the quantity of journal articles I was reading for school, I decided to try and make a change. Unfortunately, the Remarkable tablet doesn’t have a good method for highlighting at this point in time, so it ended up not being nearly as useful for consumption as I had hoped. It HAS been excellent for note taking though. I don’t necessarily reference back to all my notes, but having consistent, tagged, and even OCRed handwritten notes has helped me to keep track of conversations, whilst not distracting me, as computer-based note-taking might do.
 
@@ -51,17 +52,17 @@ So. Two ways to capture.
 
 Once I’ve captured something, I need to somehow filter and cull that into something useful. Unfortunately, this has become a bit of a weak link. I used to do this in an app called [Bear](https://bear.app/), which is just a simple Markdown editor. I’m actually writing this in Bear now, which I’ll get to.
 
-![](../assets/fbff04e3ab6d31c954f140e38c79def0abd6ada1-1248x684.png)
+![](../_assets/fbff04e3ab6d31c954f140e38c79def0abd6ada1-1248x684.png)
 
 Unfortunately, Bear became a bit unwieldy for me to wrangle all the different notes I had coming in. I’d have a few things at the top pinned as “ongoing” work, such as my thesis, a list of people I want to connect with, different project and product ideas (both [Knowsi](https://knowsi.com) and [Stupid Fits](https://stupidfits.com) got started in that list).
 
-![](../assets/fca1d063b23284d79cd8df18167d77b08edd5d10-1200x800.png)
+![](../_assets/fca1d063b23284d79cd8df18167d77b08edd5d10-1200x800.png)
 
 This is the weak link. Currently, this goes into Things for TODO items, and then I HAD been using Bear to capture secondary notes, but it hasn’t ended up working as well as I’d like. In theory, it’s easy to create cross-linked and similar notes, as well as coherent tags, categories, etc. But it never quite worked for me as a tool to prune AND connect information.
 
 So currently, I’m doing two things. First, if there’s something I need to do, I put it in [Things](https://culturedcode.com/things/), which I’ve tried to quit about ten times now and keep returning to. It’s not great, but it’s useful as a personal to-do list. Quick in, quick out. The only other thing that seems to work for me to-do list wise is a Hobonichi style notebook.
 
-![](../assets/63c2da1d868cf0a180045cad41671d84bb253a4d-1600x1198.png)
+![](../_assets/63c2da1d868cf0a180045cad41671d84bb253a4d-1600x1198.png)
 
 But that doesn’t solve the issue of connecting. It gives me a good basis for turning what I’m learning into something to do, but not for making longer connections for structured reflection.
 
@@ -69,13 +70,13 @@ But that doesn’t solve the issue of connecting. It gives me a good basis for t
 
 There’s one more piece to the pruning side worth thinking about though, which is collecting references. I’ve been through a bunch of different tools for this, and actually, [part of my newsletter](https://divergeweekly.com) is based on the idea of just sharing what I find to be inspiring. But partially, I’m hoarding information a bit. Using tools like [Pinboard.in](http://Pinboard.in) or Pocket, I have these really quick ways to capture stuff to read later — but then I don’t always read it later with enough attention to really capture and prune it.
 
-![](../assets/89e4cf7766e310cf44e0ec00fbbcc9ef82e01e86-2880x1800.png)
+![](../_assets/89e4cf7766e310cf44e0ec00fbbcc9ef82e01e86-2880x1800.png)
 
 This is where I ended up investing in [DevonThink](https://devontechnologies.com/), which I’m not yet sure was the right idea. DevonThink is basically a giant database and search interface that you pump information into, and it gives you a good basis for search and recovery. With thousands of PDFs, RSS feeds, and even podcasts ([thanks to a clever script by Alex Chan I was able to modify](https://twitter.com/Readywater/status/1382817963863080960?s=20)), DevonThink becomes a kind of “starting off point” for when I have something in mind and but can’t quite remember where it lived. Unfortunately, DevonThink is also a monstrosity of complexity — presuming knowledge of file systems, scripting, and similar to navigate effectively. I know a lot of that stuff and am still struggling.
 
 That said, I used it to get a start on a new essay last week and it got me started faster than I could have anticipated. So my hope is by investing some time in getting the DevonThink thing right, I’ll end up with an absolutely invaluable tool going forward.
 
-![](../assets/896fa6152d5812cc932fde10ab3fb26b366fa707-1934x996.png)
+![](../_assets/896fa6152d5812cc932fde10ab3fb26b366fa707-1934x996.png)
 
 The other most recent attempt at this is [Readwise](https://readwise.io/i/andrew6628), which I just discovered and absolutely love. It basically syncs your highlights in Kindle and other services, and then serves them back to you following the [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) principle you find in most language learning software. I don’t know why I find this so charming and useful, but it’s been providing some great fodder for thought recently.
 

@@ -4,18 +4,19 @@ title: Power and Fantasy — Hamcus SS21
 date: 2021-04-04
 slug: hamcus-ss21
 author: Andrew Lovett-Barron
-image: ../assets/hamcus-3840x2560.jpg
+image: ../assets/blog/old/hamcus-3840x2560.jpg
 description: ""
 type:
   - post
 tags:
   - fashion
 public: true
+modified: 2024-06-06T21:08
 ---
 
 With a reflective approach to narrative storytelling, Hamcus builds familiar yet foreign worlds through unique construction, distinctive dyeing techniques, and a well-considered design language. [I wrote an intro to Hamcus earlier this year](https://andrewlb.com/full-hamcus/) that should serve as a deeper introduction, but suffice it to say that the first of six drops in the Spring/Summer season of Hamcus continues the iterative refinement that I’ve come to admire in Tuff Leung’s work.
 
-![](../assets/21162d898ea677a9f16586972c36be02ed689094-1536x2048.png)
+![](../_assets/21162d898ea677a9f16586972c36be02ed689094-1536x2048.png)
 
 In this first instalment of SS21, we seem to be taking some time to consider **power** as a theme, more **technical materials** as a material evolution, and a **preview of what’s to come**. This final point is worth considering as well, as the Hamcus team has invested in updates to their site and marketing, to make an otherwise wild brand just that little bit more accessible.
 
@@ -25,7 +26,7 @@ In this first instalment of SS21, we seem to be taking some time to consider **p
 
 So against this backdrop, a brand based in China with an eye to American markets sets out to tell a story about bonded survivalists and corporate power brokers.
 
-![](../assets/72d50520e3fadd48d161b1d4c8cb04213139a6d8-1312x584.png)
+![](../_assets/72d50520e3fadd48d161b1d4c8cb04213139a6d8-1312x584.png)
 
 Here’s what the Hamcus team shared to set the scene for this season:
 
@@ -39,7 +40,7 @@ Here’s what the Hamcus team shared to set the scene for this season:
 
 In a vein similar to the epochal writing of Liu Cixin in his [Remembrance of Earth’s Past trilogy](https://bookshop.org/a/19778/9780765382030), Tuff and his team compose technical, organizational, and environmental constraints around the narrative arc their creations both follow and construct. Harsh conditions, reused and recaptured materials, and corporate factionalism become the nodes around which garments, styles, and characters accrete.
 
-![](../assets/54ddfc76ad8e21b5f1724df43f50e8c050f91c08-1536x2048.png)
+![](../_assets/54ddfc76ad8e21b5f1724df43f50e8c050f91c08-1536x2048.png)
 
 [This particular blazer](https://hamc.us/collections/21_01_ss/products/copy-of-fm01421-1-mb) (almost sold out) is an interesting example of this. In the way that it’s styled, described and photographed, there’s an air of the private military contractor and corporate anonymity. Like most of Hamcus’ premiere pieces, it is able to transform in distinct ways — suggesting some hidden agency or power behind an otherwise familiar cut.
 
@@ -59,7 +60,7 @@ Hamcus has done a lot in the past few months to not just evolve their product (a
 
 They aren’t actually alone in this. Rick Owens, for example, is known to order muslin copies of his previous seasons’ pieces to be ripped up, chopped, and recut to actively iterate on the Rick Owens DNA in the most literal way possible — mutating and multiplying on past products. We’ve seen a bit of this with Hamcus, where particular blocks return across seasons and iterations, but the sub-assemblies (pockets, accessories, dyes) vary dramatically.
 
-![](../assets/f27e355c1f719cfbe9030e8943839dc5fe719403-1286x594.png)
+![](../_assets/f27e355c1f719cfbe9030e8943839dc5fe719403-1286x594.png)
 
 For SS21 though, they’ve taken some very smart steps in showing the appeal of Hamcus that previously had required a small leap of faith. By shooting more descriptive product photography _and_ videos demonstrating the transformative qualities of their garments, it’s become much more obvious how some of the more unusual garments might fit into a daily wardrobe. They’ve also revamped their site navigation to be a bit more accessible and navigable. These all might seem like obvious evolutions, but accessing the Hamcus universe isn’t just about buying into the story — it’s also about understanding how particular garments might fit into your own day-to-day and your world creation.
 
@@ -67,15 +68,15 @@ Finally, Hamcus as always hints at upcoming drops in this first round of product
 
 One can see examples of the just-released bucket hat previewing a short-sleeved sweater
 
-![](../assets/b962bb02242bc6c41487b1882ff2dc5a84e88c30-1536x2048.png)
+![](../_assets/b962bb02242bc6c41487b1882ff2dc5a84e88c30-1536x2048.png)
 
 The commuter shirt previewing this pretty awesome fidlock ball cap and Hamcus shorts
 
-![](../assets/ebe2dbfbe1ee7396055e96448a6cc9cde6a1aaa9-1536x2048.png)
+![](../_assets/ebe2dbfbe1ee7396055e96448a6cc9cde6a1aaa9-1536x2048.png)
 
 And a pretty wild cargo vest previewed with the vented sun visor.
 
-![](../assets/8e4fa8183a156aa59f18e27e508d341d6f9830cf-1536x2048.png)
+![](../_assets/8e4fa8183a156aa59f18e27e508d341d6f9830cf-1536x2048.png)
 
 ## **Stories of Primus**
 

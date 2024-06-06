@@ -3,7 +3,7 @@ title: A Spotter’s Guide to Social Product Ventures
 date: 2017-07-10
 slug: a-spotter’s-guide-to-social-product-ventures
 author: Andrew Lovett-Barron
-image: ../assets/c5be1d903e6e21db480a648bbbb7db5451460f72-1280x960.jpg
+image: ../assets/blog/old/c5be1d903e6e21db480a648bbbb7db5451460f72-1280x960.jpg
 description: Business Model Canvas-like tools for critiquing social enterprises building software
 type:
   - post
@@ -13,13 +13,14 @@ tags:
   - systems
 publish: true
 public: true
+modified: 2024-06-06T21:09
 ---
 
 How do you know that a software business with a social mission is actually a Social Product Venture? Some might be able to glance at a business and declare “I know it when I see it”, but when dealing with the capital required to hire the best talent to build impactful social good products, we need a more effective and less inscrutable spotter’s guide.
 
 Social Product Ventures exist across a continuum of potential organizational structures: from for-profit businesses with social missions baked-in, to not-for-profits with unique granting structures and partnerships, and everything in-between. Diversity in this way is helpful and good: it creates options and resilience within the social product marketplace. But it creates challenges when it comes to saying concretely “This is a Social Product Venture”, vs. the alternative. If we can’t have a concrete classification like “Delaware C Corp”,“501(c)3 Not for Profit”, “Washington Benefit Corp”, perhaps we can at least have a heuristic for Thoughtful Spotters to navigate the world of social good software businesses.
 
-![](../assets/2b8b2b17de1977e1eac4b2016c1497e3830edf8c-842x595.jpg)
+![](../_assets/2b8b2b17de1977e1eac4b2016c1497e3830edf8c-842x595.jpg)
 
 This guide came from my experience using the [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas). The canvas is a tool created by Alex Osterwalder et al. to prototype and explore business models in a rapid fire and concise way. The idea for the spotter’s guide wasn’t as a prototyping tool, but as a tool for classification and understanding. At IDEO, we worked with so many different kinds of businesses and business models, that our head would spin. The Business Model Canvas became an invaluable “Sanity Check” tool, especially when something was unfamiliar or sounded too good to be true. The Business Model Canvas helped us break down what we were seeing, and reveal the familiar and unfamiliar for what it was.
 

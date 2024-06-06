@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 6 The Captured Issue
 date: 2020-04-14
 slug: diverge-weekly-issue-6-the-captured-issue
 author: Andrew Lovett-Barron
-image: ../assets/92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg
+image: ../assets/blog/old/92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - diverge
   - strategy
 public: true
+modified: 2024-06-06T21:09
 ---
 
 I’ve been reading and thinking about foresight — especially as it relates to the current pandemic and security. As a result, I’ve been getting interested in why we believe what we believe about the future.
@@ -32,7 +33,7 @@ That’ll be for future issues.
 
 ## Security Blanket
 
-![](../assets/6b5f74bc7ae89afc5a3df11d6314578aa07dcd76-1180x1180.jpg)
+![](../_assets/6b5f74bc7ae89afc5a3df11d6314578aa07dcd76-1180x1180.jpg)
 
 [**Millennium Challenge: The Real Story of a Corrupted Military Exercise and its Legacy**](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
 

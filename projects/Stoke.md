@@ -6,7 +6,7 @@ slug: stoke
 url: false
 alive: false
 author: Andrew Lovett-Barron
-image: ../assets/pasted-image-20231128130125.png
+image: ../assets/blog/old/pasted-image-20231128130125.png
 description: Interactive Projection Mapped Installation
 categories:
   - project
@@ -16,6 +16,7 @@ tags:
   - Embedded
   - Cplusplus
 feature: true
+modified: 2024-06-06T21:09
 ---
 
 <iframe src="https://player.vimeo.com/video/80308354?h=126a7dc1c9" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -33,4 +34,4 @@ Alongside the visuals, a generative soundtrack played via Ableton live, controll
 
 The installation was done with the collaboration of Adam Carlucci, Nick Crampon, and Eliot Callahan. Special thanks to Marissa Neave, Jeff Zoeller, Michaud Garneau, Car Martin, and Dave Clark. Documentation by Justin Black.
 
-![](../assets/pasted-image-20231128130125.png)
+![](../_assets/pasted-image-20231128130125.png)

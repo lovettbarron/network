@@ -4,13 +4,14 @@ title: Diverge Weekly Issue 1 - The Afghan Peace Talk Issue
 date: 2020-03-10
 slug: diverge-weekly-issue-1-the-afghan-peace-talk-issue
 author: Andrew Lovett-Barron
-image: ../assets/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png
+image: ../assets/blog/old/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png
 description: ""
 type:
   - post
 tags:
   - diverge
 public: true
+modified: 2024-06-06T21:09
 ---
 
 For most of my adult life, my country (one of them anyway, being a dual citizen between the US and Canada) [has been at war somewhere else in the world](https://www.aljazeera.com/indepth/interactive/2020/02/war-afghanistan-2001-invasion-2020-taliban-deal-200229142658305.html). But the experience of that war for American civilians was often ambiguous or bureaucratic, not tactile or kinetic.
@@ -27,7 +28,7 @@ That’s it for this week. As always, I’d encourage you to subscribe if you ha
 
 ## Security Blanket
 
-![](../assets/63a2720be55566b9404bf30c7bcf9add91e2c329-1098x732.jpg)
+![](../_assets/63a2720be55566b9404bf30c7bcf9add91e2c329-1098x732.jpg)
 
 [**Google denies link to China’s military over touch-screen tools that may help PLA pilots**](https://www.scmp.com/news/china/science/article/3017141/google-denies-link-chinas-military-over-touch-screen-tools-may)
 

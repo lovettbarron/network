@@ -4,7 +4,7 @@ title: Breathing In and Out, or Two Approaches to Design Research
 date: 2021-06-09
 slug: breathing-in-and-out,-or-two-approaches-to-design-research
 author: Andrew Lovett-Barron
-image: ../assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg
+image: ../assets/blog/old/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - process
   - methods
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Like our bodies need oxygen, our businesses need a constant supply of knowledge and understanding to fuel our work. But accessing that knowledge isn’t always as intuitive as breathing.
@@ -39,7 +40,7 @@ These are two very different research questions.
 
 If we’re stepping into the unknown, then we want to take a **GENERATIVE** research approach. For Nudge Nudge, if we were to ask “How do people structure their time at home?” we would be starting a broad exploration into areas that may or may not overlap with Nudge Nudge’s existing offering. And that is the point.
 
-![](../assets/0208934790e4c3af50b5de001d08077dfddd2b5b-1000x667.jpg)
+![](../_assets/0208934790e4c3af50b5de001d08077dfddd2b5b-1000x667.jpg)
 
 We don’t yet have a solution, but rather the idea that there might be an opportunity for our expertise in an adjacent space. A question like **‘How do people structure their time”** opens up the opportunity to stumble upon new knowledge.
 
@@ -57,7 +58,7 @@ By tapping the abstract frame of “structured time” from the more specific fu
 
 But what if we think we know something but need to make sure? This is where **EVALUATIVE** research comes into play. An engineer at Nudge Nudge might have developed a proof of concept that automatically prioritizes and estimates tasks for design teams. The engineer is quite certain this belongs in the future of the product, but needs to convince his colleagues that this is the way forward.
 
-![](../assets/20d7d1e881ccd5b29c7100a5a27534e1233cf2d8-4000x2671.jpg)
+![](../_assets/20d7d1e881ccd5b29c7100a5a27534e1233cf2d8-4000x2671.jpg)
 
 Here, the research question becomes much more specific, but still broad enough for new knowledge to emerge. Instead of asking overly broad “How might we prioritize tasks?” type of questions, the prudent research-minded engineer instead asks **“How do you prioritize and estimate your design tasks today?”** Followed by “Can I show you an idea I had?” later on in the interview.
 
@@ -85,6 +86,6 @@ Collecting the right consent from participants, scheduling, and organizing the m
 
 [Give Knowsi a try with a 1 week trial today](https://www.knowsi.com/join), and [sign up for our mailing list](https://www.knowsi.com/?mail=true) for a discount code and more articles like this every few weeks.
 
-![](../assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](../_assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published on [**Medium**](https://medium.com/knowsi/breathing-in-and-out-or-two-approaches-to-design-research-f26e05b0b4a7)._

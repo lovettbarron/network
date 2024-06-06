@@ -4,7 +4,7 @@ title: Better Notes for Design Research
 date: 2019-05-06
 slug: better-notes-for-design-research
 author: Andrew Lovett-Barron
-image: ../assets/e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg
+image: ../assets/blog/old/e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - methods
   - practice
 public: true
+modified: 2024-06-06T21:08
 ---
 
 At the heart of great design research is note taking. Our job is to go into new environments, learn from and capture the experiences of others, and transform that knowledge into insight and action. Great notes and references serve as the bedrock of this process: making sure that you can represent your participant’s experiences accurately and not project your own on top.
@@ -35,7 +36,7 @@ When setting up a consent forms, I always ask if we can record audio for transcr
 
 First, it helps you fill gaps. Sometimes information will be coming at you faster than you can record, and knowing that you have that fallback will help you relax and absorb the information without worrying about missing it. This is vital for asking the right follow up question.
 
-![](../assets/9b564a77e41aab8cb02046b67b11aaa737a6b1c5-1000x707.jpg)
+![](../_assets/9b564a77e41aab8cb02046b67b11aaa737a6b1c5-1000x707.jpg)
 
 Second, it helps you validate what you’ve heard. Sometimes, a participant will say something and indicate something different by lieu of their voice or body language. This isn’t always captured in the moment, and so returning to gut check that you heard what you heard is always a good thing, and can be grounds for reaching back out to the participant to make sure they meant what you think they meant.
 
@@ -59,6 +60,6 @@ Collecting the right consent from participants, scheduling, and organizing the m
 
 [Give Knowsi a try with a 1 week trial today](https://www.knowsi.com/join), and [sign up for the mailing list](https://www.knowsi.com/?mail=tth) for a discount code and more articles like this every few weeks.
 
-![](../assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](../_assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published on [**Medium**](https://medium.com/knowsi/better-notes-for-design-research-1eace30b211e)._

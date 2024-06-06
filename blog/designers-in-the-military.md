@@ -4,7 +4,7 @@ title: Designers in the Military
 date: 2021-06-28
 slug: military-design-workshop
 author: Andrew Lovett-Barron
-image: ../assets/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png
+image: ../assets/blog/old/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png
 description: A first-hand account of working with military professionals and design
 type:
   - post
@@ -14,19 +14,20 @@ tags:
   - report
 feature: true
 public: true
+modified: 2024-06-06T21:09
 ---
 
 What does it mean to design for the propagation of security? In a way, this is one of the grand questions of international relations and its sub field, security studies. Exploring what contexts (events, regimes, situations, etc) create or compromise our understanding of security, how security is constructed through foresight and hindsight on these contexts, and who experiences — or sees a loss of — security given those contexts (and whether it’s equitable, uneven, or even mutually exclusive).
 
 I’ve been slowly working my way through a masters program in security studies, prompted by my earlier experience working as a product and service designer in the Pentagon. The experience there left me with some great experiences, and some humbling realizations. Some of this came from the pretty early realization that even before stepping foot in a defence facility, part of my own understanding of strategic design had actually emerged from a military context. The thinking of [John Boyd](https://bookshop.org/a/19778/9780316796880) — best known for his role as the designer of the F-16 fighter plane and the originator of the OODA loop construct — has had a pretty distinct influence on my thinking; not just for the OODA loop as a way to think about cognition and competition, but also for Boyd’s writing on the ideas of grand strategy and tactics in situating ones work and design. Other theorists — from [Clausewitz](https://www.foreignaffairs.com/reviews/capsule-review/1997-03-01/clausewitzian-friction-and-future-war) (I really recommend the book reviewed here, actually) to [McCrystal](https://www.theguardian.com/news/datablog/2010/apr/29/mcchrystal-afghanistan-powerpoint-slide), [Jomini](https://warroom.armywarcollege.edu/special-series/great-strategists/scientific-approach-to-war-jomini/) to [Naveh](https://www.publicspace.org/multimedia/-/post/walking-through-walls-soldiers-as-architects-in-the-israeli-palestinian-conflict) — have also served to decorate the language that I use to transition the ambiguous into the impactful, and the intangible into the real.
 
-![](../assets/7548e0f3e8f5abcedd12a7f7d1a00820b20f38dd-850x558.png)
+![](../_assets/7548e0f3e8f5abcedd12a7f7d1a00820b20f38dd-850x558.png)
 
 While I was drawing inspiration from the military strategy and theory realm to inform my thinking about design, however, there were a broad swath of military planners, strategists, and thinkers who were doing the same from my chosen discipline. A year or so ago, I attended a seminar at the University of Copenhagen on [design thinking and the military](https://cms.polsci.ku.dk/events/regaining-the-advantage-the-promises-of-design-and-innovation-methodologies-for-civil--military-organisations/), after being hilariously targeted by Instagram ads for the same. There, I met a professor at the Canadian Forces College, Dr. Philippe Beaulieu-Brossard, who turned out to be my neighbour, and we got to chatting. He then served to introduce me and graciously welcome me into a [community of military and design practitioners](https://aodnetwork.ca/) he was forming around this question of using design as a lever for reflexivity and foresight within the defence community.
 
 I spent the past week participating in one of the key outcomes of Philippe’s time in Copenhagen, [a design and security workshop](https://aodnetwork.ca/the-albatross-playbook/) looking at how a well established pillar of the military planning community — games and game design — could be used as a wedge into teaching design skills to security practitioners. Fully vaccinated and frankly somewhat starved for in-person collaboration after emerging from our most recent lock down, it was an opportune space to doff my usual facilitator or speaker’s cap and join as a participant. I’m incredibly glad I did.
 
-![](../assets/52169f0fb36c1cd9f165f23f312adfb584cb8503-1360x1070.png)
+![](../_assets/52169f0fb36c1cd9f165f23f312adfb584cb8503-1360x1070.png)
 
 The participants came from academic and defence institutions from across NATO and NATO strategic partners, and most of whom had some existing connection to — or at least disposition for — military design thinking. But only a handful of us were design practitioners in the traditional sense of using design to create objects and experiences — a game designer, a hacker/maker, and myself as a service designer and prototyper. I had some trepidation around this, since in general I tend to believe that without the making part, you’re not actually doing design. What I was dismissing with that criticism was that while most of the participants weren’t engaged in design in their day-to-day, they were perfectly willing to make things tangible with whatever they had access to.
 
@@ -36,7 +37,7 @@ For the main body of the workshop, our goal was to create a functional game mech
 
 Unfortunately, that latter point is likely one big failing — and I think is more a quality of remote collaboration than it is the design of this workshop. Event inclusivity when potential participants can’t travel (either because of economic means or for the Covid of it all) is the right idea in principle, but I’ve yet to see an event actually pull it off. Whereas established conferences have all been going the learning archive route, until they can host in person events again — most newcomers have been struggling with flagging attention, poorer learning results, and a generally less engaged community with fewer meaningful connections formed.
 
-![](../assets/cc15457ae67a826be6f11e2c45d2ad3d85401992-1304x836.png)
+![](../_assets/cc15457ae67a826be6f11e2c45d2ad3d85401992-1304x836.png)
 
 We saw that result with some of the remote participants in the workshop on two levels — those who were paired as remote contributors to in-person teams, and an entirely remote team. For the mixed remote/in-person teams, the on-off cadence of participation made it difficult for those participants to get the whole picture, and as a result, ended up primarily adding value through “on-demand crits.” In the best scenarios, they helped us speed up our iterative cycles and get to results that we wouldn’t have seen without that on-demand external eye. In the worst cases, it actually served to disrupt the relatively tightly packed working sessions as we struggled with Discord and connections. But ultimately for each of the in-person teams (who, I’ll remind you, were packed full of senior NATO officers, academics, and strategists), we got to a prototype that one could understand, if not directly play.
 

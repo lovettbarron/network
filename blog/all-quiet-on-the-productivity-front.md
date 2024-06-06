@@ -4,7 +4,7 @@ title: All Quiet on the Productivity Front
 date: 2021-02-07
 slug: productivity-1917
 author: Andrew Lovett-Barron
-image: ../assets/4ad423bb8c872151950235cb0961ec7c4cfbf396-480x300.jpg
+image: ../assets/blog/old/4ad423bb8c872151950235cb0961ec7c4cfbf396-480x300.jpg
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - process
   - momentum
 public: true
+modified: 2024-06-06T21:09
 ---
 
 _Constant progress without being certain you’re getting anywhere._ Reflecting on the adrenal dropkick that was 1917, I realized this perpetually delayed sense of resolution was familiar in other aspects of my life too: the parts where plans and action come together.
@@ -36,7 +37,7 @@ Along the way, they encounter a series of different environments and stories tha
 
 ## **The Open Field**
 
-![](../assets/b380423cec9e4cd42e6ab146a02e98a37e6bdb5a-1024x429.jpg)
+![](../_assets/b380423cec9e4cd42e6ab146a02e98a37e6bdb5a-1024x429.jpg)
 
 Productivity software can present the same kind of exacerbating and varied landscapes, with each presenting a greater or lesser degree of friction and risk. Tools like Notion and Trello, for example, present a level of flexibility that is unrivaled. But one quickly discovers that this flexibility comes with the cost of discipline. When managing a team, you also have to manage that team’s use of the tools and the natural entropy brought on by different mental models of a problem coming together on a shared canvas.
 
@@ -46,7 +47,7 @@ That said, it’s also a constant battle. These open tools require constant mana
 
 ## **The City Street**
 
-![](../assets/70cc0e090693c6134a3470ce0b0cf6b7da5a368e-779x447.jpg)
+![](../_assets/70cc0e090693c6134a3470ce0b0cf6b7da5a368e-779x447.jpg)
 
 Many tools are seemingly more ordered and perhaps more easily resemble the familiar patterns of streets, parks, apartments, and communal spaces. But any urbanist will tell you that the nominal order of the city belies a deeper emergent quality — nature abhors a straight line and humanity rebels against too much order.
 
@@ -58,7 +59,7 @@ In other words, these tools impose an order, as do a city’s streets, alleys, a
 
 ## **The Trenchline**
 
-![](../assets/bfc0fe94961d853c0cbcece769207f34bd17d0ab-960x387.png)
+![](../_assets/bfc0fe94961d853c0cbcece769207f34bd17d0ab-960x387.png)
 
 The “To-Do” list is where intention becomes some form of action. In 1917, with rows of infantry waiting to go over the relative protection of the trench walls into no-mans land, the strategies of leaders rapidly resolved into action.
 
@@ -72,7 +73,7 @@ But what happens when you DO need to strategize at the front line? When a suppos
 
 ## **No True Respite**
 
-![](../assets/016756fa102efbe5542c249480d8fe091853c302-888x372.jpg)
+![](../_assets/016756fa102efbe5542c249480d8fe091853c302-888x372.jpg)
 
 I’m writing this as a decidedly un-Nordic one week vacation comes to an end. I’m writing this because I’m back to looking at all of these insufficient tools: At Notion with its complexity, at Trello with its beckoning lists, at my notebook with its rows of unchecked boxes, at Workflowy with its unexplored assumptions, and at Help Scout with its suspicious bugs.
 
@@ -82,7 +83,7 @@ I’m also preparing a big feature push on my app, [Knowsi](https://knowsi.com) 
 
 ## **What are we fighting for?**
 
-![](../assets/b6a2e2cedfd4ea3c5aa9f23f50f8f6a690eb1a36-928x523.jpg)
+![](../_assets/b6a2e2cedfd4ea3c5aa9f23f50f8f6a690eb1a36-928x523.jpg)
 
 Ultimately, there is no such thing as a productivity hack.
 

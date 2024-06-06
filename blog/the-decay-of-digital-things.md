@@ -4,7 +4,7 @@ title: The Decay of Digital Things
 date: 2021-03-09
 slug: digital-decay
 author: Andrew Lovett-Barron
-image: ../assets/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png
+image: ../assets/blog/old/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png
 description: A book chapter I wrote on how internet connected objects decay
 type:
   - post
@@ -16,6 +16,7 @@ tags:
   - theory
 feature: true
 public: true
+modified: 2024-06-06T21:08
 ---
 
 We have spent a decade building the consumer Internet of Things with an ethos of “fail fast”. Unfortunately, many of the things we built failed to embrace the withering effect that time has on business, technology, intention, and capital. Consumers have been left holding connected objects that no longer connect, and the question of why investments in the “future” of physical things have resulted in such ephemeral value.
@@ -38,7 +39,7 @@ The death of a software product leaves a hole in one’s pocketbook and a need t
 
 I have described a bleak view of connected objects, but fortunately, this is not the only story worth telling. Even in the failed model, there are interesting early stabs at addressing the “long tail” of connected objects. One shockingly consistent example of sustainable product design is the Monome, a hardware platform for open-source music creation that connects into an ecosystem of community-created tools. It’s a simple grid of lights and buttons that send and receive commands from a device. Mine is from 2008. I also recently set it up again to use with a new crop of tools from the Monome community, and its founder helped a community of us debug a problem with old monomes and a new OSX systems.
 
-![](../assets/d8932692cc5475bfb16fe49e80fd15c619b4fc87-1180x1180.png)
+![](../_assets/d8932692cc5475bfb16fe49e80fd15c619b4fc87-1180x1180.png)
 
 The Monome presents a vision of sustainable product maintenance because it is both a company and a community. Brian Crabtree created its first iteration, but countless others have written code for it, built performances around it, and made their own versions of it. It’s an open-source product that creates greater value for its supporting business through the value generated within the community itself. Monome.org also has a vast repository of knowledge related to the monome in its different and evolving products that empowers its customers to continuously adapt it to their evolving needs.
 

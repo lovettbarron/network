@@ -4,7 +4,7 @@ title: Reflecting on 2020
 date: 2020-12-31
 slug: reflecting-on-2020
 author: Andrew Lovett-Barron
-image: ../assets/a2cef70d4c75b04100cb8a159673af6c9f1f023f-1318x642.png
+image: ../assets/blog/old/a2cef70d4c75b04100cb8a159673af6c9f1f023f-1318x642.png
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - reflection
   - meta
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Well, that was a year. My family and I were more fortunate than most, but not as fortunate as some when it came to navigating the weirdness that was 2020. It felt a bit like we rounded a bend in an already turbulent river — only to encounter a flock of black swans and Nassim Taleb chortling on the banks.
@@ -20,7 +21,7 @@ I have a weird relationship to risk, and this year forced me to confront that re
 
 ## **Family**
 
-![](../assets/5975444c564028d45a7bb38d00c7a069a5b6a7b9-1200x1600.jpg)
+![](../_assets/5975444c564028d45a7bb38d00c7a069a5b6a7b9-1200x1600.jpg)
 
 Writing this, my son Emil is almost 21 months old. He talks in a pidgin of English and Danish, is fascinated with motor vehicles of all kinds (“Daddy TRUCK wee woo wee woo” as fire truck passes by), and loves the family greyhound, Moon.
 
@@ -32,7 +33,7 @@ Last year I wrote a bit about the idea that parenthood is a craft — but most c
 
 ## **Craft and Creations**
 
-![](../assets/0fe2428817061ae42d6bfd499a71582f958b69a4-2418x1172.png)
+![](../_assets/0fe2428817061ae42d6bfd499a71582f958b69a4-2418x1172.png)
 
 Work was a weird one this year. In theory, I had a really good year — but it didn’t go as I had planned. I started the year with the intention of wrapping up some consulting work I was doing with IKEA’s co-creation team: a brilliant crew building innovation tools and practices to spread to the 160k-plus employees of the Ingka group. I had initially been brought on to get some things unstuck and ended up leading a small team to launch and grow an internal innovation platform.
 
@@ -50,7 +51,7 @@ Also, I did a lot of sewing.
 
 ##
 
-![](../assets/a1d447198551956f041c49be9dc94041849d8091-2150x1172.png)
+![](../_assets/a1d447198551956f041c49be9dc94041849d8091-2150x1172.png)
 
 Last year, I started a distance master's degree in the UK. I had worked at the [Pentagon](https://dds.mil) for a while as part of the [US Digital Service](https://usds.gov), and that brief glimpse into the defence (though I suppose that should be defense with an S there) establishment left me fascinated and humbled. So… I decided to learn more and pursued a master's in Security Studies and International Relations. However, learning how to study again in a way that facilitates creating a good academic product, has been a real challenge, especially with so many other anxieties flitting around. I’m just starting my thesis now — exploring innovation processes in terror groups — and I’ll admit that after 18 months of study, it feels both accessible and terrifying.
 
@@ -68,7 +69,7 @@ It’s also not over yet. My wife and I have been fortunate, in that both of our
 
 ## **What Worked**
 
-![](../assets/35426ea19e3a6b80734f36e31141d74b2ce4a0ce-2150x1172.png)
+![](../_assets/35426ea19e3a6b80734f36e31141d74b2ce4a0ce-2150x1172.png)
 
 So ultimately, the goal of this is to reflect a bit on what worked and what didn’t this year. There are a few significant things that stand out:
 
@@ -79,7 +80,7 @@ So ultimately, the goal of this is to reflect a bit on what worked and what didn
 
 ## **What Didn’t Work**
 
-![](../assets/6206e3a2686735a1ebdc9ba378898b8775e97e2a-2150x1172.png)
+![](../_assets/6206e3a2686735a1ebdc9ba378898b8775e97e2a-2150x1172.png)
 
 - **Remote work.** This didn’t work for a lot of people, and when it doesn’t work for someone on the team, it can undermine everyone. Forcing remote on people has been a nightmare, and my hope is that moving forward, in-person and remote is built into the teams and tasks from day one.
 - **Remote communication.** I think communication during the pandemic lost a level of fidelity that was incredibly important. I won’t elegize the water cooler (because it’s horrible), but rather I might write one for the coffee house or the walk to the station before and after the workday. Conversations in those liminal third spaces are — for me anyway — some of the richest ground for inspiration and excitement. And they’ve been missing in some ways for me this year. WhatsApp groups and even Discord have taken on that role to some extent, but it definitely has not been the same. The experiment on this that I like the most is by Matt Webb, [who has started pulling free-form office hours](http://interconnected.org/home/2020/09/24/unoffice_hours). It was a fun, free form chat. I’ve had a few similar ones since, and I think [I’m going to copy Matt in this regard](https://calendly.com/alb/officehours).
@@ -89,7 +90,7 @@ So ultimately, the goal of this is to reflect a bit on what worked and what didn
 
 ## **Miscellany**
 
-![](../assets/d70f84df32ebe7e69bbce9cfd1dd7ff22b065111-2048x1365.jpg)
+![](../_assets/d70f84df32ebe7e69bbce9cfd1dd7ff22b065111-2048x1365.jpg)
 
 - **Photography became a driver for getting outside.** [I posted a bunch of it on my main ](https://www.instagram.com/lovettbarron)Instagram. A lot of it was used in research and consulting. Got a lot of inspiration from Jane’s [Thoughtless Acts](https://www.goodreads.com/book/show/580270.Thoughtless_Acts_) as well as Hans Eijkelboom’s incredible [People of the Twenty-First Century.](https://bookshop.org/a/19778/9780714867151)
 - **Lockdown was a terrarium for my wardrobe.** I made a pretty fun prototype in Notion for a digital closet, [which I wrote about here](https://andrewlb.com/a-more-intentional-wardrobe/). This eventually led to [Stupid Fits](http://stupidfits.com/) and [its Instagram account](https://instagram.com/stupidfits). Somehow social isolation made me a lot more open about my fashion habits. [I’m the first to admit that it is a bit out there.](https://stupidfits.com/u/stupidfits)
@@ -98,7 +99,7 @@ So ultimately, the goal of this is to reflect a bit on what worked and what didn
 
 ## **Going into 2021**
 
-![](../assets/19971e20b2346fe52777b4c02065d5dab3d1cc7d-2150x1172.png)
+![](../_assets/19971e20b2346fe52777b4c02065d5dab3d1cc7d-2150x1172.png)
 
 For me, I’ll continue to work on Knowsi. I’m practicing the requests for help. I’m planning on experimenting with my consulting practice more this year, and have been working through December to restart Diverge Weekly and my mailing list. [You can subscribe here.](https://andrewlb.ck.page/bff8b858c5) I have someone helping me with that as well, to keep it consistent over the year. And most importantly, I’m going to continue to learn with my son. Confidence without understanding isn’t always the best trait (speaking as someone who left Washington DC in 2018), but confidence in exploring understanding is.
 

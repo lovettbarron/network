@@ -4,7 +4,7 @@ title: Migration and Circumstance
 date: 2021-07-06
 slug: migration-and-circumstance
 author: Andrew Lovett-Barron
-image: ../assets/9c25896edb7cb590d2e17f64296772d445bd6130-1920x1247.png
+image: ../assets/blog/old/9c25896edb7cb590d2e17f64296772d445bd6130-1920x1247.png
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - process
   - abroad
 public: true
+modified: 2024-06-06T21:08
 ---
 
 _As a forewarning, this is one of those “I’m working through something” posts and trying to wrangle my own thinking. I might come back and add to it as my thinking evolves._
@@ -23,7 +24,7 @@ The fact that cities are frequently loci for a certain emergent quality is nothi
 
 I left Toronto in 2013 to move to San Francisco, after having a move to New York change somewhat last minute about eighteen months earlier. I reflect on this periodically since I have a deep love for New York and a more conflicted view of San Francisco, but I think of them as almost different countries. And this is sort of where I’m beginning to rethink my own identity as a migrant.
 
-![](../assets/47deba4eedcd6604ec99770825b99786723542d4-800x600.png)
+![](../_assets/47deba4eedcd6604ec99770825b99786723542d4-800x600.png)
 
 Currently, I live in Copenhagen with my wife, son, and two pets. We’ve pretty regularly moved cities every 2-3 years since 2013. Our dog, a greyhound, joined us in Washington DC. Our son joined us here in Copenhagen. I don’t know if this city hopping will continue (pretty sure it will tbh), but as I’ve been thinking about it, that idea that migration in my (admittedly hyper privileged) context is city-focused, instead of nation-focused, is pretty interesting to me. I still always say “I’m from Toronto” before catching myself.
 
@@ -33,7 +34,7 @@ For others (like myself), I’m still trying to decide what’s going on. Unlike
 
 When I was living in Toronto, the idea of moving to another city felt somehow crazy. When I was living in San Francisco, the idea of living outside of the US or Canada felt crazy (having dual citizenship between Canada and the US). But when I moved to DC, something about the nature of that city and the people I was surrounded by made the idea of living internationally seem somehow obvious. Some of that was wrapped up in people’s economic and educational backgrounds; or folks who served in the military, or in diplomatic contexts; but broadly hearing people’s stories and lives outside of the comfort of “being a citizen” made for an expansion of my own view on this. But the way everyone spoke of those experiences differed considerably.
 
-![](../assets/7c00bd2d458012c68a9c5e3e86afc403effa93bd-800x600.png)
+![](../_assets/7c00bd2d458012c68a9c5e3e86afc403effa93bd-800x600.png)
 
 I spoke with someone recently who described having _Lived in Japan_, but then also having _Lived in Rome_. Where in Japan? But then, for that matter, where in Rome? Why did they say Japan instead of Tokyo? Kyoto? Osaka? For that matter, why do I constantly change my frame of reference when talking about social policies and dispositions within Denmark and within Copenhagen? I know an American who moved to the suburbs of Copenhagen recently with his family — not speaking any Danish. When we spoke recently, his sense of isolation was visceral, and yet he hadn’t felt the same in the city. Copenhagen is effusive, social, and vibrant; but maybe Denmark is protective, insular, and just a little bit suspicious. Or maybe there’s a bit of both? I love Copenhagen — and I think I love Denmark. Many Danish policies I found reprehensible, like [its poor treatment of Syrian refugees](https://www.bbc.com/news/world-europe-57156835) or the recent [narrowing of English language education opportunities](https://cphpost.dk/?p=125909), but the city I love couldn’t exist without the national context shaping it. But then, would Denmark be the same country without Copenhagen as its hub?
 
@@ -45,7 +46,7 @@ What I’m curious to see is how the city continues to serve as the focal point 
 
 Anyway. I’m finding myself thinking about the city vs state dynamic a lot. Part of this is the fiction I’ve read — the crumbling America depicted in _Snow Crash_ and _the Parable of the Sower_; or the dealing urbanisms of _The City and The City_ or _Embassy Town_; or N.K. Jemisin’s _Killing Moon_ series of books, or for that matter her book _The City We Become,_ which I have yet to read and sounds fascinating. _Ministry of the Future_ also had a distinctly non-national quality to it as the nation state as a unit seemed to be dissolved into other structures: urban, intergovernmental, subnational-yet-international. I am actually inclined to believe the nation state as an entity type still has a lot going for it. Part of my privilege has been being born to parents of two countries that carry flexible passports and the opportunity to travel, and that’s before even discussing the dual citizen part of it.
 
-![](../assets/b0bfd57ffeae1fa2a9dba06878308521b6bf5025-2000x1000.png)
+![](../_assets/b0bfd57ffeae1fa2a9dba06878308521b6bf5025-2000x1000.png)
 
 Still not quite sure what to do about this, but it has helped my thinking on the “What’s Next” question. Still not sure what that is, but this framing has helped shift the discussion around where, how, and why we move for my family and I. And if that’s our disposition, then understanding that is at least helpful.
 

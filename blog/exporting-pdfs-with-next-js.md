@@ -4,7 +4,7 @@ title: Exporting PDFs with Next JS
 date: 2019-03-30
 slug: exporting-pdfs-with-next-js
 author: Andrew Lovett-Barron
-image: ../assets/e068f4eb8367893e00bd18d0182fe1bcf128f320-2000x558.png
+image: ../assets/blog/old/e068f4eb8367893e00bd18d0182fe1bcf128f320-2000x558.png
 description: ""
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - howto
   - technical
 public: true
+modified: 2024-06-06T21:09
 ---
 
 Get your modern CSS rendered right with Heroku, Puppeteer, and Styled-Components.
@@ -195,7 +196,7 @@ Because this is taking place 100% with owned content the buffer is being rendere
 
 The next hurdle was getting this thing deployed on Heroku. When I went to deploy staging, it uploaded nice and fine and thennnnn rendered nothing. Shit. Turns out that the whole puppeteer library was missing.
 
-![](../assets/57fbdcaf19a9f193e84a748746868e56cbaa1198-1364x274.png)
+![](../_assets/57fbdcaf19a9f193e84a748746868e56cbaa1198-1364x274.png)
 
 Thankfully, there was an easy fix for this. Jon Tewksbury had put together a Heroku build pack to address this particular challenge.
 
@@ -216,7 +217,7 @@ Here’s what worked for me in my package.json:
 
 You can also easily set this up in the Heroku UI by navigating to your app → Settings file, going to build packs, and adding the above build packs manually (her latter is just heroku/nodejs)
 
-![](../assets/5e17397c981b1876771b4ffa704e060378f1724d-1400x512.png)
+![](../_assets/5e17397c981b1876771b4ffa704e060378f1724d-1400x512.png)
 
 This order ensures that the puppeteer library builds first, and then your app builds second. I suspect that a Procfile would work here as well, but I prefer to keep all my build info in package.json.
 
@@ -226,7 +227,7 @@ My solution is far from perfect, but this method is a great way to do things lik
 
 **Speaking of, are you doing user research? Why not give** [**Knowsi**](https://www.knowsi.com/) **a try. Knowsi is the best way to manage the relationship between researchers and participants.**
 
-![](../assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](../_assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published in [**Medium**](https://medium.com/knowsi/exporting-pdfs-with-next-js-714735f0a473)._
 a
