@@ -12,7 +12,7 @@ tags:
   - strategy
   - workshop
 public: true
-modified: 2024-06-06T21:29
+modified: 2024-06-06T23:44
 ---
   
 
@@ -84,25 +84,25 @@ Make sure to take that and break it off into some potential "risk" pathways. **T
 
   
 
-![](../_assets/IMG-20240604135614828.png)
+![](../_assets/blog/belief-based-planning/IMG-20240604135614828.png)
 
   
 
 With the basic project skeleton in place, take a step back and try to interrogate some of the core beliefs or values you have about your startup. The best case scenario here is that founders have worked with a coach or therapist, and have a kind of legibility to their own belief system. Worst case, use the startup as a foil for which to embed beliefs and treat this like a brand-building or value-identifying activity. [I'm posting examples of these kinds of activities on instagram, and will link to specifics when they're up.](https://instagram.com/megafauna.cph)
 
-![](../_assets/IMG-20240604135614927.png)
+![](../_assets/blog/belief-based-planning/IMG-20240604135614927.png)
 
 You'll want to sort and categorize these beliefs somehow. This should give you a handful of categories that you can start applying to "points" along your backcast journey. It should be rough, critical, and argumentative at this stage. This is where things will get a bit messy as you highlight, markup, and add notes to the document.
 
 My personal favourite approach is it have postits on a whiteboard, so information can be moved, but also marked up.
 
-![](../_assets/IMG-20240604135615025.png)
+![](../_assets/blog/belief-based-planning/IMG-20240604135615025.png)
 
   
 
 As you go through this process, you'll start to surface some pretty clear tradeoffs between these beliefs. For our intrepid founders, we're starting to see that the employee-centric and ego-centric values suffer as soon as they come across the user-centric events.
 
-![](../_assets/IMG-20240604135615158.png)
+![](../_assets/blog/belief-based-planning/IMG-20240604135615158.png)
 
 
 We can see from this example that while the plan and pivot points themselves are logical relative to the structural dogma of this type business, the results are counter to their professed beliefs (employee and ) EVEN when they get lucky.
@@ -123,9 +123,8 @@ Venturing out also means looking ahead: keeping an eye open for conflict and hyp
 
 Here's one alternative that might emerge from this interrogation of the previous The series A raise is based on some level of customer demand and PMF, so we orient the early activities around that more relevant belief.
 
-![](../_assets/IMG-20240604135615515.png)
+![](../_assets/blog/belief-based-planning/IMG-20240604135615515.png)
 
-  
 
 **We must be able to MIX and ALIGN beliefs to get us to better outcomes.** Early user-centric activities can be mixed with employee-centric activities and ego-centric activities. Instead of aggressively hiring a full team, hire a handful of early employees and involve all of them in customer research while assessing them as future management. This plurality of experience has the opportunity to augment the founders' strongly held opinions (ego-centrism), de-risks future hiring processes, and it gives the early employees clarity around their advancement in the company (employee-centrism).
 
