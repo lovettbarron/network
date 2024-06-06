@@ -4,7 +4,7 @@ title: Peripherals
 date: 2021-08-08
 slug: peripherals
 author: Andrew Lovett-Barron
-image: ../assets/21519d63c4aca9fd6f839a624f1104a8dcf22144-1280x720.jpg
+image: ../assets/blog/old/21519d63c4aca9fd6f839a624f1104a8dcf22144-1280x720.jpg
 description: ""
 type:
   - post
@@ -13,6 +13,7 @@ tags:
   - design
   - theory
 public: true
+modified: 2024-06-06T21:09
 ---
 
 I’ve had a long term obsession with peripherals. Peripherals are objects (usually interaction mechanisms) that connect to computers to extend their capability. Today, a usable computer is now the size of our thumb ([or smaller, if you want to be pedantic about it](https://sudonull.com/post/11594-The-smallest-Linux-computers)), and so we’re pretty quickly reaching that point where computation (though maybe not connection) is functionally ubiquitous — in other words, we connect as much to our environment as any given computer. Similarly, peripherals range in form and function from arrays of tiny LCD buttons like the brilliant [Elgato Stream Deck](https://www.elgato.com/en/stream-deck-xl) (I own two and use them manically), to [eye tracking bars](https://gaming.tobii.com/product/eye-tracker-5/) that sits under our monitor, to the six degree of freedom [Space Mouse](https://3dconnexion.com/uk/product/spacemouse-wireless/) that — while initially counterintuitive — facilitates navigation through 3D space that’s incredibly natural. There are countless others — these are just a handful of the ones that I know. For this post’s purposes, we’re interested in peripherals that facilitate interaction with computers. A joystick, not a printer.
@@ -21,7 +22,7 @@ I’ve been [writing a lot](https://andrewlb.com/automating-research-recruiting/
 
 Peripherals come into play when automation presents a gap. Perhaps a step is too complex, and requires critical thinking and manipulation. You might need to write something that you [can’t trust to a computer](https://www.nature.com/articles/d41586-021-02134-0) (yet), or you might explicitly be building a system with the human in the loop. The [disgruntled drone pilots](https://slate.com/news-and-politics/2015/07/air-force-drone-pilot-recruiting-struggling.html) locked in shipping containers outside Las Vegas are the classic example of this phenomenon. We COULD fully automate those things — I’m grateful that we don’t.
 
-![](../assets/49b55134cadaab2e359f22ed05c7cb01ac9cb468-3000x2237.jpg)
+![](../_assets/49b55134cadaab2e359f22ed05c7cb01ac9cb468-3000x2237.jpg)
 
 Peripherals also play a role in creativity, and this is the part that I’m most drawn to. To take a non-peripheral example, Adobe Lightroom has a pretty competent “Auto Retouch” feature. It can take a washed out or underexposed image from your camera and — by applying some good heuristics and a touch of machine learning — can make a pretty nice photo. Alternatively, you as the editor could jump in and make your own creative decisions. Bringing up the blacks and highlights, adding some localized gradients or colour masking, and an image taken with one tool becomes transformed by another through an interface reacting to the users’ creative intent. The problem is that many of those intentions are arduous to execute through the default peripherals we’re equipped with. Memorizing keyboard shortcuts, clicking through menus, and navigating deeply nested interfaces means that a huge amount of power can be packed into something very generalized, but is also restrictive when it comes to exploration.
 
@@ -47,7 +48,7 @@ This game is fantastic for a variety of reasons (though definitely niche), and p
 
 The physical quality of the whole experience makes learning it fascinatingly quick, and somehow the immersion from this model of control and flight becomes that much deeper than a game controller, a keyboard, anything really. In a weird way, it’s what connected me with the Wacom tablet and pen over a mouse for those right interactions.
 
-![](../assets/94a95f029af22becc1e27ad63fd739f720cdb03b-1333x1000.jpg)
+![](../_assets/94a95f029af22becc1e27ad63fd739f720cdb03b-1333x1000.jpg)
 
 The right peripheral frees you to experience computation as creativity. I got into design in the first place because I was building DIY synthesizers and instruments in Max/MSP, and was fortunate enough that a mentor saw a connection between that and design work. While I was never all that competent when it came to music, the idea that you can control something as complex as a waveform and shape it into compelling sounds, let alone music, has always seemed a miracle to me, and is probably where interaction design is at its strongest — or at least its most beautiful. Keyboards and strings; button grids and accelerometers; these kinds of peripherals were all built to facilitate creativity through computers, just as the patchboards and keys of analog synthesizers were created to control and shape something as filled with potential as an electrical signal.
 
