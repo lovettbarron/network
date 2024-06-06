@@ -4,7 +4,7 @@ title: Building Co-operative Design Briefs
 date: 2018-04-13
 slug: building-co-operative-design-briefs
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg
+image: ../assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg
 description: ""
 type:
   - post
@@ -14,7 +14,7 @@ tags:
   - process
   - collaboration
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 In design teams, the “Brief” is often a shared understanding of the challenge the team is facing. It should include the client or corporate understanding of the need, major stakeholders, deadlines, tangible outcomes to be delivered, and personal needs or constraints for the team. This is the basic checklist for the task at hand, and sets the groundwork for the next weeks or months of work.
