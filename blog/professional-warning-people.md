@@ -4,17 +4,15 @@ title: Professional Warning People
 date: 2021-06-15
 slug: pro-warning-people
 author: Andrew Lovett-Barron
-image: ../assets/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png
+image: 19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png
 description: A quick look at strategic warning intelligence and the professional Cassandra
 feature: true
-type:
-  - post
 tags:
   - futures
   - security
   - masters
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 There are professional Cassandras out there and their curse isn't coming from Apollo this time — but from the institutions they serve under.
