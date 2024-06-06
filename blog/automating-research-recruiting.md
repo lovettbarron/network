@@ -4,7 +4,7 @@ title: Automating Research Recruiting
 date: 2021-08-03
 slug: automating-research-recruiting
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png
+image: ../assets/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png
 description: How to think about and implementation automation in a user research recruiting process.
 feature: true
 type:
@@ -16,7 +16,7 @@ tags:
   - technical
   - howto
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 This is a continuation of the previous post — [thinking through research automation](https://andrewlb.com/thinking-through-automation/) — which deals more with a framework on how to approach automation tasks. This time, we’re going to dig into a specific example: how to automate a recruiting process.
