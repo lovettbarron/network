@@ -4,7 +4,7 @@ title: Learning with Pressure, Time, and Surface Area
 date: 2021-10-20
 slug: learning-with-pressure,-time,-and-surface-area
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/b6a010eda7b232f3c4298b7f6f3af7b1c466cc97-2300x1533.png
+image: ../assets/b6a010eda7b232f3c4298b7f6f3af7b1c466cc97-2300x1533.png
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - learning
   - process
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 Since moving to Copenhagen, one of the things I’ve been experimenting with has been how to learn very new (or functionally new) things effectively — especially given all the constraints of the job, family, and existing commitments and passions.
