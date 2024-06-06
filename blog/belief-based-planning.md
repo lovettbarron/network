@@ -4,7 +4,7 @@ title: Belief-based Planning
 date: 2024-05-15
 slug: belief-based-planning
 author: Andrew Lovett-Barron
-image: ../assets/belief-based-3.png
+image: ../assets/blog/belief-based-planning/belief-based-3.png
 description: Project Planning with and against core beliefs, with an illustrated example
 type:
   - post
@@ -12,6 +12,7 @@ tags:
   - strategy
   - workshop
 public: true
+modified: 2024-06-06T21:29
 ---
   
 
