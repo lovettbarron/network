@@ -6,7 +6,7 @@ slug: pedalpedal
 url: https://pedalpedal.cc
 alive: false
 author: Andrew Lovett-Barron
-image: ../assets/02b425128f4481f688f35537a60350db_md5.png
+image: ../assets/blog/old/02b425128f4481f688f35537a60350db_md5.png
 description: Cycling motivation App
 categories:
   - project
@@ -17,6 +17,7 @@ tags:
   - design
   - JS
 feature: true
+modified: 2024-06-06T21:09
 ---
 
 Pedel Pedel Club was a side project developed in 2016 while waiting for my security clearance to go through for the US Department of Defense. It is a cycling app that provides an easy reward and budgeting structure on putting in the miles that leverages two behavioural insights tied to new cyclists:
@@ -28,12 +29,12 @@ PPC was focused as a desktop app since my goal with it was to explore nice deskt
 
 PPC was featured as a top Strava app in Bicycling magazine, and was selected as one of the top 25 Strava API apps by Strava.
 
-[I made some cool slides here.](../assets/pedalpedal.pdf)
+[I made some cool slides here.](../_assets/pedalpedal.pdf)
 
 Here's my writeup from when it was still running:
 ---l
 
-![](../assets/77382fee9bcde097b811e148351cac1d_md5.png)
+![](../_assets/77382fee9bcde097b811e148351cac1d_md5.png)
 
 Pedal Pedal Club is a cycling application and community built for two reasons: to express a point of view about cycling as inclusive and exploratory, and to take develop a product from concept to launch to maturity.
 
@@ -52,15 +53,15 @@ After putting that together for her to use, I found myself playing around with i
 
 _Pedal Pedal Club submission video for Strava API contest_
 
-![](../assets/caf2cc43af2bb4cc2b73da32dba991c4_md5.png)
+![](../_assets/caf2cc43af2bb4cc2b73da32dba991c4_md5.png)
 
 The unstructured “Bucket List” idea (the original one) plays off of this idea of accumulating a pot of earnings, and putting those towards specific items.
 
-![](../assets/abaa6cccdf7c1c31e5f73cc08085aa58_md5.png)
+![](../_assets/abaa6cccdf7c1c31e5f73cc08085aa58_md5.png)
 
 The “Stacked Goal” concept is one where you work your way towards small or large goals, and have the satisfaction of claiming them one at a time.
 
-![](../assets/5547614b2b11076bf413077dd12d3d68_md5.png)
+![](../_assets/5547614b2b11076bf413077dd12d3d68_md5.png)
 
 The “One Two Marshmallow” concept was built around the idea of taking your progress and putting it towards a broader goal.
 
@@ -72,7 +73,7 @@ I ended up dropping a number of visual conventions (eg. circles) fairly quickly,
 
 From a design process perspective, I spent a lot of time sketching in pen, moving up to sketch wires, porting the sketch wires into invision, and testing the logic and flow that way.
 
-![](../assets/02b425128f4481f688f35537a60350db_md5.png)
+![](../_assets/02b425128f4481f688f35537a60350db_md5.png)
 
 ### Coding
 
@@ -86,18 +87,18 @@ Using this as a guide, I created a front-end (Backbone) and backend (Node, Expre
 
 Beyond the code work, there was also a lot I had to do in other areas. I’m in the process of defining a visual aesthetic for the brand (some that is not my forte), including iconography, photographic style, and voice. Some examples of that are below:
 
-![](../assets/3f917ac03203b5f938478e31cccf5ed5_md5.png)
+![](../_assets/3f917ac03203b5f938478e31cccf5ed5_md5.png)
 
 _Instagram has proven a key place for marketing cycling goods, so I’m exploring [an instagram account](https://web.archive.org/web/20190125072557/http://instagram.com/pedalpedalclub)._
 
 \_\_
 
-![](../assets/396a0801cd8326cc8c8e20b29489329c_md5.jpg)  
-![](../assets/472f5f0dc842f6e58d0f158e95faf946_md5.jpg)
+![](../_assets/396a0801cd8326cc8c8e20b29489329c_md5.jpg)  
+![](../_assets/472f5f0dc842f6e58d0f158e95faf946_md5.jpg)
 
 _Aspirational photography is key in getting new cyclists out and riding. I’ve gone for warmer tones, nature settings, and aim to use a 23mm f/2 lens where possible to emphasize the subject._
 
-![](../assets/1ee4d3fd2a2651a6540c8c373027620b_md5.png)
+![](../_assets/1ee4d3fd2a2651a6540c8c373027620b_md5.png)
 
 _After some mulling, stickers seemed a logical low-cost item to hand out. With luck, they’ll find their way onto bikes, computers, walls, etc._
 
