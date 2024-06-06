@@ -4,7 +4,7 @@ title: Sponge Cycles
 date: 2021-02-01
 slug: sponge-cycles
 author: Andrew Lovett-Barron
-image: ../assets/694806d445d9420288a69a39f768d1e268496076-1920x1080.png
+image: ../assets/blog/old/694806d445d9420288a69a39f768d1e268496076-1920x1080.png
 description: Identify and define the cycles where you absorb and become
 type:
   - post
@@ -15,6 +15,7 @@ tags:
   - learning
 feature: true
 public: true
+modified: 2024-06-06T21:09
 ---
 
 We all operate on cycles. Circadian, seasonal, fiscal, and academic — oscillating across frequencies that frame our day-to-day. I was made a lot more self-aware of these cycles when I became mostly remote and mostly independent professionally around 2017 — and had to quickly learn how to either ride out or fight against those rhythms. The thing that I’ve fought most arduously for is the Sponge Cycle.
@@ -33,7 +34,7 @@ For sponge cycles to be effective, they have to appear at regular intervals, be 
 
 ## **Regular Intervals**
 
-![](../assets/6d29512cdeee8b02362f7b837f3ce7185b6f87ca-1761x1321.png)
+![](../_assets/6d29512cdeee8b02362f7b837f3ce7185b6f87ca-1761x1321.png)
 
 Sponge cycles have to happen at regular intervals to be effective. Different people have different tolerances, but my big “sponge cycles” seem to happen every twelve to eighteen months. These are periods when “burn out” sets in, and I start itching for novelty. It took me a while to understand this in myself, and even longer to build systems around it.
 
@@ -51,7 +52,7 @@ Of my friends who do this best, Zahra Ebrahim of [Monumental Projects](https://m
 
 ## **Consistent Form**
 
-![](../assets/cef689e4a5118242758e86e95bb3bce96c90db27-1620x1080.png)
+![](../_assets/cef689e4a5118242758e86e95bb3bce96c90db27-1620x1080.png)
 
 Having a process in one's creative and exploratory endeavours is fundamental to actually following through. The best example I’ve seen of controlled sponge cycles is project-based, relatively open-ended design research. You have a budget, a timeline, and a question. You might have some leads, some populations or markets to explore, and based on all of that, an idea of what the outcome might look like. But really nothing else. I love this work, even though it’s often a) the hardest and b) the most anxiety-inducing kind of research project.
 
@@ -63,7 +64,7 @@ A sponge cycle needs to follow that kind of managed regularity for it to see con
 
 ## **Feedback**
 
-![](../assets/3d7c45f7e79a6fd6f0409b4d694cd1ad8d01627d-661x1000.png)
+![](../_assets/3d7c45f7e79a6fd6f0409b4d694cd1ad8d01627d-661x1000.png)
 
 Everyone gets stuck. Unfortunately, we often misdiagnose this entrapment as something localized — a person, a place, a particular problem. More often, the stagnation is something a bit more systemic. There are countless systemic factors that undermine ones progress (too many of which are exogenous and unjust), but some small fraction of those internal ones are a sponge cycle repeated and wasted.
 
@@ -75,7 +76,7 @@ How did I find myself in that spot? Anxiety. [As I wrote a few weeks ago](https:
 
 ## **Attack Decay Sustain Release**
 
-![](../assets/dc73252f103c5f5d850f8a221602cf543c39e19a-640x640.png)
+![](../_assets/dc73252f103c5f5d850f8a221602cf543c39e19a-640x640.png)
 
 Every sound has what’s called an [envelope](<https://en.wikipedia.org/wiki/Envelope_(music)>), a type of modulation to the component parts of that sound that make for the richness interpreted as notes, textures, effects, etc. A piano note has a quick attack, short decay, a long sustain, and a relatively long release following the key being lifted ([and then there are its harmonics](https://www.researchgate.net/publication/247693501_Synthesis_of_Acoustic_Timbres_using_Principal_Component_Analysis/figures?lo=1&utm_source=google&utm_medium=organic)[…](undefined)). Each note has its envelope and structure, providing consistency and variation over time, but it’s inevitably the combination of those notes that moves and inspires us.
 
