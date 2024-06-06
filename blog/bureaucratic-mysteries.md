@@ -4,7 +4,7 @@ title: Bureaucratic Mysteries
 date: 2018-02-01
 slug: bureaucratic-mysteries
 author: Andrew Lovett-Barron
-image: ../assets/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg
+image: ../assets/blog/old/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg
 description: ""
 type:
   - post
@@ -16,6 +16,7 @@ tags:
   - design
   - workshop
 public: true
+modified: 2024-06-06T21:08
 ---
 
 *These tools were taught as a workshop to the first* [_Code for Canada fellowship_](https://codefor.ca/) \*team in November 2017. Article originally published in [**Medium**](https://medium.com/knowsi/bureaucratic-mysteries-design-tools-for-government-9842decdf9fa)**\*_._**
@@ -101,11 +102,11 @@ When you are finished, you will have duplicate roles. This is fine, and you can 
 
 ### Worksheet
 
-![](../assets/25e17653ae2de059aad833286500dcbfad0f3fb6-792x612.jpg)
+![](../_assets/25e17653ae2de059aad833286500dcbfad0f3fb6-792x612.jpg)
 
 ### Example Scenario
 
-![](../assets/7190552e0b1c3c2903054ded566819f0068456f1-1400x1050.jpg)
+![](../_assets/7190552e0b1c3c2903054ded566819f0068456f1-1400x1050.jpg)
 
 ## Mapping the Pantheon (Mapping the Roles)
 
@@ -131,11 +132,11 @@ The path is important because it tells us where one smaller story starts, where 
 
 ### Worksheet
 
-![](../assets/fc14d103e2d5be4a6689c5ee17803d722fdd9ac5-792x612.jpg)
+![](../_assets/fc14d103e2d5be4a6689c5ee17803d722fdd9ac5-792x612.jpg)
 
 ### Example Scenario
 
-![](../assets/af56e6efbdeee7215c5ef80954ce6ef2259b3f21-1400x1049.jpg)
+![](../_assets/af56e6efbdeee7215c5ef80954ce6ef2259b3f21-1400x1049.jpg)
 
 ##
 
@@ -159,13 +160,13 @@ Looking at the two axes on the graph, plot where they might be. This particular 
 
 ### Worksheet
 
-![](../assets/0c87bcf4402d18a9bc054b5f73f5fb84db3f6a5a-792x612.jpg)
+![](../_assets/0c87bcf4402d18a9bc054b5f73f5fb84db3f6a5a-792x612.jpg)
 
 ###
 
 ### Example Scenario
 
-![](../assets/b5c91ceb3fbcbaf32b1ddc43008aed9eeafa4924-1400x1050.jpg)
+![](../_assets/b5c91ceb3fbcbaf32b1ddc43008aed9eeafa4924-1400x1050.jpg)
 
 ##
 
@@ -193,11 +194,11 @@ This activity is best done in a team setting, where everyone can contribute thei
 
 ### Worksheet
 
-![](../assets/1a7d3a5c8eb8c3844210ce9dbd3cc7efb1de99d9-792x612.jpg)
+![](../_assets/1a7d3a5c8eb8c3844210ce9dbd3cc7efb1de99d9-792x612.jpg)
 
 ### Example Scenario
 
-![](../assets/b8c5bfa101ad5d51533222be6334e2bd8af47a5a-1400x1049.jpg)
+![](../_assets/b8c5bfa101ad5d51533222be6334e2bd8af47a5a-1400x1049.jpg)
 
 ## What’s next?
 
