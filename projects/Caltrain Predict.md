@@ -6,7 +6,7 @@ slug: caltrain
 url: https://github.com/lovettbarron/GA-datasci
 alive: false
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/pasted-image-20231124071650.png
+image: ../assets/pasted-image-20231124071650.png
 description: Consent management platform for researchers
 categories:
   - project
@@ -15,7 +15,7 @@ tags:
   - datascience
   - dev
   - Python
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 ![](../_assets/pasted-image-20231124071650.png)
