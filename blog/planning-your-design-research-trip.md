@@ -4,7 +4,7 @@ title: Planning your Design Research Trip
 date: 2019-05-13
 slug: planning-your-design-research-trip
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/75befba317841cb0534ac4811671b5fda3ebcc7c-1512x754.jpg
+image: ../assets/75befba317841cb0534ac4811671b5fda3ebcc7c-1512x754.jpg
 description: ""
 type:
   - post
@@ -13,7 +13,7 @@ tags:
   - howto
   - methods
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 One of my more traumatic design research moments is something I barely remember. I had flown from Palo Alto to London to lead two weeks of field research, and had made a mistake. I had scheduled the first interview for about three hours after I stepped off the plane. As a result, I found myself with zero sleep in a new city, about to perform an expert interview. On someone who is a bit of a hero to me, none the less.

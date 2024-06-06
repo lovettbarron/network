@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 0 - The Prototype
 date: 2020-03-03
 slug: diverge-weekly-issue-0-the-prototype
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/d6b313018184b0def5e222f8ab288d61cb7ddfcd-2364x2956.jpg
+image: ../assets/d6b313018184b0def5e222f8ab288d61cb7ddfcd-2364x2956.jpg
 description: ""
 type:
   - post
@@ -13,7 +13,7 @@ tags:
   - design
   - security
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Welcome to the “preview” issue of Diverge Weekly, a weekly look at systemic design around the world. This is the first issue, the preview that was used for prototyping and testing the idea. You may not have gotten this in your inbox, but if you did, thank you for helping make this happen!

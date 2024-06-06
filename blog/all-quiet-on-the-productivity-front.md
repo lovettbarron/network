@@ -4,7 +4,7 @@ title: All Quiet on the Productivity Front
 date: 2021-02-07
 slug: productivity-1917
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/4ad423bb8c872151950235cb0961ec7c4cfbf396-480x300.jpg
+image: 4ad423bb8c872151950235cb0961ec7c4cfbf396-480x300.jpg
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - process
   - momentum
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 _Constant progress without being certain you’re getting anywhere._ Reflecting on the adrenal dropkick that was 1917, I realized this perpetually delayed sense of resolution was familiar in other aspects of my life too: the parts where plans and action come together.

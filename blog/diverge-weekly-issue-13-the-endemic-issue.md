@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 13 The Endemic Issue
 date: 2020-06-03
 slug: diverge-weekly-issue-13-the-endemic-issue
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg
+image: ../assets/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - diverge
   - policy
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 As the exogenous force of coronavirus has pummeled the globe, America has had its own endemic disease roar to the surface.

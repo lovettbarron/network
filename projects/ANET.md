@@ -6,7 +6,7 @@ slug: anet
 url: https://github.com/deptofdefense/anet
 alive: false
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/pasted-image-20231128125845.png
+image: ../assets/pasted-image-20231128125845.png
 description: Better software experiences for frontline soldiers
 categories:
   - project
@@ -15,7 +15,7 @@ tags:
   - security
   - NATO
   - JS
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 ![](../_assets/pasted-image-20231128125835.png)

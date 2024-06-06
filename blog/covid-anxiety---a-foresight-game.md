@@ -4,7 +4,7 @@ title: "Covid Anxiety: A Foresight Game"
 date: 2021-05-16
 slug: covid-anxiety
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/d139672de5ec5489edeac43601c98890b613159b-1420x946.jpg
+image: ../assets/d139672de5ec5489edeac43601c98890b613159b-1420x946.jpg
 description: A serious game about making serious decisions in a crisis
 feature: true
 type:
@@ -18,7 +18,7 @@ tags:
   - thinking
   - futures
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 _(Originally written March 23, 2020)_

@@ -4,7 +4,7 @@ title: Renewing Spaces
 date: 2021-11-16
 slug: renewing-spaces
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png
+image: ../assets/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png
 description: ""
 type:
   - post
@@ -13,7 +13,7 @@ tags:
   - theory
   - process
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Every few months, my wife and I change around our apartments configuration. The way this manifests is always a bit different. On the extreme end, we might move the bed into a different room, discard or donate a beloved piece of furniture, or engage in something vaguely reminiscent of a Konmari via scorched earth campaign.

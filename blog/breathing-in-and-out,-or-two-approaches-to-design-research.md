@@ -4,7 +4,7 @@ title: Breathing In and Out, or Two Approaches to Design Research
 date: 2021-06-09
 slug: breathing-in-and-out,-or-two-approaches-to-design-research
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg
+image: ../assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg
 description: ""
 type:
   - post
@@ -13,7 +13,7 @@ tags:
   - process
   - methods
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Like our bodies need oxygen, our businesses need a constant supply of knowledge and understanding to fuel our work. But accessing that knowledge isn’t always as intuitive as breathing.

@@ -4,7 +4,7 @@ title: Speculative Surplus
 date: 2021-01-25
 slug: speculative-surplus
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/c225207548b1e3e251e4d7f307cce5057cfc31cd-1190x755.png
+image: ../assets/c225207548b1e3e251e4d7f307cce5057cfc31cd-1190x755.png
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - fashion
   - futures
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 Whenever we see modern militaries, we’re witnessing industrialized production and movement of things on a scale that is difficult to comprehend. Whether it's the [engineering that goes into feeding deployed troops](https://gastropod.com/marching-on-our-stomachs-the-science-and-history-of-feeding-the-troops/) or [the rollout of new Army Greens to American service members](https://www.military.com/daily-news/2020/09/03/soldiers-begin-purchase-new-army-greens-program-offers-double-credit-uniforms.html), militaries represent a centralization of logistic and productive capacity that doesn’t exist anywhere else. But centralization isn’t always efficient or timely. Something is always left behind and this inevitable surplus of things must be addressed.

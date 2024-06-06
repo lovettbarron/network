@@ -6,7 +6,7 @@ slug: stupidfits
 url: https://github.com/lovettbarron/stupidfits
 alive: true
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/stupid-fits-2.png
+image: ../assets/stupid-fits-2.png
 description: Fashion Community App
 categories:
   - project
@@ -16,7 +16,7 @@ tags:
   - dev
   - design
   - JS
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Stupid Fits is an open-source fashion blogging platform. Based on a personal experiment, it was built on the theory that fashion hobbyists develop personal style through a cycle of mimicry, external validation, and self reflection. I had incrementally built and tested it with friends, and for a few months had become a fairly active online fashion community.

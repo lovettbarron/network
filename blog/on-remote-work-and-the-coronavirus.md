@@ -4,7 +4,7 @@ title: On Remote Work and the Coronavirus
 date: 2020-03-06
 slug: on-remote-work-and-the-coronavirus
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg
+image: ../assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg
 description: ""
 type:
   - post
@@ -13,7 +13,7 @@ tags:
   - remote
   - howto
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 With the coronavirus probably hitching a ride in one of your co-workers, it’s possible that your work (especially if you exist in that oh-so-nebulous world of knowledge work) is implementing a more permissive remote work policy.

@@ -15,7 +15,7 @@ tags:
   - art
   - app
   - maxmsp
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 ![](../_assets/max-jitter-video-mixer-1.png)

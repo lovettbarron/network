@@ -4,7 +4,7 @@ title: Diverge Weekly Issue 7 The Gradual Opening Issue
 date: 2020-04-21
 slug: diverge-weekly-issue-7-the-gradual-opening-issue
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/fa767ee6850cafdf3f81431fe11ba34a811ce75a-1180x1184.png
+image: ../assets/fa767ee6850cafdf3f81431fe11ba34a811ce75a-1180x1184.png
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - diverge
   - covid
 public: true
-modified: 2024-06-06T21:08
+modified: 2024-06-07T00:20
 ---
 
 My son had his first day back at daycare today (I’m writing this on Monday).

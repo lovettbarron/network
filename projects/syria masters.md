@@ -14,7 +14,7 @@ tags:
   - research
   - learning
 dropbox: https://www.dropbox.com/scl/fi/1qik5pvd0enqdshnhbhtq/andrewlovettbarron-thesis-final.pdf?rlkey=0s8mez17ghs7de9lh2hzvkmx0&dl=0
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 ## Dry Wells

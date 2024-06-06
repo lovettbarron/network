@@ -17,7 +17,7 @@ tags:
   - design
   - JS
 feature: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 Pedel Pedel Club was a side project developed in 2016 while waiting for my security clearance to go through for the US Department of Defense. It is a cycling app that provides an easy reward and budgeting structure on putting in the miles that leverages two behavioural insights tied to new cyclists:

@@ -4,7 +4,7 @@ title: Being a Good Amateur
 date: 2021-10-12
 slug: good-amateur
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/4ea51a535ce73ff74b7eb6879339950b1f652955-1356x1363.png
+image: ../assets/4ea51a535ce73ff74b7eb6879339950b1f652955-1356x1363.png
 description: ""
 type:
   - post
@@ -14,7 +14,7 @@ tags:
   - reflection
   - theory
 public: true
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 We’re amateurs continuously throughout our lives. For some skills — vital but sporadic skills — we remain that way. And that’s totally fine. Amateurism, over time, is its own skill to develop — and we should endeavour to leave amateur amateurism behind.

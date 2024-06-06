@@ -4,7 +4,7 @@ title: War against Stagnation
 date: 2021-03-28
 slug: stagnation-war
 author: Andrew Lovett-Barron
-image: ../assets/blog/old/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg
+image: ../assets/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg
 description: ""
 type:
   - post
@@ -12,7 +12,7 @@ tags:
   - cyclical
   - momentum
   - process
-modified: 2024-06-06T21:09
+modified: 2024-06-07T00:20
 ---
 
 The practice of design has fragmented and spread in so many different directions that it can be hard to keep up. But fundamental to the identity of “a designer” is **critical thinking **and** enthusiastic creating.** Whatever one's medium of expression — be it interface, typography, physical object, or service — this is a common trait of the successful designer.
