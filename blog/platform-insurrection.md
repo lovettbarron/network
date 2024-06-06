@@ -4,7 +4,7 @@ title: Platform Insurrection
 date: 2021-01-12
 slug: platform-insurrection
 author: Andrew Lovett-Barron
-image: ../assets/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg
+image: ../assets/blog/old/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg
 description: ""
 type:
   - post
@@ -12,13 +12,14 @@ tags:
   - security
   - systems
 public: true
+modified: 2024-06-06T21:09
 ---
 
 The past few years have been a conversation about power like I’ve never seen before. When Black Lives Matter activists ask why black men and women lose their lives at the hands of police or have poorer outcomes in countless other entanglements with the state and society — it’s ultimately a question of power. When we look at the racist immigration policies that manifest through the Trump administration, along with all those who envisioned and/or implemented it — it’s a conversation about power. And ultimately, we’re trying to understand the nature of power when we ask how the most densely concentrated police force in the country was overwhelmed by a mob following both, the goading of a democratically defeated leader with autocratic aspirations, and a conspiracy theory that’s metastasized within his electoral base.
 
 Power manifests in numerous ways, but there are a few mechanisms that stand out in recent times. There’s coercive power, as possessed by the state or someone wielding force (liiikkeee a state). There’s legitimate or what Max Weber described as “traditional” power, conveyed through social inertia like religion or social customs (which becomes enshrined in policy implementation). Wealth, now as ever, is a driving source of power. And then there’s charismatic power, which [the American founders nominally were so scared of](https://avalon.law.yale.edu/18th_century/fed68.asp).
 
-![](../assets/893aa61619841565b6a023760c4871286be74f4b-1100x619.png)
+![](../_assets/893aa61619841565b6a023760c4871286be74f4b-1100x619.png)
 
 We all know charismatic people. People who draw attention, prestige, and support — but also mold themselves to the constraints that maintaining that attention, prestige, and support demand. It’s a power that manifests in strange ways: oratory can unlock it, beauty can facilitate it, passion can give rise to it. Some people just wield it naturally. But it is distinguished as a capacity to persuade in ways that other sources of power cannot, and can create a kind of internalized consent by those who become persuaded. And Trump is a savant when it comes to this form of power.
 
@@ -26,7 +27,7 @@ The life experience of Donald Trump appears like an animal — singleminded in i
 
 There’s a lot going on, but I’d argue there are two complementary systemic failures that help explain the insanity of last week. The **first (and most egregious) systemic failure** is that Trump’s cooption of power enables him to influence individuals and institutions through the PRESENCE of the coercive power of the state in Trump’s control. [The powers of the presidency are massive because they leverage other sources of power, but are at least somewhat constrained in how that power is wielded.](https://bookshop.org/a/19778/9780374175368) These constraints have actually done a huge amount to protect American democracy over the past few years: [the Muslim ban and Family Separation plan](https://www.lawfareblog.com/travel-ban-family-separations-malevolence-incompetence-carelessness) being central examples of where institutions mostly resisted and corrected for these overreaches.
 
-![](../assets/9565af0848f4496527ad20e8cdec98fab54a07cb-2048x1366.png)
+![](../_assets/9565af0848f4496527ad20e8cdec98fab54a07cb-2048x1366.png)
 
 But power doesn’t need to be actively wielded to have a chilling effect. Nuclear deterrence is the most obvious example of this — an apocalyptic status quo that had leaders (and practitioners like [Stanislav Petrov](https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident)) constantly simulating the rationale of their opponents. The same happens in any power relationship: for those who have power over us, we attempt to game their intent and what might happen to us if we cross it. In the early days of the Trump administration, [acting Attorney General Sally Yates wouldn’t defend an illegal executive order from the President](https://www.newyorker.com/magazine/2017/05/29/why-sally-yates-stood-up-to-trump) and was fired as a result. Decision-makers internalize these examples, simulating what might happen if they too step out of line. Many find it easier to simply fall in with that simulated safe path.
 
@@ -34,11 +35,11 @@ Unfortunately, it wasn’t just civil servants who experienced this. The **secon
 
 When supporters of the defeated president stormed the Capitol last Wednesday (I’m writing this on Saturday, Jan 9), they were consenting participants under the sway of their charismatic leader. They had self-organized using the platforms that might have banned them, but for the coercive power held by their leader staying moderating actions against hate speech, incitement of violence, and similar. With this content readily available and interactive, the platforms ended up facilitating the indoctrination and radicalization of many Trump supporters. [The story of Ashli Babbit](https://www.washingtonpost.com/dc-md-va/2021/01/09/ashli-babbitt-capitol-shooting-trump-qanon/), the Trump supporter killed attempting to break into the Speaker’s Lobby, is a stunning example of that: someone looking for meaning, not properly equipped to deal with the content they were being exposed to in their [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble).
 
-![](../assets/fe506b456bc4c5190f06f83d2c903ed968b97b3f-1024x536.jpg)
+![](../_assets/fe506b456bc4c5190f06f83d2c903ed968b97b3f-1024x536.jpg)
 
 But social media platforms weren’t the only thing deterred. During the George Floyd protests only six months ago, National Guard units were deployed across numerous cities, including extensively within the District of Columbia. The now iconic comparative photo of a national guard unit standing on the steps of the Lincoln Memorial vs the chaos that befell the Capitol building two miles and six months later is poignant, not just for what it says about who force is levied against, but also what force-wielding institutions felt empowered to do.
 
-![](../assets/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg)
+![](../_assets/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg)
 
 The Capitol Police weren’t prepared to defend the Capitol against the insurrectionary urges of the sitting President’s supporters. The skin colour of the majority of the protestors marching on the Capitol undoubtedly had something to do with it, as did structural support for some of the symbology that the rioters carried, including the “Blue Lives Matter” flags. But I’d argue that the most significant Capitol Police leadership was deterred from greater preparedness because these were, ultimately, the President’s people. They were marching to the Capitol after hearing a speech from the sitting president. [It were as though Shay were in the White House, urging his rebellion on instead of marching out to quash it](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/shays-rebellion/). How might that president have reacted if his supporters were being warily eyed by Multicam clad soldiers? Would he have lashed out? The balance of powers that the United States so carefully enshrined is becoming self-consuming and self-destructive.
 
@@ -46,7 +47,7 @@ We’re seeing the cumulative effects of several different kinds of system failu
 
 So, ultimately Ashli Babbit died for nothing — a persuaded protestor in an algorithmically facilitated mob. Officer Sicknick (and possibly Officer Liebengood, who took his own life on Sunday) died because they were structurally prevented from having the support they needed in a predictable moment of crisis. Had the coercive threat of force not hung over the Capitol Police, and had they been empowered to wield coercive force against the protestors to protect the seat of legitimating democratic power in the United States, then things would be quite different now. But they didn’t. Charismatic, demagogic, parasitic power won out in that critical moment where 1/6/21 would have been a date for which none of us really cared.
 
-![](../assets/88d5343e2b9b93301b6f42977eba62e83e7459a0-466x463.png)
+![](../_assets/88d5343e2b9b93301b6f42977eba62e83e7459a0-466x463.png)
 
 And it is nowhere near over. I suspect that this event, and social media platform’s unwillingness to moderate extremist content that falls in line with their home state’s leadership, might mean some serious regulatory changes are coming to these platforms — and I hope that’s a good thing. We still need to square how these platforms are both global and deeply, painfully domestic to America. [WhatsApp caused the emergence of mob violence in India](https://www.washingtonpost.com/politics/2020/02/21/how-misinformation-whatsapp-led-deathly-mob-lynching-india/), [a genocide was facilitated on Facebook](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html), and last Wednesday could have easily become a bloodbath thanks to Twitter and Facebook's inaction.
 
