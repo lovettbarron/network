@@ -4,17 +4,15 @@ title: Diverge Weekly Issue 4 The Cycles Issue
 date: 2020-03-31
 slug: diverge-weekly-issue-4-the-cycles-issue
 author: Andrew Lovett-Barron
-image: ../assets/a13f0d99146acae1cf1f68ccc20a3a76041bbc18-468x304.jpg
+image: a13f0d99146acae1cf1f68ccc20a3a76041bbc18-468x304.jpg
 description: ""
-type:
-  - post
 tags:
   - diverge
   - design
   - process
   - cyclical
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 **Design is a cyclical action.** While individual artifacts are ejected from the process (like this newsletter and its upcoming visual redesign), the actual process of design is something ongoing.

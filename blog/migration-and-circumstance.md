@@ -4,16 +4,14 @@ title: Migration and Circumstance
 date: 2021-07-06
 slug: migration-and-circumstance
 author: Andrew Lovett-Barron
-image: ../assets/9c25896edb7cb590d2e17f64296772d445bd6130-1920x1247.png
+image: 9c25896edb7cb590d2e17f64296772d445bd6130-1920x1247.png
 description: ""
-type:
-  - post
 tags:
   - thinking
   - process
   - abroad
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 _As a forewarning, this is one of those “I’m working through something” posts and trying to wrangle my own thinking. I might come back and add to it as my thinking evolves._

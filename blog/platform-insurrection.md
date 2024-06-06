@@ -4,15 +4,13 @@ title: Platform Insurrection
 date: 2021-01-12
 slug: platform-insurrection
 author: Andrew Lovett-Barron
-image: ../assets/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg
+image: 0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg
 description: ""
-type:
-  - post
 tags:
   - security
   - systems
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 The past few years have been a conversation about power like I’ve never seen before. When Black Lives Matter activists ask why black men and women lose their lives at the hands of police or have poorer outcomes in countless other entanglements with the state and society — it’s ultimately a question of power. When we look at the racist immigration policies that manifest through the Trump administration, along with all those who envisioned and/or implemented it — it’s a conversation about power. And ultimately, we’re trying to understand the nature of power when we ask how the most densely concentrated police force in the country was overwhelmed by a mob following both, the goading of a democratically defeated leader with autocratic aspirations, and a conspiracy theory that’s metastasized within his electoral base.

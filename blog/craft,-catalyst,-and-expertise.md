@@ -4,10 +4,8 @@ title: Craft, Catalyst, and Expertise
 date: 2021-05-24
 slug: craft,-catalyst,-and-expertise
 author: Andrew Lovett-Barron
-image: ../assets/f306d3c3dea980e9a7481a35ca9bd2aae250693c-1280x720.png
+image: f306d3c3dea980e9a7481a35ca9bd2aae250693c-1280x720.png
 description: Considering craft-based disciplines and catalyzing expertise
-type:
-  - post
 tags:
   - learning
   - maker
@@ -15,7 +13,7 @@ tags:
   - design
 feature: true
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 It’s really hard to understand the value of expertise in a discipline from the outside. Or put another way, the language of disciplines can make identifying expertise difficult.

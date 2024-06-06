@@ -4,16 +4,14 @@ title: Reconstructive Design Process
 date: 2021-04-25
 slug: reconstructive-design-process
 author: Andrew Lovett-Barron
-image: ../assets/44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png
+image: 44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png
 description: Consciously metabolizing past design work to create something new
 feature: true
-type:
-  - post
 tags:
   - design
   - process
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 I love Rick Owens’ runway shows. They’re a consistent (and he is remarkably consistent) source of visual inspiration that I find bleeds into a few different sources of cultural and creative output. And as a designer consuming design work from a different material context, it’s almost inevitable that I get drawn into investigating process.

@@ -4,15 +4,13 @@ title: Legibility in Design
 date: 2021-05-09
 slug: legibility-in-design
 author: Andrew Lovett-Barron
-image: ../assets/f3927a0562cab57533dda5b6a9a9682c64e6e073-850x499.png
+image: f3927a0562cab57533dda5b6a9a9682c64e6e073-850x499.png
 description: ""
-type:
-  - post
 tags:
   - design
   - process
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 Design is a weird drug, and at least in the software world, we’re collectively high. Since I got started in this world, there’s been a huge amount of work done to democratize design — and I’m an outcome of that. Educated in political science, my gateway drug to design was the building of hardware and software instruments and installation art in my non-academic time. The thing that made me a good designer (whatever that means) was the systems thinking and research rigour that I learned in political science. However, the thing that’s kept me interested in design — apart from the hedonistic joy of making — is the process.

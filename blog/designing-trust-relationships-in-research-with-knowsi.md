@@ -4,10 +4,8 @@ title: Designing trust relationships in research with Knowsi
 date: 2020-10-09
 slug: designing-trust-relationships-in-research-with-knowsi
 author: Andrew Lovett-Barron
-image: ../assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png
+image: 6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png
 description: ""
-type:
-  - post
 tags:
   - design
   - research
@@ -15,7 +13,7 @@ tags:
   - howto
   - casestudy
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 _Originally published on [**Sage Ocean**](https://ocean.sagepub.com/blog/designing-trust-relationships-in-research-with-knowsi) on October 9, 2020._

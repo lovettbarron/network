@@ -4,15 +4,13 @@ title: Failing States Fail Terrorists Too
 date: 2020-02-20
 slug: failing-states-fail-terrorists-too
 author: Andrew Lovett-Barron
-image: ../assets/9ce46e8b40b7bcae2eb1de52566b76254faff616-937x528.jpg
+image: 9ce46e8b40b7bcae2eb1de52566b76254faff616-937x528.jpg
 description: ""
-type:
-  - post
 tags:
   - security
   - masters
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 _This was my term paper for the first module in my Security Studies MA, written December 2019. Sharing here as a writing sample and because I enjoyed the process of writing it._

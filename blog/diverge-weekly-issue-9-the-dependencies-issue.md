@@ -4,15 +4,13 @@ title: Diverge Weekly Issue 9 The Dependencies Issue
 date: 2020-05-05
 slug: diverge-weekly-issue-9-the-dependencies-issue
 author: Andrew Lovett-Barron
-image: ../assets/1bda5a1705f148e0bdd47b510a6b7cc251878486-1180x786.jpg
+image: 1bda5a1705f148e0bdd47b510a6b7cc251878486-1180x786.jpg
 description: ""
-type:
-  - post
 tags:
   - diverge
   - fashion
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 First, thank you and welcome to all the new subscribers, and to [Hillary Predko](http://hillarypredko.com/) for sharing Diverge in [The Prepared](https://theprepared.org/). This is a weird newsletter that aspires to be about design and global affairs — but I take some latitudes.

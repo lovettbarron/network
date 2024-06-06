@@ -4,16 +4,14 @@ title: Better Notes for Design Research
 date: 2019-05-06
 slug: better-notes-for-design-research
 author: Andrew Lovett-Barron
-image: ../assets/e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg
+image: e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg
 description: ""
-type:
-  - post
 tags:
   - research
   - methods
   - practice
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 At the heart of great design research is note taking. Our job is to go into new environments, learn from and capture the experiences of others, and transform that knowledge into insight and action. Great notes and references serve as the bedrock of this process: making sure that you can represent your participant’s experiences accurately and not project your own on top.

@@ -4,10 +4,8 @@ title: The Decay of Digital Things
 date: 2021-03-09
 slug: digital-decay
 author: Andrew Lovett-Barron
-image: ../assets/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png
+image: bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png
 description: A book chapter I wrote on how internet connected objects decay
-type:
-  - post
 tags:
   - decay
   - interface
@@ -16,7 +14,7 @@ tags:
   - theory
 feature: true
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 We have spent a decade building the consumer Internet of Things with an ethos of “fail fast”. Unfortunately, many of the things we built failed to embrace the withering effect that time has on business, technology, intention, and capital. Consumers have been left holding connected objects that no longer connect, and the question of why investments in the “future” of physical things have resulted in such ephemeral value.

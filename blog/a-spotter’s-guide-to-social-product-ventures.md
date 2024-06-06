@@ -5,15 +5,13 @@ slug: a-spotter’s-guide-to-social-product-ventures
 author: Andrew Lovett-Barron
 image: c5be1d903e6e21db480a648bbbb7db5451460f72-1280x960.jpg
 description: Business Model Canvas-like tools for critiquing social enterprises building software
-type:
-  - post
 tags:
   - fellowship
   - theory
   - systems
 publish: true
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 How do you know that a software business with a social mission is actually a Social Product Venture? Some might be able to glance at a business and declare “I know it when I see it”, but when dealing with the capital required to hire the best talent to build impactful social good products, we need a more effective and less inscrutable spotter’s guide.

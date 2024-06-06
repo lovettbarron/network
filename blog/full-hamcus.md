@@ -4,15 +4,13 @@ title: "Full Hamcus: Finding the Spark in Sci-fi Workwear"
 date: 2021-01-17
 slug: full-hamcus
 author: Andrew Lovett-Barron
-image: ../assets/ec05df44eacddcc6bdf0965d784a9fdaa774abee-1213x1068.png
+image: ec05df44eacddcc6bdf0965d784a9fdaa774abee-1213x1068.png
 description: ""
-type:
-  - post
 tags:
   - fashion
   - futures
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 This essay was originally published on the** [TCHWR blog](https://www.tchwr.com/2021/01/03/full-hamcus-finding-the-spark-in-scifi-workwear/).**

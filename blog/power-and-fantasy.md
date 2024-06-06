@@ -4,14 +4,12 @@ title: Power and Fantasy — Hamcus SS21
 date: 2021-04-04
 slug: hamcus-ss21
 author: Andrew Lovett-Barron
-image: ../assets/hamcus-3840x2560.jpg
+image: hamcus-3840x2560.jpg
 description: ""
-type:
-  - post
 tags:
   - fashion
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 With a reflective approach to narrative storytelling, Hamcus builds familiar yet foreign worlds through unique construction, distinctive dyeing techniques, and a well-considered design language. [I wrote an intro to Hamcus earlier this year](https://andrewlb.com/full-hamcus/) that should serve as a deeper introduction, but suffice it to say that the first of six drops in the Spring/Summer season of Hamcus continues the iterative refinement that I’ve come to admire in Tuff Leung’s work.

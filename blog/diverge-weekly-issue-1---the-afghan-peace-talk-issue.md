@@ -4,14 +4,12 @@ title: Diverge Weekly Issue 1 - The Afghan Peace Talk Issue
 date: 2020-03-10
 slug: diverge-weekly-issue-1-the-afghan-peace-talk-issue
 author: Andrew Lovett-Barron
-image: ../assets/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png
+image: 52afa4510617c1071602a7064154b5cc75591879-2000x1333.png
 description: ""
-type:
-  - post
 tags:
   - diverge
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 For most of my adult life, my country (one of them anyway, being a dual citizen between the US and Canada) [has been at war somewhere else in the world](https://www.aljazeera.com/indepth/interactive/2020/02/war-afghanistan-2001-invasion-2020-taliban-deal-200229142658305.html). But the experience of that war for American civilians was often ambiguous or bureaucratic, not tactile or kinetic.

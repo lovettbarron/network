@@ -4,16 +4,14 @@ title: Memory Toolkits
 date: 2021-04-19
 slug: memory-toolkits
 author: Andrew Lovett-Barron
-image: ../assets/5b355e4c9a508314a3925dac85e57b6f4289c01c-2000x1031.jpg
+image: 5b355e4c9a508314a3925dac85e57b6f4289c01c-2000x1031.jpg
 description: ""
-type:
-  - post
 tags:
   - learning
   - process
   - followup
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 Sometime earlier this year, I think I had reached a personal threshold for managing information consumption where things just broke down.

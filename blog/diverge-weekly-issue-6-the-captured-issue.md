@@ -4,15 +4,13 @@ title: Diverge Weekly Issue 6 The Captured Issue
 date: 2020-04-14
 slug: diverge-weekly-issue-6-the-captured-issue
 author: Andrew Lovett-Barron
-image: ../assets/92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg
+image: 92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg
 description: ""
-type:
-  - post
 tags:
   - diverge
   - strategy
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 I’ve been reading and thinking about foresight — especially as it relates to the current pandemic and security. As a result, I’ve been getting interested in why we believe what we believe about the future.

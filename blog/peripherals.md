@@ -4,16 +4,14 @@ title: Peripherals
 date: 2021-08-08
 slug: peripherals
 author: Andrew Lovett-Barron
-image: ../assets/21519d63c4aca9fd6f839a624f1104a8dcf22144-1280x720.jpg
+image: 21519d63c4aca9fd6f839a624f1104a8dcf22144-1280x720.jpg
 description: ""
-type:
-  - post
 tags:
   - interface
   - design
   - theory
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 I’ve had a long term obsession with peripherals. Peripherals are objects (usually interaction mechanisms) that connect to computers to extend their capability. Today, a usable computer is now the size of our thumb ([or smaller, if you want to be pedantic about it](https://sudonull.com/post/11594-The-smallest-Linux-computers)), and so we’re pretty quickly reaching that point where computation (though maybe not connection) is functionally ubiquitous — in other words, we connect as much to our environment as any given computer. Similarly, peripherals range in form and function from arrays of tiny LCD buttons like the brilliant [Elgato Stream Deck](https://www.elgato.com/en/stream-deck-xl) (I own two and use them manically), to [eye tracking bars](https://gaming.tobii.com/product/eye-tracker-5/) that sits under our monitor, to the six degree of freedom [Space Mouse](https://3dconnexion.com/uk/product/spacemouse-wireless/) that — while initially counterintuitive — facilitates navigation through 3D space that’s incredibly natural. There are countless others — these are just a handful of the ones that I know. For this post’s purposes, we’re interested in peripherals that facilitate interaction with computers. A joystick, not a printer.

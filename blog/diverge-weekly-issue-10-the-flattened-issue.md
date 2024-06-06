@@ -4,14 +4,12 @@ title: Diverge Weekly Issue 10 The Flattened Issue
 date: 2020-05-12
 slug: diverge-weekly-issue-10-the-flattened-issue
 author: Andrew Lovett-Barron
-image: ../assets/51d8deec008632ca1cc52368c7dcf306cddbd368-1922x1200.jpg
+image: 51d8deec008632ca1cc52368c7dcf306cddbd368-1922x1200.jpg
 description: ""
-type:
-  - post
 tags:
   - diverge
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 First, I want to share a point of gratitude. My small business, [Knowsi](https://knowsi.com/), was awarded the [Sage Ocean Concept Grant](https://ocean.sagepub.com/blog/tools-and-tech/concept-grant-winner-knowsi-interview) this week by Sage Publishing. Knowsi is a solo project I’ve been slowly developing over the past year with the goal of improving informed consent practices in user research. It still has a long way to go, but I’m incredibly grateful for the help of the Sage Ocean team as well as all the friends, colleagues, research participants, and customers who have helped Knowsi in its first year. The goal over the next bit will be to extend it to support social science research needs as well (as well as generally get it out of public beta, whatever that means).

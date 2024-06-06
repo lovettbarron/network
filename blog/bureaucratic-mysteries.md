@@ -4,10 +4,8 @@ title: Bureaucratic Mysteries
 date: 2018-02-01
 slug: bureaucratic-mysteries
 author: Andrew Lovett-Barron
-image: ../assets/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg
+image: 29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg
 description: ""
-type:
-  - post
 tags:
   - talk
   - report
@@ -16,7 +14,7 @@ tags:
   - design
   - workshop
 public: true
-modified: 2024-06-07T00:20
+modified: 2024-06-07T01:30
 ---
 
 *These tools were taught as a workshop to the first* [_Code for Canada fellowship_](https://codefor.ca/) \*team in November 2017. Article originally published in [**Medium**](https://medium.com/knowsi/bureaucratic-mysteries-design-tools-for-government-9842decdf9fa)**\*_._**
